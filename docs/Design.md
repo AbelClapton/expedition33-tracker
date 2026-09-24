@@ -213,7 +213,7 @@ This section reflects current shipped UI, including Stitch-aligned collection wo
 - A wiki picto pin borrows the engine ids behind its name (`pictoPinTrackedKeys`) so the map and the Library
   write the same key - the same trick `foundKind: "picto"` uses for found state.
 - **A collected entry cannot be tracked.** Enforced at the store, not at the button:
-  `toggleTrackedKey` refuses to *add* a key whose entry is found (`entryIsFound`, reading the layer's found
+  `toggleTrackedKey` refuses to _add_ a key whose entry is found (`entryIsFound`, reading the layer's found
   key from `src/hooks/foundKeys.ts`), every found writer calls `untrackKeys` for the entries it just
   collected, and `useTracking` reconciles the stored list once per tab so a pair saved before this rule is
   dropped on the next load. Removing stays open, so a stale pair can always be cleared. In the UI the Track
@@ -281,7 +281,7 @@ This section reflects current shipped UI, including Stitch-aligned collection wo
   reads the per-layer keys in one go for the map; the control's header shows progress across all tracked
   layers.
 - Every pin card carries the same **Found checkbox** as the Library (written as markup, because a card is an
-  HTML string), on the same row as the Track chip. A picto pin marks *every* engine pickup behind its name,
+  HTML string), on the same row as the Track chip. A picto pin marks _every_ engine pickup behind its name,
   since a pin stands for the picto while the tracker stores one entry per pickup. Two guards keep the card
   alive while you tick items off:
   - the delegated card handler listens in the **capture** phase, because Leaflet closes the popup on any
@@ -299,6 +299,7 @@ This section reflects current shipped UI, including Stitch-aligned collection wo
   `entities` marks the popup everywhere in the file, so the builder derives `summary` from it rather than
   every call site passing both flags. The summary deliberately carries no controls: Leaflet tooltips are
   not interactive, so a checkbox in one could never be clicked.
+
 - Pins for a Library layer carry that entry's own art (`detailsFor: entryDetailsFor(layerId)`), so their
   full card is the entry's: hero art, chips, stat grid, lumina effect or scalers/passives, and where to
   find it. Only the layer that lists what sits inside it (`listsEntities`, Locations) renders the entity

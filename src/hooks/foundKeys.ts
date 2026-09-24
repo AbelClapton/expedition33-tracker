@@ -20,5 +20,7 @@ export function foundEntriesKey(layerId: string) {
 
 /** The found key behind a layer's entries, whatever kind of layer it is. */
 export function foundKeyFor(layerId: string) {
-  return layerId === PICTOS_LAYER_ID ? FOUND_PICTOS_KEY : foundEntriesKey(layerId);
+  return layerId === PICTOS_LAYER_ID
+    ? FOUND_PICTOS_KEY
+    : foundEntriesKey(layerId);
 }

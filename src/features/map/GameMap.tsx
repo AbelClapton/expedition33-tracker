@@ -354,7 +354,11 @@ function pinVisible(pin: Pin, showAreaPins: boolean): boolean {
  * Track use. A name can hold several engine entries (one per pickup), so asking for
  * one pickup legitimately lights up every pin that shares the picto's name.
  */
-function pinIsRequested(layer: MapLayer, pin: Pin, focus: FocusTarget): boolean {
+function pinIsRequested(
+  layer: MapLayer,
+  pin: Pin,
+  focus: FocusTarget,
+): boolean {
   if (layer.id !== focus.layerId) return false;
   if (String(pin.id) === focus.pinId) return true;
 
@@ -764,8 +768,7 @@ export default function GameMap() {
    * found filter does not speak about.
    */
   const pinFocused = useCallback(
-    (layer: MapLayer, pin: Pin) =>
-      !focus || pinIsRequested(layer, pin, focus),
+    (layer: MapLayer, pin: Pin) => !focus || pinIsRequested(layer, pin, focus),
     [focus],
   );
 
