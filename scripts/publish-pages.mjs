@@ -53,9 +53,13 @@ function capture(command, args) {
 
 function build() {
   fs.rmSync(OUT, { recursive: true, force: true });
-  // `next dev` leaves route types for the parked tile handler in `.next/dev/types`, and
-  // type-checking the export then fails on a module that no longer exists for the build.
-  fs.rmSync(path.join(ROOT, ".next"), { recursive: true, force: true });
+  // `next dev` leaves route types for the parked tile handler under `.next/dev/types`, and
+  // type-checking the export then fails on a module the build cannot see. Only those types
+  // go, never `.next/cache`: that is where the downloaded `next/font` files live, and the
+  // build has to reach out to Google again if it is missing.
+  for (const stale of [".next/dev/types", ".next/types"]) {
+    fs.rmSync(path.join(ROOT, stale), { recursive: true, force: true });
+  }
 
   fs.renameSync(API_DIR, API_PARKED);
   try {
