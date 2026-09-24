@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[69897,["/expedition33-tracker/_next/static/chunks/2ua7ok-j-8ywj.js","/expedition33-tracker/_next/static/chunks/0n_9-k9o01iaq.js","/expedition33-tracker/_next/static/chunks/3dsqgkk9un8kx.js","/expedition33-tracker/_next/static/chunks/2y6el--9vqhkw.js","/expedition33-tracker/_next/static/chunks/0aco7c08dt2iw.js"],""]
+3:I[3577,["/expedition33-tracker/_next/static/chunks/2ua7ok-j-8ywj.js","/expedition33-tracker/_next/static/chunks/0n_9-k9o01iaq.js","/expedition33-tracker/_next/static/chunks/3dsqgkk9un8kx.js","/expedition33-tracker/_next/static/chunks/2y6el--9vqhkw.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","meta",null,{"httpEquiv":"refresh","content":"0; url=/expedition33-tracker/collections/"}],["$","p",null,{"className":"p-8 text-center text-sm","children":["Opening the ",["$","$L2",null,{"href":"/collections","children":"Picto Library"}],"..."]}]],[["$","script","script-0",{"src":"/expedition33-tracker/_next/static/chunks/0aco7c08dt2iw.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"z-wc4lULxni7DZYm9ZyPb"}
+5:null
