@@ -1,4 +1,5 @@
 import { pictos } from "@/engine/data";
+import type { Picto } from "@/engine/types";
 
 const normalise = (value: string) =>
   value.toLowerCase().replace(/[^a-z0-9]+/g, "");
@@ -12,23 +13,31 @@ const NAME_ALIASES: Record<string, string> = {
 };
 
 /**
- * Engine picto ids grouped by name.
+ * Engine picto entries grouped by name.
  *
- * The map's pins only carry a `pictoId` when a name is unambiguous, so matching
- * on the name links more of them (40 of 42 pins). The two that stay unlinked are
- * spelling differences in the wiki, e.g. "Augment Counter I" vs the tracker's
- * "Augmented Counter I".
+ * A name can hold several entries because the tracker stores one per pickup, so
+ * a pin links to a *set* rather than an id. The map's pins only carry a
+ * `pictoId` when a name is unambiguous, which is why this index exists at all.
  */
-const ENGINE_IDS_BY_NAME: Record<string, string[]> = (() => {
-  const index: Record<string, string[]> = {};
+export const ENGINE_PICTOS_BY_NAME: Record<string, Picto[]> = (() => {
+  const index: Record<string, Picto[]> = {};
 
   for (const picto of pictos) {
     const key = normalise(picto.name);
-    index[key] = [...(index[key] ?? []), picto.id];
+    index[key] = [...(index[key] ?? []), picto];
   }
 
   return index;
 })();
+
+/** The engine entries behind a pin's name, alias-aware. */
+export function enginePictosFor(name: string): Picto[] {
+  const key = normalise(name);
+
+  return (
+    ENGINE_PICTOS_BY_NAME[key] ?? ENGINE_PICTOS_BY_NAME[NAME_ALIASES[key]] ?? []
+  );
+}
 
 /**
  * A pin counts as found when any picto sharing its name is marked found, which
@@ -36,9 +45,16 @@ const ENGINE_IDS_BY_NAME: Record<string, string[]> = (() => {
  * pickup, so the pin cannot be narrowed to a single id).
  */
 export function isPictoPinFound(name: string, foundIds: Set<string>): boolean {
-  const key = normalise(name);
-  const ids =
-    ENGINE_IDS_BY_NAME[key] ?? ENGINE_IDS_BY_NAME[NAME_ALIASES[key]] ?? [];
+  return enginePictosFor(name).some((picto) => foundIds.has(picto.id));
+}
 
-  return ids.some((id) => foundIds.has(id));
+/**
+ * The Track keys a wiki picto pin answers to.
+ *
+ * The Library keys pictos by their engine id while the map's pins carry wiki
+ * ids, so a pin has to borrow the ids behind its name - exactly the way found
+ * state is matched. Empty when no engine picto shares the name.
+ */
+export function pictoPinTrackedKeys(name: string, layerId: string): string[] {
+  return enginePictosFor(name).map((picto) => `${layerId}:${picto.id}`);
 }

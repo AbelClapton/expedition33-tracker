@@ -1,0 +1,1270 @@
+[
+  {
+    "id": "521830",
+    "name": "Chroma 19,990",
+    "lat": -30.18312,
+    "lng": -32.06776,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "Next to a Nevron corpse."
+  },
+  {
+    "id": "518753",
+    "name": "Chroma x 2,130",
+    "lat": 69.24058,
+    "lng": -16.8682,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Next to the cannon."
+  },
+  {
+    "id": "475498",
+    "name": "Chroma x1,220",
+    "lat": -69.86989,
+    "lng": -21.17101,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: On the chest behind the stage"
+  },
+  {
+    "id": "475499",
+    "name": "Chroma x1,220",
+    "lat": -70.00669,
+    "lng": -21.94716,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: On the upper walkway. Climb the Rope to get up"
+  },
+  {
+    "id": "504301",
+    "name": "Chroma x1,220",
+    "lat": -69.60697,
+    "lng": -21.44522,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Available in Victorifo's house after waking him up by shooting the mirror from outside. When you try to leave the house after taking the Chroma he will fight your party."
+  },
+  {
+    "id": "452816",
+    "name": "Chroma x1,248",
+    "lat": -2.63579,
+    "lng": -37.60872,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Found within Old Lumiere - In the area where Chromatic Danseuse is."
+  },
+  {
+    "id": "518858",
+    "name": "Chroma x1,248",
+    "lat": -3.03408,
+    "lng": -38.38488,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Near the patrolling Chevalières, there is a building on the left (if you are facing away from the Axon). On the right side of the building, there is a very narrow passage. Destroy the boxes to get to the Chroma."
+  },
+  {
+    "id": "448550",
+    "name": "Chroma x1,305",
+    "lat": -68.54228,
+    "lng": -17.65617,
+    "note": "Location: In the ruined camp on the hill"
+  },
+  {
+    "id": "448561",
+    "name": "Chroma x1,305",
+    "lat": -72.39882,
+    "lng": -16.82246,
+    "note": "Location: Amongst the ruined crates, behind and to the right of the Twilight Quarry entrance"
+  },
+  {
+    "id": "492395",
+    "name": "Chroma x1,305",
+    "lat": -70.45151,
+    "lng": -14.22562,
+    "approx": true,
+    "area": "Esquie's Nest",
+    "note": "After defeating Francois, climb the Rope, and this will be on your left as you follow the path."
+  },
+  {
+    "id": "504086",
+    "name": "Chroma x1,305",
+    "lat": -70.58451,
+    "lng": -15.00178,
+    "approx": true,
+    "area": "Esquie's Nest",
+    "note": "Behind a pillar"
+  },
+  {
+    "id": "454883",
+    "name": "Chroma x1,470",
+    "lat": 36.73888,
+    "lng": -38.91876,
+    "approx": true,
+    "area": "Visages",
+    "note": "On the way to the Path of Anger, on the left side just before going through the red face."
+  },
+  {
+    "id": "504410",
+    "name": "Chroma x1,580",
+    "lat": -65.82078,
+    "lng": -15.0172,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: Next to the dead Greatsword Cultist. Jump down the ledge past the patrolling Greatsword Cultist"
+  },
+  {
+    "id": "454861",
+    "name": "Chroma x1,763",
+    "lat": 41.70573,
+    "lng": -4.77343,
+    "approx": true,
+    "area": "Sirene",
+    "note": "In the room of Glissando, on the left side behind the pillar."
+  },
+  {
+    "id": "454863",
+    "name": "Chroma x1,763",
+    "lat": 41.40732,
+    "lng": -5.54959,
+    "approx": true,
+    "area": "Sirene",
+    "note": "After exiting the Tisseur chamber, don't miss the shelves on the left side."
+  },
+  {
+    "id": "448607",
+    "name": "Chroma x1,775",
+    "lat": -68.07642,
+    "lng": -21.79016,
+    "note": "Location: In the ruined camp guarded by the Chromatic Bruler"
+  },
+  {
+    "id": "504633",
+    "name": "Chroma x1,975",
+    "lat": -41.70573,
+    "lng": -16.50857,
+    "approx": true,
+    "area": "Forgotten Battlefield"
+  },
+  {
+    "id": "517897",
+    "name": "Chroma x1,975",
+    "lat": -42.00276,
+    "lng": -17.28473,
+    "approx": true,
+    "area": "Forgotten Battlefield",
+    "note": "In the dark trench, right by the Chromatic Luster."
+  },
+  {
+    "id": "543295",
+    "name": "Chroma x10,470",
+    "lat": -81.18123,
+    "lng": 12.31966,
+    "approx": true,
+    "area": "Verso's Drafts"
+  },
+  {
+    "id": "543299",
+    "name": "Chroma x10,470",
+    "lat": -81.24216,
+    "lng": 11.54351,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "By the top of a waterfall."
+  },
+  {
+    "id": "543385",
+    "name": "Chroma x10,470",
+    "lat": -81.06407,
+    "lng": 12.04545,
+    "approx": true,
+    "area": "Verso's Drafts"
+  },
+  {
+    "id": "450904",
+    "name": "Chroma x11,680",
+    "lat": -30.52437,
+    "lng": -56.2842,
+    "note": "Location: Found within Floating Cemetery - If you do not agree to take Chalier's life, you will find Chroma when you return to the area."
+  },
+  {
+    "id": "464376",
+    "name": "Chroma x125",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: On the ground among the cloth-covered boxes"
+  },
+  {
+    "id": "464378",
+    "name": "Chroma x125",
+    "lat": -80.01299,
+    "lng": -8.71738,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: On top of the stacked pile of lumber. Jump across the other piles to get up"
+  },
+  {
+    "id": "464397",
+    "name": "Chroma x125",
+    "lat": -79.81015,
+    "lng": -8.21544,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: On the ground in front of the restaurant"
+  },
+  {
+    "id": "464962",
+    "name": "Chroma x125",
+    "lat": -80.0678,
+    "lng": -7.73339,
+    "approx": true,
+    "area": "Lumiere (Intro)"
+  },
+  {
+    "id": "504675",
+    "name": "Chroma x13,930",
+    "lat": -9.79568,
+    "lng": -5.08271,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "521971",
+    "name": "Chroma x15,390",
+    "lat": -76.50657,
+    "lng": -28.68583,
+    "approx": true,
+    "area": "Dark Shores"
+  },
+  {
+    "id": "506076",
+    "name": "Chroma x1775",
+    "lat": -68.1061,
+    "lng": -27.27345,
+    "approx": true,
+    "area": "Yellow Harvest"
+  },
+  {
+    "id": "464988",
+    "name": "Chroma x180",
+    "lat": -74.06787,
+    "lng": -23.41325,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Location: At the bottom of the waterfall behind the Act 1 starting point."
+  },
+  {
+    "id": "466290",
+    "name": "Chroma x180",
+    "lat": -74.17697,
+    "lng": -24.18941,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Near some smashed barrels and boxes on a ledge."
+  },
+  {
+    "id": "466292",
+    "name": "Chroma x180",
+    "lat": -73.85812,
+    "lng": -23.68747,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Location: Near some smashed barrels and boxes on top of the hill"
+  },
+  {
+    "id": "466300",
+    "name": "Chroma x180",
+    "lat": -74.26314,
+    "lng": -23.20541,
+    "approx": true,
+    "area": "Spring Meadows"
+  },
+  {
+    "id": "466301",
+    "name": "Chroma x180",
+    "lat": -74.0189,
+    "lng": -24.761,
+    "approx": true,
+    "area": "Spring Meadows"
+  },
+  {
+    "id": "466303",
+    "name": "Chroma x180",
+    "lat": -73.90046,
+    "lng": -22.80027,
+    "approx": true,
+    "area": "Spring Meadows"
+  },
+  {
+    "id": "474332",
+    "name": "Chroma x180",
+    "lat": -74.39042,
+    "lng": -24.07313,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Location: On the ground behind the Chromatic Lancelier"
+  },
+  {
+    "id": "474334",
+    "name": "Chroma x180",
+    "lat": -73.74311,
+    "lng": -24.36254,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Location: On the ground amongst the ruined crates"
+  },
+  {
+    "id": "521863",
+    "name": "Chroma x19,990",
+    "lat": -30.52723,
+    "lng": -32.84391,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "Behind the Grosse Tete."
+  },
+  {
+    "id": "450901",
+    "name": "Chroma x2,005",
+    "lat": -37.65388,
+    "lng": -53.07491,
+    "note": "Location: Found within Falling Leaves"
+  },
+  {
+    "id": "513757",
+    "name": "Chroma x2,130",
+    "lat": 69.09877,
+    "lng": -17.64436,
+    "approx": true,
+    "area": "Inside the Monolith"
+  },
+  {
+    "id": "513758",
+    "name": "Chroma x2,130",
+    "lat": 69.50802,
+    "lng": -17.14241,
+    "approx": true,
+    "area": "Inside the Monolith"
+  },
+  {
+    "id": "513770",
+    "name": "Chroma x2,130",
+    "lat": 68.98543,
+    "lng": -16.66036,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "On a ledge, reached via Rope"
+  },
+  {
+    "id": "518743",
+    "name": "Chroma x2,130",
+    "lat": 69.30362,
+    "lng": -18.21595,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "At the base of the huge pillar."
+  },
+  {
+    "id": "512733",
+    "name": "Chroma x2,180",
+    "lat": -18.25678,
+    "lng": -29.00114,
+    "note": "Monoco's Station - As you enter the main station building, it's behind the two trains on the left opposite Expedition Flag 65 - Monoco's Station."
+  },
+  {
+    "id": "448519",
+    "name": "Chroma x2,285",
+    "lat": -18.49486,
+    "lng": -55.19807,
+    "note": "Location: On the ground in the ruined camp"
+  },
+  {
+    "id": "449876",
+    "name": "Chroma x2,285",
+    "lat": 35.63101,
+    "lng": 44.41825,
+    "note": "Location: Inside the Paint Spike, guarded by enemies"
+  },
+  {
+    "id": "452831",
+    "name": "Chroma x2,285",
+    "lat": -7.80747,
+    "lng": -55.80158,
+    "note": "Location: Under the Paint Spike"
+  },
+  {
+    "id": "454688",
+    "name": "Chroma x2,285",
+    "lat": -20.95417,
+    "lng": -14.94419,
+    "note": "Location: Beneath the Paint Spike"
+  },
+  {
+    "id": "542735",
+    "name": "Chroma x2,450",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "On the stairs."
+  },
+  {
+    "id": "542736",
+    "name": "Chroma x2,450",
+    "lat": -80.01299,
+    "lng": -8.71738,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "542767",
+    "name": "Chroma x2,450",
+    "lat": -79.81015,
+    "lng": -8.21544,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "542790",
+    "name": "Chroma x2,450",
+    "lat": -80.0678,
+    "lng": -7.73339,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "542796",
+    "name": "Chroma x2,450",
+    "lat": -79.91245,
+    "lng": -9.28897,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "542798",
+    "name": "Chroma x2,450",
+    "lat": -79.83709,
+    "lng": -7.32824,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "542806",
+    "name": "Chroma x2,450",
+    "lat": -80.14873,
+    "lng": -8.60111,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "553762",
+    "name": "Chroma x2,450",
+    "lat": -79.73696,
+    "lng": -8.89051,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "452824",
+    "name": "Chroma x2,495",
+    "lat": -1.87715,
+    "lng": -37.88293,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Found within Old Lumiere - In the garden next to Renoir's arena. Can be reached via the Hole in the Wall."
+  },
+  {
+    "id": "454669",
+    "name": "Chroma x2,495",
+    "lat": -3.35047,
+    "lng": -37.40088,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "On the left side of the path."
+  },
+  {
+    "id": "516983",
+    "name": "Chroma x2,495",
+    "lat": -2.45786,
+    "lng": -38.95647,
+    "approx": true,
+    "area": "Old Lumiere"
+  },
+  {
+    "id": "448461",
+    "name": "Chroma x2,715",
+    "lat": 10.40235,
+    "lng": -21.98151,
+    "note": "Location: Near the ruined camp on the beach"
+  },
+  {
+    "id": "454877",
+    "name": "Chroma x2,940",
+    "lat": 36.41865,
+    "lng": -39.69491,
+    "approx": true,
+    "area": "Visages",
+    "note": "In Path of Sadness, path on the left, behind the heap with the lamp."
+  },
+  {
+    "id": "454879",
+    "name": "Chroma x2,940",
+    "lat": 37.34489,
+    "lng": -39.19297,
+    "approx": true,
+    "area": "Visages",
+    "note": "In Path of Sadness, on top of a ledge just to the right of the rest point."
+  },
+  {
+    "id": "454882",
+    "name": "Chroma x2,940",
+    "lat": 36.16324,
+    "lng": -38.71092,
+    "approx": true,
+    "area": "Visages",
+    "note": "Inside Path of Anger, on the very left side after Enemy x3"
+  },
+  {
+    "id": "456588",
+    "name": "Chroma x2,940",
+    "lat": 36.88148,
+    "lng": -40.2665,
+    "approx": true,
+    "area": "Visages",
+    "note": "Edge of the Path of Joy"
+  },
+  {
+    "id": "543275",
+    "name": "Chroma x20,940",
+    "lat": -81.29027,
+    "lng": 12.5275,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "On a walkway reached via Grapple Point"
+  },
+  {
+    "id": "521381",
+    "name": "Chroma x3,128",
+    "lat": 40.84706,
+    "lng": -68.51,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Among the boxes."
+  },
+  {
+    "id": "521396",
+    "name": "Chroma x3,128",
+    "lat": 40.54471,
+    "lng": -69.28615,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Among the boxes."
+  },
+  {
+    "id": "521418",
+    "name": "Chroma x3,128",
+    "lat": 41.4189,
+    "lng": -68.78421,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Directly opposite another hot air balloon."
+  },
+  {
+    "id": "521431",
+    "name": "Chroma x3,128",
+    "lat": 40.30348,
+    "lng": -68.30216,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Guarded by Orphelin x3 on a high-up platform reached via this balloon."
+  },
+  {
+    "id": "521438",
+    "name": "Chroma x3,128",
+    "lat": 40.98165,
+    "lng": -69.85774,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Among the crates near the enemies."
+  },
+  {
+    "id": "521445",
+    "name": "Chroma x3,128",
+    "lat": 41.30445,
+    "lng": -67.89701,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Next to a nevron corpse by the grapple point."
+  },
+  {
+    "id": "504068",
+    "name": "Chroma x3,160",
+    "lat": -65.9836,
+    "lng": -15.79336,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "On the small island, reached via Grapple Point"
+  },
+  {
+    "id": "504376",
+    "name": "Chroma x3,160",
+    "lat": -65.50792,
+    "lng": -15.29141,
+    "approx": true,
+    "area": "Stone Wave Cliffs"
+  },
+  {
+    "id": "504379",
+    "name": "Chroma x3,160",
+    "lat": -66.11225,
+    "lng": -14.80936,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Use the Lever to open the door."
+  },
+  {
+    "id": "504657",
+    "name": "Chroma x3,483",
+    "lat": -10.18841,
+    "lng": -5.85886,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "504663",
+    "name": "Chroma x3,483",
+    "lat": -9.04669,
+    "lng": -5.35692,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "504672",
+    "name": "Chroma x3,483",
+    "lat": -10.50014,
+    "lng": -4.87487,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "504681",
+    "name": "Chroma x3,483",
+    "lat": -9.62012,
+    "lng": -6.43045,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "454867",
+    "name": "Chroma x3,525",
+    "lat": 42.27005,
+    "lng": -5.04765,
+    "approx": true,
+    "area": "Sirene",
+    "note": "At the end of a ribbon bridge, near the middle of the room."
+  },
+  {
+    "id": "454868",
+    "name": "Chroma x3,525",
+    "lat": 41.16922,
+    "lng": -4.5656,
+    "approx": true,
+    "area": "Sirene",
+    "note": "In a large bowl in the middle of the Petank's room."
+  },
+  {
+    "id": "504817",
+    "name": "Chroma x3,550",
+    "lat": -68.25432,
+    "lng": -28.04961,
+    "approx": true,
+    "area": "Yellow Harvest"
+  },
+  {
+    "id": "521967",
+    "name": "Chroma x3,848",
+    "lat": -76.5993,
+    "lng": -29.46198,
+    "approx": true,
+    "area": "Dark Shores",
+    "note": "Among the boxes."
+  },
+  {
+    "id": "521970",
+    "name": "Chroma x3,848",
+    "lat": -76.32827,
+    "lng": -28.96004,
+    "approx": true,
+    "area": "Dark Shores"
+  },
+  {
+    "id": "448453",
+    "name": "Chroma x3,885",
+    "lat": 20.52433,
+    "lng": -62.9695
+  },
+  {
+    "id": "448462",
+    "name": "Chroma x3,885",
+    "lat": 22.69497,
+    "lng": -2.03825,
+    "note": "Location: Near the ruined camp on the beach"
+  },
+  {
+    "id": "452807",
+    "name": "Chroma x3,885",
+    "lat": 2.89324,
+    "lng": 7.33883
+  },
+  {
+    "id": "454700",
+    "name": "Chroma x3,950",
+    "lat": -41.13641,
+    "lng": -16.78278,
+    "approx": true,
+    "area": "Forgotten Battlefield",
+    "note": "Location: Found within the Forgotten Battlefield - South Entrance - on the right side of the double door after the slope between the corpses."
+  },
+  {
+    "id": "504421",
+    "name": "Chroma x3,950",
+    "lat": -42.2378,
+    "lng": -16.30073,
+    "approx": true,
+    "area": "Forgotten Battlefield",
+    "note": "Among the Nevron corpses."
+  },
+  {
+    "id": "452853",
+    "name": "Chroma x3,995",
+    "lat": -29.71126,
+    "lng": -14.99071,
+    "note": "Location On the broken bridge"
+  },
+  {
+    "id": "474597",
+    "name": "Chroma x333",
+    "lat": -72.50172,
+    "lng": -19.45666,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: On the ground among the bodies, just up the hill from the Paint Cage"
+  },
+  {
+    "id": "474622",
+    "name": "Chroma x333",
+    "lat": -72.62123,
+    "lng": -20.23282,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: On the ground"
+  },
+  {
+    "id": "466294",
+    "name": "Chroma x360",
+    "lat": -74.19966,
+    "lng": -22.43403,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Location: On top of the ledge. Head inside the house, up the rope, then down the ramp to the right and back outside to the ledge"
+  },
+  {
+    "id": "450895",
+    "name": "Chroma x4,010",
+    "lat": -36.52474,
+    "lng": -49.74115,
+    "note": "Location: Found within Falling Leaves"
+  },
+  {
+    "id": "521921",
+    "name": "Chroma x4,223",
+    "lat": 2.06498,
+    "lng": 59.17002,
+    "approx": true,
+    "area": "Endless Night Sanctuary",
+    "note": "On the lower section."
+  },
+  {
+    "id": "521923",
+    "name": "Chroma x4,223",
+    "lat": 1.66641,
+    "lng": 58.39386,
+    "approx": true,
+    "area": "Endless Night Sanctuary",
+    "note": "Among the crates."
+  },
+  {
+    "id": "521932",
+    "name": "Chroma x4,223",
+    "lat": 2.82352,
+    "lng": 58.8958,
+    "approx": true,
+    "area": "Endless Night Sanctuary",
+    "note": "Among the boxes."
+  },
+  {
+    "id": "521938",
+    "name": "Chroma x4,223",
+    "lat": 1.34964,
+    "lng": 59.37785,
+    "approx": true,
+    "area": "Endless Night Sanctuary",
+    "note": "On the ledge."
+  },
+  {
+    "id": "521943",
+    "name": "Chroma x4,223",
+    "lat": 2.24296,
+    "lng": 57.82227,
+    "approx": true,
+    "area": "Endless Night Sanctuary",
+    "note": "On a ledge."
+  },
+  {
+    "id": "521955",
+    "name": "Chroma x4,223",
+    "lat": 2.67121,
+    "lng": 59.783,
+    "approx": true,
+    "area": "Endless Night Sanctuary"
+  },
+  {
+    "id": "513773",
+    "name": "Chroma x4,260",
+    "lat": 69.45457,
+    "lng": -16.25522,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "On a ledge behind Enemy x3"
+  },
+  {
+    "id": "513870",
+    "name": "Chroma x4,260",
+    "lat": 68.81583,
+    "lng": -17.52808,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "At the end of a street behind the Chevalieres."
+  },
+  {
+    "id": "514745",
+    "name": "Chroma x4,260",
+    "lat": 69.65187,
+    "lng": -17.81748,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "By a corpse in front of a shrine."
+  },
+  {
+    "id": "518749",
+    "name": "Chroma x4,260",
+    "lat": 69.06903,
+    "lng": -15.88898,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "By the cliffside."
+  },
+  {
+    "id": "449883",
+    "name": "Chroma x4,515",
+    "lat": 58.54335,
+    "lng": 19.58191,
+    "note": "Location: Among the wooden boxes on the beach"
+  },
+  {
+    "id": "452810",
+    "name": "Chroma x4,515",
+    "lat": -5.34507,
+    "lng": 18.35241,
+    "note": "Location: Only accessible by flying. At the campite behind the Chromatic Goblu"
+  },
+  {
+    "id": "454569",
+    "name": "Chroma x4,570",
+    "lat": -34.85826,
+    "lng": -21.86275
+  },
+  {
+    "id": "452815",
+    "name": "Chroma x4,990",
+    "lat": -2.02955,
+    "lng": -36.99574,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Found within Old Lumiere - In the area where Chromatic Danseuse is. You can reach Chroma on the column by going up the train tracks."
+  },
+  {
+    "id": "452822",
+    "name": "Chroma x4,990",
+    "lat": -3.82068,
+    "lng": -38.2686,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Found within Old Lumiere - From the Manor Gardens expedition flag, head to the upper right corner. Follow the path and take the rope down to find it on a chair."
+  },
+  {
+    "id": "504637",
+    "name": "Chroma x4,990",
+    "lat": 0,
+    "lng": -44.06456,
+    "approx": true,
+    "area": "Esoteric Ruins",
+    "note": "In the Paint Cage"
+  },
+  {
+    "id": "504725",
+    "name": "Chroma x4,990",
+    "lat": -1.46505,
+    "lng": -38.558,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: In the area behind the Crawlspace."
+  },
+  {
+    "id": "518558",
+    "name": "Chroma x4,990",
+    "lat": -3.11726,
+    "lng": -36.6295,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "In the area past the Paint Cage, you'll find a series of grapple points leading to a Rope. After using another grapple, turn around and drop down twice to find this Chroma among the boxes."
+  },
+  {
+    "id": "542725",
+    "name": "Chroma x4,990",
+    "lat": -80.02743,
+    "lng": -6.96201,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "Beneath the Paint Spike"
+  },
+  {
+    "id": "542786",
+    "name": "Chroma x4,990",
+    "lat": -80.0421,
+    "lng": -9.65538,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "Within the Paint Spike"
+  },
+  {
+    "id": "475417",
+    "name": "Chroma x483",
+    "lat": -71.03125,
+    "lng": -21.21487,
+    "approx": true,
+    "area": "Ancient Sanctuary",
+    "note": "Location: On the ground inside the ruined crates"
+  },
+  {
+    "id": "543430",
+    "name": "Chroma x5,235",
+    "lat": -81.15388,
+    "lng": 10.97192,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Beneath a breakable jar of sweets."
+  },
+  {
+    "id": "543431",
+    "name": "Chroma x5,235",
+    "lat": -81.08772,
+    "lng": 12.93264,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Beneath a breakable jar of sweets."
+  },
+  {
+    "id": "521635",
+    "name": "Chroma x5,435",
+    "lat": -56.68037,
+    "lng": -40.37723,
+    "approx": true,
+    "area": "Crimson Forest",
+    "note": "Among the corpses on the lower ledge."
+  },
+  {
+    "id": "521641",
+    "name": "Chroma x5,435",
+    "lat": -56.89879,
+    "lng": -41.15338,
+    "approx": true,
+    "area": "Crimson Forest",
+    "note": "In the Crawlspace."
+  },
+  {
+    "id": "454563",
+    "name": "Chroma x5,840",
+    "lat": -74.52039,
+    "lng": -21.02143
+  },
+  {
+    "id": "521384",
+    "name": "Chroma x6,255",
+    "lat": 39.94323,
+    "lng": -69.16988,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "On the lower level, among the boxes."
+  },
+  {
+    "id": "521413",
+    "name": "Chroma x6,255",
+    "lat": 41.72732,
+    "lng": -69.45928,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Near a Nevron covered in nails."
+  },
+  {
+    "id": "521545",
+    "name": "Chroma x6,255",
+    "lat": 40.48138,
+    "lng": -67.53078,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Among the crates."
+  },
+  {
+    "id": "521610",
+    "name": "Chroma x6,255",
+    "lat": 40.41685,
+    "lng": -70.22415,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "At the edge of a ledge reached via Grapple Point."
+  },
+  {
+    "id": "522314",
+    "name": "Chroma x6,255",
+    "lat": 41.90857,
+    "lng": -68.18882,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "On a ledge reached by turning left from the Rope and dropping down."
+  },
+  {
+    "id": "504130",
+    "name": "Chroma x6,570",
+    "lat": -71.16045,
+    "lng": -21.99102,
+    "approx": true,
+    "area": "Ancient Sanctuary"
+  },
+  {
+    "id": "504658",
+    "name": "Chroma x6,965",
+    "lat": -9.19725,
+    "lng": -4.46972,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "504659",
+    "name": "Chroma x6,965",
+    "lat": -10.96303,
+    "lng": -5.74259,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "504669",
+    "name": "Chroma x6,965",
+    "lat": -8.63932,
+    "lng": -6.03199,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "504670",
+    "name": "Chroma x6,965",
+    "lat": -10.27039,
+    "lng": -4.10349,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "504673",
+    "name": "Chroma x6,965",
+    "lat": -10.35382,
+    "lng": -6.79686,
+    "approx": true,
+    "area": "Frozen Hearts"
+  },
+  {
+    "id": "513794",
+    "name": "Chroma x6,965",
+    "lat": -8.3988,
+    "lng": -4.76153,
+    "approx": true,
+    "area": "Frozen Hearts",
+    "note": "Under the big archway"
+  },
+  {
+    "id": "516774",
+    "name": "Chroma x610",
+    "lat": -70.11475,
+    "lng": -20.96317,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Behind Berrami, there is a ramp that leads upward to a wooden walkway. Continue along the linear path while breaking any boxes in your way to find the Chroma at the end."
+  },
+  {
+    "id": "492381",
+    "name": "Chroma x653",
+    "lat": -70.19587,
+    "lng": -14.49984,
+    "approx": true,
+    "area": "Esquie's Nest",
+    "note": "At the end of a narrow path to the right of Sunniso"
+  },
+  {
+    "id": "474609",
+    "name": "Chroma x665",
+    "lat": -72.27199,
+    "lng": -19.73087,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: On the ground behind Noco's hut"
+  },
+  {
+    "id": "474626",
+    "name": "Chroma x665",
+    "lat": -72.71563,
+    "lng": -19.24882,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: On the ground behind the pillar"
+  },
+  {
+    "id": "474331",
+    "name": "Chroma x720",
+    "lat": -74.22274,
+    "lng": -25.12741,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Location: On the lower ledge."
+  },
+  {
+    "id": "492389",
+    "name": "Chroma x790",
+    "lat": -65.74773,
+    "lng": -16.36495,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: To the right of the broken structure, before heading up the Rope"
+  },
+  {
+    "id": "504073",
+    "name": "Chroma x790",
+    "lat": -65.57106,
+    "lng": -14.40422,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Chroma"
+  },
+  {
+    "id": "504083",
+    "name": "Chroma x790",
+    "lat": -66.30232,
+    "lng": -15.67708,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: On the edge to the right of the Young Boy"
+  },
+  {
+    "id": "504098",
+    "name": "Chroma x790",
+    "lat": -65.33644,
+    "lng": -15.96648,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "In front of an overgrown hut."
+  },
+  {
+    "id": "504473",
+    "name": "Chroma x888",
+    "lat": -67.82125,
+    "lng": -27.54767,
+    "approx": true,
+    "area": "Yellow Harvest",
+    "note": "Location: Before ledge"
+  },
+  {
+    "id": "521676",
+    "name": "Chroma x9,995",
+    "lat": -29.52465,
+    "lng": -32.34197,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "On the huge painting frame."
+  },
+  {
+    "id": "521817",
+    "name": "Chroma x9,995",
+    "lat": -30.79981,
+    "lng": -31.85992,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "On a ledge, reached via Rope and guarded by enemies."
+  },
+  {
+    "id": "521820",
+    "name": "Chroma x9,995",
+    "lat": -30.02904,
+    "lng": -33.4155,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "Behind the fencing."
+  },
+  {
+    "id": "521838",
+    "name": "Chroma x9,995",
+    "lat": -29.65725,
+    "lng": -31.45477,
+    "approx": true,
+    "area": "Flying Manor"
+  },
+  {
+    "id": "521850",
+    "name": "Chroma x9,995",
+    "lat": -31.20364,
+    "lng": -32.72764,
+    "approx": true,
+    "area": "Flying Manor"
+  },
+  {
+    "id": "521890",
+    "name": "Chroma x9,995",
+    "lat": -29.16527,
+    "lng": -33.01704,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "At the end of a dark walkway after descending the Rope."
+  },
+  {
+    "id": "535490",
+    "name": "Chroma x9,995",
+    "lat": -30.59896,
+    "lng": -31.08854,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "To the north of the Central Plaza flag. Look over the edge to spot a ledge below with the Chroma on it."
+  },
+  {
+    "id": "475408",
+    "name": "Chroma x965",
+    "lat": -70.78291,
+    "lng": -21.48908,
+    "approx": true,
+    "area": "Ancient Sanctuary"
+  },
+  {
+    "id": "504422",
+    "name": "Chroma x988",
+    "lat": -41.57262,
+    "lng": -17.85632,
+    "approx": true,
+    "area": "Forgotten Battlefield"
+  }
+]

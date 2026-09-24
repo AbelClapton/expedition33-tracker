@@ -1,6 +1,6 @@
 # Picto Tracker
 
-A fan-made collection, build and map tracker for *Clair Obscur: Expedition 33*.
+A fan-made collection, build and map tracker for _Clair Obscur: Expedition 33_.
 
 - **Library** (`/collections`) - every picto, filterable, with progress saved in `localStorage`
 - **Builder** (`/builder`) - synergy scoring between Luminas
@@ -29,11 +29,11 @@ Publishing pushes a branch rather than running GitHub Actions: the `gh` token he
 
 Three things differ in the export build, all driven by `STATIC_EXPORT=1` in `next.config.ts`:
 
-| | dev | Pages |
-| --- | --- | --- |
-| routing | root `/` | `basePath: /expedition33-tracker` |
-| tiles | `/api/tile/{z}/{x}/{y}` proxy + disk cache | the wiki's pyramid, hotlinked |
-| images | optimised by Next | served as-is |
+|         | dev                                        | Pages                             |
+| ------- | ------------------------------------------ | --------------------------------- |
+| routing | root `/`                                   | `basePath: /expedition33-tracker` |
+| tiles   | `/api/tile/{z}/{x}/{y}` proxy + disk cache | the wiki's pyramid, hotlinked     |
+| images  | optimised by Next                          | served as-is                      |
 
 Because Pages serves from a subpath, any path into `public/` that is built at runtime goes
 through `assetPath()` in `src/lib/assetPath.ts` - `next/link` and `next/font` handle the

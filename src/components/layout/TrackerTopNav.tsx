@@ -36,22 +36,6 @@ export function TrackerTopNav() {
               </Link>
             );
           })}
-
-          {/* Screens the design keeps a slot for, not built yet */}
-          <a
-            href="#"
-            className="group relative font-meta text-[11px] uppercase tracking-widest text-[var(--collection-ink-muted)] transition-colors hover:text-primary"
-          >
-            ARMORY
-            <span className="absolute -bottom-1 left-0 h-px w-full origin-left scale-x-0 bg-primary transition-transform group-hover:scale-x-100" />
-          </a>
-          <a
-            href="#"
-            className="group relative font-meta text-[11px] uppercase tracking-widest text-[var(--collection-ink-muted)] transition-colors hover:text-primary"
-          >
-            CHRONICLE
-            <span className="absolute -bottom-1 left-0 h-px w-full origin-left scale-x-0 bg-primary transition-transform group-hover:scale-x-100" />
-          </a>
         </div>
       </div>
 

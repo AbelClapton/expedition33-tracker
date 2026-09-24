@@ -1,8 +1,8 @@
-"use client"
+"use client";
 
-import { Progress as ProgressPrimitive } from "@base-ui/react/progress"
+import { Progress as ProgressPrimitive } from "@base-ui/react/progress";
 
-import { cn } from "@/lib/utils"
+import { cn } from "@/lib/utils";
 
 function Progress({
   className,
@@ -22,20 +22,20 @@ function Progress({
         <ProgressIndicator />
       </ProgressTrack>
     </ProgressPrimitive.Root>
-  )
+  );
 }
 
 function ProgressTrack({ className, ...props }: ProgressPrimitive.Track.Props) {
   return (
     <ProgressPrimitive.Track
       className={cn(
-        "relative flex h-2.5 w-full items-center overflow-x-hidden rounded-full border border-border/80 bg-[#1a1c1f] shadow-[inset_0_0_16px_rgb(0_0_0_/_45%)]",
-        className
+        "chamfer chamfer-track chamfer-meter-track relative flex h-3 w-full items-center overflow-x-hidden",
+        className,
       )}
       data-slot="progress-track"
       {...props}
     />
-  )
+  );
 }
 
 function ProgressIndicator({
@@ -45,13 +45,12 @@ function ProgressIndicator({
   return (
     <ProgressPrimitive.Indicator
       data-slot="progress-indicator"
-      className={cn(
-        "h-full bg-linear-to-r from-[#920703] via-[#d4af37] to-[#f2ca50] shadow-[0_0_12px_rgb(242_202_80_/_40%)] transition-all",
-        className
-      )}
+      // the height is `!`-ed because Base UI writes `height: inherit` inline, and
+      // the fill has to sit inside the channel rather than fill it
+      className={cn("chamfer chamfer-meter h-2! transition-all", className)}
       {...props}
     />
-  )
+  );
 }
 
 function ProgressLabel({ className, ...props }: ProgressPrimitive.Label.Props) {
@@ -61,7 +60,7 @@ function ProgressLabel({ className, ...props }: ProgressPrimitive.Label.Props) {
       data-slot="progress-label"
       {...props}
     />
-  )
+  );
 }
 
 function ProgressValue({ className, ...props }: ProgressPrimitive.Value.Props) {
@@ -69,12 +68,12 @@ function ProgressValue({ className, ...props }: ProgressPrimitive.Value.Props) {
     <ProgressPrimitive.Value
       className={cn(
         "ml-auto text-sm text-muted-foreground tabular-nums",
-        className
+        className,
       )}
       data-slot="progress-value"
       {...props}
     />
-  )
+  );
 }
 
 export {
@@ -83,4 +82,4 @@ export {
   ProgressIndicator,
   ProgressLabel,
   ProgressValue,
-}
+};

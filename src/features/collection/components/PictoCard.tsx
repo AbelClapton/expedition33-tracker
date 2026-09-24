@@ -1,8 +1,15 @@
+"use client";
+
 import Image from "next/image";
+import Link from "next/link";
 import { Checkbox } from "@/components/ui/checkbox";
 import { PICTO_PIN_ICON } from "@/engine/utils/pictoIcon";
+import { useTracking } from "@/hooks/useTracking";
 import { CollectionCardModel, CollectionViewMode } from "../types";
 import styles from "../collection.module.css";
+
+/** Layer id the picto cards belong to, so their Track keys match the rest of the site. */
+const PICTO_LAYER_ID = "pictos";
 
 interface PictoCardProps {
   card: CollectionCardModel;
@@ -11,12 +18,83 @@ interface PictoCardProps {
   onToggleFound: (id: string) => void;
 }
 
+/**
+ * The card's jump to the atlas: `/map?pin=pictos:<id>`, the same shape every Library
+ * row links with. The map resolves the engine id against the pins whose name holds
+ * it, since the atlas' picto pins carry the wikis' own ids.
+ */
+function MapLink({ id, name }: { id: string; name: string }) {
+  const title = `Show ${name} on the map`;
+
+  return (
+    <Link
+      href={`/map?pin=${encodeURIComponent(`${PICTO_LAYER_ID}:${id}`)}`}
+      title={title}
+      aria-label={title}
+      className="chamfer chamfer-square chamfer-plate flex h-6 w-[3.25rem] shrink-0 items-center justify-center [--chamfer-h:1.5rem] font-meta text-[9px] uppercase tracking-[0.18em] text-[var(--collection-ink-soft)] transition-colors hover:text-primary"
+    >
+      Map
+    </Link>
+  );
+}
+
+/** The card's Track toggle: a picto you are still out to get. */
+function TrackButton({
+  id,
+  name,
+  tracked,
+  onToggle,
+  found = false,
+  compact = false,
+}: {
+  id: string;
+  name: string;
+  tracked: boolean;
+  onToggle: () => void;
+  /** Collected pictos are not something to hunt down, so their toggle is off. */
+  found?: boolean;
+  compact?: boolean;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onToggle}
+      disabled={found}
+      aria-pressed={tracked}
+      title={
+        found
+          ? `${name} is already collected`
+          : tracked
+            ? `Stop tracking ${name}`
+            : `Track ${name}`
+      }
+      className={`chamfer chamfer-square flex h-6 shrink-0 items-center justify-center [--chamfer-h:1.5rem] transition-all disabled:cursor-not-allowed ${
+        found
+          ? "chamfer-ghost text-[var(--collection-ink-soft)] opacity-30"
+          : tracked
+            ? "chamfer-gold text-primary"
+            : "chamfer-ghost text-[var(--collection-ink-soft)] opacity-60 hover:opacity-100"
+      } ${compact ? "w-[3.75rem]" : "w-[4.5rem]"}`}
+      data-tracked={`${PICTO_LAYER_ID}:${id}`}
+    >
+      <span
+        className={`font-meta uppercase tracking-[0.16em] ${compact ? "text-[9px]" : "text-[10px]"}`}
+      >
+        {tracked ? "Tracked" : "Track"}
+      </span>
+    </button>
+  );
+}
+
 export function PictoCard({
   card,
   isFound,
   viewMode,
   onToggleFound,
 }: PictoCardProps) {
+  const tracking = useTracking();
+  const isTracked = tracking.isTracked(PICTO_LAYER_ID, card.id);
+  const toggleTracked = () => tracking.toggleTracked(PICTO_LAYER_ID, card.id);
   const statSlots = card.stats
     .filter((stat) => stat.label.trim().length > 0 && stat.value > 0)
     .slice(0, 2);
@@ -52,15 +130,28 @@ export function PictoCard({
             </h3>
           </div>
 
-          <Checkbox
-            checked={isFound}
-            onCheckedChange={() => onToggleFound(card.id)}
-            aria-label={
-              isFound
-                ? `Unmark ${card.name} as found`
-                : `Mark ${card.name} as found`
-            }
-          />
+          <div className="flex shrink-0 items-center gap-2">
+            <TrackButton
+              id={card.id}
+              name={card.name}
+              tracked={isTracked}
+              onToggle={toggleTracked}
+              found={isFound}
+              compact
+            />
+
+            <Checkbox
+              checked={isFound}
+              onCheckedChange={() => onToggleFound(card.id)}
+              aria-label={
+                isFound
+                  ? `Unmark ${card.name} as found`
+                  : `Mark ${card.name} as found`
+              }
+            />
+
+            <MapLink id={card.id} name={card.name} />
+          </div>
         </div>
       </article>
     );
@@ -165,23 +256,36 @@ export function PictoCard({
             className="h-4 w-4 object-contain"
           />
         </div>
-        <button
-          type="button"
-          onClick={() => onToggleFound(card.id)}
-          aria-pressed={isFound}
-          title={
-            isFound
-              ? `Found - click to unmark ${card.name}`
-              : `Click once you find ${card.name}`
-          }
-          className={`${styles.foundButton} border px-4 py-1 text-[10px] transition-all ${
-            isFound
-              ? "border-secondary bg-secondary/5 text-secondary shadow-[0_0_15px_rgba(89,218,209,0.2)]"
-              : "border-[var(--collection-ink-soft)] text-[var(--collection-ink-soft)] opacity-40"
-          }`}
-        >
-          FOUND
-        </button>
+        <div className="flex items-center gap-2">
+          <TrackButton
+            id={card.id}
+            name={card.name}
+            tracked={isTracked}
+            onToggle={toggleTracked}
+            found={isFound}
+          />
+          <label className="flex cursor-pointer select-none items-center gap-2">
+            <Checkbox
+              checked={isFound}
+              onCheckedChange={() => onToggleFound(card.id)}
+              aria-label={
+                isFound
+                  ? `Unmark ${card.name} as found`
+                  : `Mark ${card.name} as found`
+              }
+            />
+            <span
+              aria-hidden="true"
+              className={`font-meta text-[10px] uppercase tracking-[0.2em] transition-colors ${
+                isFound ? "text-primary" : "text-[var(--collection-ink-soft)]"
+              }`}
+            >
+              Found
+            </span>
+          </label>
+
+          <MapLink id={card.id} name={card.name} />
+        </div>
       </footer>
     </article>
   );

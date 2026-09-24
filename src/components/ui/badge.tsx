@@ -1,32 +1,31 @@
-import { mergeProps } from "@base-ui/react/merge-props"
-import { useRender } from "@base-ui/react/use-render"
-import { cva, type VariantProps } from "class-variance-authority"
+import { mergeProps } from "@base-ui/react/merge-props";
+import { useRender } from "@base-ui/react/use-render";
+import { cva, type VariantProps } from "class-variance-authority";
 
-import { cn } from "@/lib/utils"
+import { cn } from "@/lib/utils";
 
+/**
+ * Tags are the same stretched hexagon as a button, one size down, and share its
+ * hairline/face pairs so a tag and the button beside it read as one family.
+ */
 const badgeVariants = cva(
-  "group/badge inline-flex h-6 w-fit shrink-0 items-center justify-center gap-1 overflow-hidden rounded-full border px-2.5 py-0.5 text-[0.67rem] font-medium tracking-[0.12em] uppercase whitespace-nowrap transition-all focus-visible:border-ring focus-visible:ring-[3px] focus-visible:ring-ring/50 has-data-[icon=inline-end]:pr-1.5 has-data-[icon=inline-start]:pl-1.5 aria-invalid:border-destructive aria-invalid:ring-destructive/20 [&>svg]:pointer-events-none [&>svg]:size-3!",
+  "group/badge chamfer chamfer-square h-6 [--chamfer-h:1.5rem] inline-flex w-fit shrink-0 items-center justify-center gap-1 border-0 px-3 py-0.5 text-[0.67rem] font-medium tracking-[0.12em] uppercase whitespace-nowrap transition-all focus-visible:ring-2 focus-visible:ring-ring/50 has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 [&>svg]:pointer-events-none [&>svg]:size-3!",
   {
     variants: {
       variant: {
-        default:
-          "border-primary/60 bg-primary/15 text-primary [a]:hover:bg-primary/20",
-        secondary:
-          "border-secondary/60 bg-secondary/15 text-secondary [a]:hover:bg-secondary/20",
-        destructive:
-          "border-destructive/50 bg-destructive/12 text-destructive focus-visible:ring-destructive/20 [a]:hover:bg-destructive/20",
-        outline:
-          "border-border text-[#d0c5af] [a]:hover:bg-muted [a]:hover:text-foreground",
-        ghost:
-          "border-transparent hover:bg-muted/50 hover:text-muted-foreground",
-        link: "text-primary underline-offset-4 hover:underline",
+        default: "chamfer-gold text-primary",
+        secondary: "chamfer-teal text-secondary",
+        destructive: "chamfer-crimson text-destructive",
+        outline: "chamfer-plate text-[#d0c5af]",
+        ghost: "chamfer-ghost text-muted-foreground",
+        link: "chamfer-ghost p-0 tracking-normal normal-case text-primary underline-offset-4 hover:underline",
       },
     },
     defaultVariants: {
       variant: "default",
     },
-  }
-)
+  },
+);
 
 function Badge({
   className,
@@ -40,14 +39,14 @@ function Badge({
       {
         className: cn(badgeVariants({ variant }), className),
       },
-      props
+      props,
     ),
     render,
     state: {
       slot: "badge",
       variant,
     },
-  })
+  });
 }
 
-export { Badge, badgeVariants }
+export { Badge, badgeVariants };

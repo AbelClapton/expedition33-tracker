@@ -20,6 +20,9 @@
 # scratch checkout the Pages deploy pushes from
 /.pages-work/
 
+# downloaded reference payloads (scripts/fetch-collectables.mjs)
+/.cache/
+
 # production
 /build
 

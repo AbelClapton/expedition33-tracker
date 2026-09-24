@@ -1,0 +1,1089 @@
+[
+ {
+  "id": 449462,
+  "name": "Abysseram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Flying Waters",
+  "description": "Location: Drops from defeating the Bourgeon found within the Flying Waters",
+  "lat": 0.499104,
+  "lng": -0.832776
+ },
+ {
+  "id": 455127,
+  "name": "Algueron (Sciel)",
+  "category": "Weapon",
+  "region": "Old Lumiere",
+  "description": "Location: Sold by Mandelgo (after defeating him in combat)",
+  "lat": 0.651466,
+  "lng": -0.980145
+ },
+ {
+  "id": 455382,
+  "name": "Angerim (Lune)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Demineur",
+  "lat": 0.673273,
+  "lng": -0.686168
+ },
+ {
+  "id": 543319,
+  "name": "Baguettaro (Monoco)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "Dropped by the Mime.",
+  "lat": 1.11625,
+  "lng": -0.527862
+ },
+ {
+  "id": 456332,
+  "name": "Baguette (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Lumiere (Intro)",
+  "description": "Requires: NG+ and a Festival Token Location: After connecting with Sophie during the prologue, find and interact with an interactable in front of the Boulangerie. Spending the token with Gustave selected will unlock the weapon for Gustave/Verso",
+  "lat": 0.429475,
+  "lng": -1.011686
+ },
+ {
+  "id": 456333,
+  "name": "Baguette (Lune)",
+  "category": "Weapon",
+  "region": "Lumiere (Intro)",
+  "description": "Requires: NG+ and a Festival Token Location: After connecting with Sophie during the prologue, find and interact with an interactable in front of the Boulangerie. Spending the token with Lune selected will unlock the weapon for Lune",
+  "lat": 0.429066,
+  "lng": -1.011955
+ },
+ {
+  "id": 456334,
+  "name": "Baguette (Maelle)",
+  "category": "Weapon",
+  "region": "Lumiere (Intro)",
+  "description": "Requires: NG+ and a Festival Token Location: After connecting with Sophie during the prologue, find and interact with an interactable in front of the Boulangerie. Spending the token with Maelle selected will unlock the weapon for Maelle",
+  "lat": 0.428155,
+  "lng": -1.012008
+ },
+ {
+  "id": 456336,
+  "name": "Baguette (Monoco)",
+  "category": "Weapon",
+  "region": "Lumiere (Intro)",
+  "description": "Requires: NG+ and a Festival Token Location: After connecting with Sophie during the prologue, find and interact with an interactable in front of the Boulangerie. Spending the token with Monoco selected will unlock the weapon for Monoco",
+  "lat": 0.429063,
+  "lng": -1.011492
+ },
+ {
+  "id": 456335,
+  "name": "Baguette (Sciel)",
+  "category": "Weapon",
+  "region": "Lumiere (Intro)",
+  "description": "Requires: NG+ and a Festival Token Location: After connecting with Sophie during the prologue, find and interact with an interactable in front of the Boulangerie. Spending the token with Sciel selected will unlock the weapon for Sciel",
+  "lat": 0.428604,
+  "lng": -1.011743
+ },
+ {
+  "id": 455622,
+  "name": "Ballaro (Monoco)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the enemies. Can also be obtained as a drop from defeating the Chromatic Glissando in Sirene's Dress",
+  "lat": 0.760915,
+  "lng": -0.734019
+ },
+ {
+  "id": 456338,
+  "name": "Barrier Breaker (Maelle)",
+  "category": "Weapon",
+  "region": "Sirene",
+  "description": "Location: Automatically obtained in camp near the end of Act II, after defeating the second Axon.",
+  "lat": 0.877185,
+  "lng": -0.966649
+ },
+ {
+  "id": 455129,
+  "name": "Battlum (Maelle)",
+  "category": "Weapon",
+  "region": "Old Lumiere",
+  "description": "Location: Found within Old Lumiere - South Entrance - drops from Enemy x2",
+  "lat": 0.682585,
+  "lng": -0.972443
+ },
+ {
+  "id": 455114,
+  "name": "Benisim (Lune)",
+  "category": "Weapon",
+  "region": "Forgotten Battlefield",
+  "description": "Location: Sold by the merchant Kasumi",
+  "lat": 0.734492,
+  "lng": -0.922133
+ },
+ {
+  "id": 449489,
+  "name": "Betelim (Lune)",
+  "category": "Weapon",
+  "region": "Gestral Village",
+  "description": "Location: Found within the Gestral Village - inside the hut behind the Paint Spike (requires Paint Break skill)",
+  "lat": 0.488934,
+  "lng": -0.63781
+ },
+ {
+  "id": 455611,
+  "name": "Blizzon (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Ballet",
+  "lat": 0.665209,
+  "lng": -0.725581
+ },
+ {
+  "id": 455153,
+  "name": "Blodam (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Reaper Cultist",
+  "lat": 0.677485,
+  "lng": -0.650408
+ },
+ {
+  "id": 518879,
+  "name": "Bonbim (Lune)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "Verso's Drafts - Sold by Najabla after defeating the merchant in a fight.",
+  "lat": 1.06634,
+  "lng": -0.451646
+ },
+ {
+  "id": 455139,
+  "name": "Boucharo (Monoco)",
+  "category": "Weapon",
+  "region": "Visages",
+  "description": "Location: Found within the Visages - drops from the giant mask enemy found in the Sadness Vale expedition flag area (choose \"Sadness\" to begin the fight)",
+  "lat": 1.009282,
+  "lng": -1.042038
+ },
+ {
+  "id": 455163,
+  "name": "Bourgelon (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Bruler Also dropped by the Chromatic Bourgeon",
+  "lat": 0.674687,
+  "lng": -0.666788
+ },
+ {
+  "id": 455383,
+  "name": "Braselim (Lune)",
+  "category": "Weapon",
+  "region": "Inside the Monolith",
+  "description": "Location: Found Inside of Monolith - drops from the first Braseleur enemies killed in the area. Upgraded by defeating Chromatic Braseleur.",
+  "lat": 1.17081,
+  "lng": -1.175446
+ },
+ {
+  "id": 448932,
+  "name": "Brulerum (Maelle)",
+  "category": "Weapon",
+  "region": "Flying Waters",
+  "description": "Location: Found within the Flying Waters - South Entrance - dropped by the first Bruler you kill.",
+  "lat": 0.458808,
+  "lng": -0.806296
+ },
+ {
+  "id": 455623,
+  "name": "Brumaro (Monoco)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Aberration",
+  "lat": 0.591485,
+  "lng": -0.709025
+ },
+ {
+  "id": 543351,
+  "name": "Cannaro (Monoco)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "Dropped by Chromatic Machinapied",
+  "lat": 1.134789,
+  "lng": -0.517659
+ },
+ {
+  "id": 455399,
+  "name": "Chalium (Maelle)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Chalier",
+  "lat": 0.741917,
+  "lng": -0.611957
+ },
+ {
+  "id": 455147,
+  "name": "Chantenum (Maelle)",
+  "category": "Weapon",
+  "region": "Sirene",
+  "description": "Location: Sold by Klaudiso after defeating him in combat",
+  "lat": 0.927227,
+  "lng": -1.001606
+ },
+ {
+  "id": 455137,
+  "name": "Chapelim (Lune)",
+  "category": "Weapon",
+  "region": "Visages",
+  "description": "Location: Found within the Visages - drops from the giant mask enemy found in the Joy Vale expedition flag area (choose \"Joy\" to begin the fight)",
+  "lat": 0.961477,
+  "lng": -1.030285
+ },
+ {
+  "id": 455612,
+  "name": "Charnon (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Grour inside Renoir's Drafts",
+  "lat": 0.758846,
+  "lng": -0.336816
+ },
+ {
+  "id": 454678,
+  "name": "Chation (Sciel)",
+  "category": "Weapon",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Found within the Stone Wave Cliffs - South Entrance - Follow the main path to the destroyed airship. Go through the tunnel that was left by the remnants of the airship, then cross the platform to reach the other side. Stay on this path until you encounter a duo of a Greatsword Cultist and Reaper Cultist near the bridge. Defeat them so that it can drop the weapon.",
+  "lat": 0.45294,
+  "lng": -0.492177
+ },
+ {
+  "id": 452860,
+  "name": "Chevalam (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Found within the Crimson Forest - revealed when the Chromatic Gold Chevaliere is defeated.",
+  "lat": 0.91303,
+  "lng": -0.516972
+ },
+ {
+  "id": 456337,
+  "name": "Choralim (Lune)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Obtained as a drop from defeating the Chromatic Glissando in Sirene's Dress",
+  "lat": 0.753766,
+  "lng": -0.656944
+ },
+ {
+  "id": 455625,
+  "name": "Chromaro (Monoco)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Grour inside Renoir's Drafts",
+  "lat": 0.758802,
+  "lng": -0.337372
+ },
+ {
+  "id": 527277,
+  "name": "Cleim (Lune)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Reward for defeating Clea Unleashed within the Endless Tower - independent of the challenges. Added in the Thank You update.",
+  "lat": 0.62935,
+  "lng": -0.714386
+ },
+ {
+  "id": 455140,
+  "name": "Clierum (Maelle)",
+  "category": "Weapon",
+  "region": "Visages",
+  "description": "Location: Found within the Visages - drops from the giant mask enemy found in the Anger Vale expedition flag area (choose \"Anger\" to begin the fight)",
+  "lat": 0.995817,
+  "lng": -0.971799
+ },
+ {
+  "id": 455124,
+  "name": "Coldum (Maelle)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by the Grandis Merchant",
+  "lat": 0.68555,
+  "lng": -0.700254
+ },
+ {
+  "id": 455144,
+  "name": "Colim (Lune)",
+  "category": "Weapon",
+  "region": "Sirene",
+  "description": "Location: Found within Sirene - drops from the first Chorale enemy you kill. One can be found here, high up in the large chamber with many branching bridges",
+  "lat": 0.829731,
+  "lng": -1.027401
+ },
+ {
+  "id": 449758,
+  "name": "Confuso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Visages",
+  "description": "Location: Found within the Visages - Path of Joy, look for an opening on the left before facing the Joy mask. Guarded by Contorsionniste x1.",
+  "lat": 0.953147,
+  "lng": -1.031045
+ },
+ {
+  "id": 455136,
+  "name": "Contorso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Visages",
+  "description": "Location: Found within the Visages - drops from the first Contorsionniste enemy killed in any of the Vales",
+  "lat": 0.984698,
+  "lng": -0.97461
+ },
+ {
+  "id": 454679,
+  "name": "Coralim (Lune)",
+  "category": "Weapon",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Found within the Stone Wave Cliffs - South Entrance - at the top of the ruined building. After taking the rope up, go through both doors to find some climbing holds. Jump across the gap to reach the weapon",
+  "lat": 0.471166,
+  "lng": -0.424902
+ },
+ {
+  "id": 449879,
+  "name": "Corderon (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Found within the Sinister Cave",
+  "lat": 0.742383,
+  "lng": -0.611334
+ },
+ {
+  "id": 455154,
+  "name": "Corpeso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Dark Shores",
+  "description": "Location: Found within the Dark Shores - drops from Noire enemies.",
+  "lat": 0.818092,
+  "lng": -0.412628
+ },
+ {
+  "id": 449456,
+  "name": "Cruleram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Flying Waters",
+  "description": "Location: Found within the Flying Waters - South Entrance - drops from the first Cruler you kill.",
+  "lat": 0.466764,
+  "lng": -0.819729
+ },
+ {
+  "id": 455123,
+  "name": "Cultam (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by the Grandis Merchant",
+  "lat": 0.685576,
+  "lng": -0.699796
+ },
+ {
+  "id": 455132,
+  "name": "Danseso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Old Lumiere",
+  "description": "Location: Drops from defeating the Chromatic Danseuse",
+  "lat": 0.660994,
+  "lng": -0.971801
+ },
+ {
+  "id": 448835,
+  "name": "Delaram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Found within the Stone Wave Cliffs - South Entrance - found inside the Paint Cage in the chamber above the Hexga, just beyond where you find the Expedition 78 entry",
+  "lat": 0.427309,
+  "lng": -0.483578
+ },
+ {
+  "id": 448933,
+  "name": "Deminerim (Lune)",
+  "category": "Weapon",
+  "region": "Flying Waters",
+  "description": "Location: Found within the Flying Waters - South Entrance - Given as a reward for helping the Demineur (Nevron) with their quest",
+  "lat": 0.467071,
+  "lng": -0.79562
+ },
+ {
+  "id": 449478,
+  "name": "Demonam (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Gestral Village",
+  "description": "Location: Can be bought from the Gestral Merchant after defeating them in their fight",
+  "lat": 0.472105,
+  "lng": -0.655913
+ },
+ {
+  "id": 455613,
+  "name": "Direton (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Persik",
+  "lat": 0.665383,
+  "lng": -0.726745
+ },
+ {
+  "id": 455156,
+  "name": "Dreameso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Inside the Monolith",
+  "description": "Location: Drops from defeating Clair Obscur",
+  "lat": 1.247314,
+  "lng": -1.190607
+ },
+ {
+  "id": 455115,
+  "name": "Dualiso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Forgotten Battlefield",
+  "description": "Location: Drops from the story boss Dualliste",
+  "lat": 0.739963,
+  "lng": -0.935002
+ },
+ {
+  "id": 454680,
+  "name": "Duenum (Maelle)",
+  "category": "Weapon",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Found within Stone Wave Cliffs - South Entrance - Shoot all the locks of the Paint Cage located in the farm to obtain the Duenum.",
+  "lat": 0.463192,
+  "lng": -0.450918
+ },
+ {
+  "id": 527261,
+  "name": "Duollison (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Reward for defeating the Duollistes within the Endless Tower - found in a painting at the top of some stairs, independent of the challenges. Added in the Thank You update.",
+  "lat": 0.629306,
+  "lng": -0.714963
+ },
+ {
+  "id": 449880,
+  "name": "Elerim (Lune)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Found within the Sinister Cave. Can also be purchased from Fusoka in the Flying Manor",
+  "lat": 0.743379,
+  "lng": -0.611263
+ },
+ {
+  "id": 543311,
+  "name": "Esqium (Maelle)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "In a pit reached via Rope",
+  "lat": 1.094367,
+  "lng": -0.505855
+ },
+ {
+  "id": 543402,
+  "name": "Esquiaro (Monoco)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "On the edge of the diving board, reached by hitting the Half-baked Gestral out of the way.",
+  "lat": 1.034976,
+  "lng": -0.517334
+ },
+ {
+  "id": 543234,
+  "name": "Esquim (Lune)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "lat": 1.077249,
+  "lng": -0.518359
+ },
+ {
+  "id": 543231,
+  "name": "Esquion (Sciel)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "On a ledge reached via Climbing Holds, taking a right when the path splits from a green lollipop.",
+  "lat": 1.136946,
+  "lng": -0.527864
+ },
+ {
+  "id": 543364,
+  "name": "Esquiso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "lat": 1.030046,
+  "lng": -0.315741
+ },
+ {
+  "id": 455402,
+  "name": "Facesum (Maelle)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Boucheclier",
+  "lat": 0.757234,
+  "lng": -0.720769
+ },
+ {
+  "id": 455626,
+  "name": "Fragaro (Monoco)",
+  "category": "Weapon",
+  "region": "Inside the Monolith",
+  "description": "Location: Sold by Mistra",
+  "lat": 1.078023,
+  "lng": -1.023451
+ },
+ {
+  "id": 455614,
+  "name": "Garganon (Sciel)",
+  "category": "Weapon",
+  "region": "Inside the Monolith",
+  "description": "Location: Sold by Melosh",
+  "lat": 1.165755,
+  "lng": -1.16965
+ },
+ {
+  "id": 455105,
+  "name": "Gaulteram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Bourgeon",
+  "lat": 0.610943,
+  "lng": -0.686896
+ },
+ {
+  "id": 455157,
+  "name": "Gesam (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Flying Manor",
+  "description": "Location: Sold by Fusoka inside the Flying Manor",
+  "lat": 0.764179,
+  "lng": -0.463969
+ },
+ {
+  "id": 455158,
+  "name": "Glaceso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the enemies",
+  "lat": 0.692475,
+  "lng": -0.690085
+ },
+ {
+  "id": 455404,
+  "name": "Glaisum (Maelle)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Found within Falling Leaves - drops from a common Glaise enemy",
+  "lat": 0.663098,
+  "lng": -0.72619
+ },
+ {
+  "id": 455164,
+  "name": "Gobluson (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Bruler",
+  "lat": 0.674872,
+  "lng": -0.666345
+ },
+ {
+  "id": 455122,
+  "name": "Grandaro (Monoco)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by the Grandis Merchant",
+  "lat": 0.686105,
+  "lng": -0.699835
+ },
+ {
+  "id": 455615,
+  "name": "Guleson (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Anthonypo",
+  "lat": 0.834199,
+  "lng": -0.458609
+ },
+ {
+  "id": 455616,
+  "name": "Hevasson (Sciel)",
+  "category": "Weapon",
+  "region": "Gestral Village",
+  "description": "Location: Obtained from fighting Golgra in the Gestral Village with Sciel, after fighting her 3 times previously (initially in the Gestral Village, in the Dark Gestral Arena, and in the Sacred River) Can also be obtained by losing to Sciel in the Gestral Arena.",
+  "lat": 0.483495,
+  "lng": -0.650173
+ },
+ {
+  "id": 455405,
+  "name": "Jarum (Maelle)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Jar",
+  "lat": 0.607203,
+  "lng": -0.720858
+ },
+ {
+  "id": 455627,
+  "name": "Joyaro (Monoco)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Ultimate Sakapatate in the Endless Night Sanctuary",
+  "lat": 0.816672,
+  "lng": -0.499704
+ },
+ {
+  "id": 455387,
+  "name": "Kralim (Lune)",
+  "category": "Weapon",
+  "region": "Yellow Harvest",
+  "description": "Location: Drops from defeating the Chromatic Orphelin",
+  "lat": 0.386915,
+  "lng": -0.558663
+ },
+ {
+  "id": 448924,
+  "name": "Lanceram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Spring Meadows",
+  "description": "Location: Found inside the Spring Meadows - drops from the Lancelier encounter after the rest point",
+  "lat": 0.439698,
+  "lng": -0.93725
+ },
+ {
+  "id": 543304,
+  "name": "Licorum (Maelle)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "Dropped by Chromatic Licorne",
+  "lat": 1.109381,
+  "lng": -0.447762
+ },
+ {
+  "id": 448926,
+  "name": "Lighterim (Lune)",
+  "category": "Weapon",
+  "region": "Spring Meadows",
+  "description": "Location: Found within the Spring Meadows, where it drops from the first Abbest enemy you kill.",
+  "lat": 0.499142,
+  "lng": -0.889768
+ },
+ {
+  "id": 455159,
+  "name": "Liteso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Dropped by the first Lumiere Citizens killed in the area.",
+  "lat": 0.742903,
+  "lng": -0.26471
+ },
+ {
+  "id": 454440,
+  "name": "Lithelim (Lune)",
+  "category": "Weapon",
+  "region": "Inside the Monolith",
+  "description": "Location: Found Inside the Monolith behind the Clair Obscur",
+  "lat": 1.249169,
+  "lng": -1.190222
+ },
+ {
+  "id": 455617,
+  "name": "Litheson (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Dropped by the first Lumiere Citizens killed in the area.",
+  "lat": 0.742848,
+  "lng": -0.265439
+ },
+ {
+  "id": 455407,
+  "name": "Lithum (Maelle)",
+  "category": "Weapon",
+  "region": "The Reacher",
+  "description": "Location: Drops from defeating Alicia",
+  "lat": 1.000693,
+  "lng": -0.383076
+ },
+ {
+  "id": 455389,
+  "name": "Lunerim (Lune)",
+  "category": "Weapon",
+  "region": "Spring Meadows",
+  "description": "Location: Lune is automatically given this weapon when she joins the party in Spring Meadows",
+  "lat": 0.40565,
+  "lng": -0.92236
+ },
+ {
+  "id": 455111,
+  "name": "Lusteson (Sciel)",
+  "category": "Weapon",
+  "region": "Forgotten Battlefield",
+  "description": "Location: Drops from defeating the Chromatic Luster",
+  "lat": 0.729867,
+  "lng": -0.911175
+ },
+ {
+  "id": 455408,
+  "name": "Maellum (Maelle)",
+  "category": "Weapon",
+  "region": "Flying Waters",
+  "description": "Location: Maelle is automatically given this weapon when she joins the party in the Flying Waters. You'll find her inside The Manor.",
+  "lat": 0.442243,
+  "lng": -0.812685
+ },
+ {
+  "id": 455424,
+  "name": "Martenon (Sciel)",
+  "category": "Weapon",
+  "region": "Flying Manor",
+  "description": "Location: Sold by Fusoka",
+  "lat": 0.764141,
+  "lng": -0.465043
+ },
+ {
+  "id": 449486,
+  "name": "Medalum (Maelle)",
+  "category": "Weapon",
+  "region": "Gestral Village",
+  "description": "Location: Rewarded from the final Gestral fight in the Arena during the story quest - you must win the fight with Maelle to receive the weapon Can also be obtained by defeating Golgra in a duel (recommended late game)",
+  "lat": 0.491242,
+  "lng": -0.647289
+ },
+ {
+  "id": 455131,
+  "name": "Melarum (Maelle)",
+  "category": "Weapon",
+  "region": "Old Lumiere",
+  "description": "Location: Reward for defeating Renoir.",
+  "lat": 0.744365,
+  "lng": -1.017238
+ },
+ {
+  "id": 455618,
+  "name": "Minason (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Chapelier",
+  "lat": 0.739869,
+  "lng": -0.741864
+ },
+ {
+  "id": 455619,
+  "name": "Moisson (Sciel)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Moissonneuse",
+  "lat": 0.723501,
+  "lng": -0.735883
+ },
+ {
+  "id": 455628,
+  "name": "Monocaro (Monoco)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Monoco is automatically given this weapon when he joins the party inside Monoco's Station, right after defeating the Stalact.",
+  "lat": 0.684568,
+  "lng": -0.699264
+ },
+ {
+  "id": 455160,
+  "name": "Noahram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Lumiere (Intro)",
+  "description": "Location: Gustave is automatically given this weapon after defeating Maelle in a duel at the beginning of the game.",
+  "lat": 0.443576,
+  "lng": -1.005378
+ },
+ {
+  "id": 455161,
+  "name": "Nosaram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Grour inside of Renoir's Drafts",
+  "lat": 0.758777,
+  "lng": -0.338433
+ },
+ {
+  "id": 449746,
+  "name": "Nusaro (Monoco)",
+  "category": "Weapon",
+  "region": "Old Lumiere",
+  "description": "Location: Found within the Old Lumiere - In the first area after the Monoco cutscene, go through the ruined door on the right and follow the path",
+  "lat": 0.675107,
+  "lng": -0.970227
+ },
+ {
+  "id": 455391,
+  "name": "Painerim (Lune)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Grour inside Renoir's Drafts",
+  "lat": 0.758735,
+  "lng": -0.339015
+ },
+ {
+  "id": 455410,
+  "name": "Plenum (Maelle)",
+  "category": "Weapon",
+  "region": "Yellow Harvest",
+  "description": "Location: Drops from defeating Glaise",
+  "lat": 0.407923,
+  "lng": -0.553409
+ },
+ {
+  "id": 453338,
+  "name": "Potierim (Lune)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Dropped by one of the enemies.",
+  "lat": 0.611812,
+  "lng": -0.700928
+ },
+ {
+  "id": 455109,
+  "name": "Ramasson (Sciel)",
+  "category": "Weapon",
+  "region": "Forgotten Battlefield",
+  "description": "Location: Found within the Forgotten Battlefield - South Entrance - drops from defeating a common enemy",
+  "lat": 0.705414,
+  "lng": -0.897668
+ },
+ {
+  "id": 455620,
+  "name": "Rangeson (Sciel)",
+  "category": "Weapon",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Sold by Jerijeri",
+  "lat": 0.461183,
+  "lng": -0.486628
+ },
+ {
+  "id": 452820,
+  "name": "Redalim (Lune)",
+  "category": "Weapon",
+  "region": "Old Lumiere",
+  "description": "Location: Found within Old Lumiere - Under the paint cage. It's close to the Manor Gardens expedition flag .",
+  "lat": 0.711393,
+  "lng": -1.003851
+ },
+ {
+  "id": 455134,
+  "name": "Sadon (Sciel)",
+  "category": "Weapon",
+  "region": "Visages",
+  "description": "Location: Sold by Blooraga after defeating him in combat",
+  "lat": 0.98794,
+  "lng": -0.998455
+ },
+ {
+  "id": 449470,
+  "name": "Sakaram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Ancient Sanctuary",
+  "description": "Location: Found within the Ancient Sanctuary - drops from defeating the Robust Sakapatate story enemy",
+  "lat": 0.471806,
+  "lng": -0.746066
+ },
+ {
+  "id": 455392,
+  "name": "Saperim (Lune)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the enemies",
+  "lat": 0.741817,
+  "lng": -0.629959
+ },
+ {
+  "id": 455393,
+  "name": "Scaverim (Lune)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Scavenger",
+  "lat": 0.662332,
+  "lng": -0.719982
+ },
+ {
+  "id": 455621,
+  "name": "Scieleson (Sciel)",
+  "category": "Weapon",
+  "region": "Gestral Village",
+  "description": "Location: Sciel is automatically given this weapon when she joins the party at the Gestral Village",
+  "lat": 0.48107,
+  "lng": -0.6495
+ },
+ {
+  "id": 455423,
+  "name": "Seashelum (Maelle)",
+  "category": "Weapon",
+  "region": "Flying Manor",
+  "description": "Location: Sold by Fusoka",
+  "lat": 0.764155,
+  "lng": -0.464572
+ },
+ {
+  "id": 455162,
+  "name": "Seeram (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Cruler",
+  "lat": 0.675126,
+  "lng": -0.665883
+ },
+ {
+  "id": 449479,
+  "name": "Sekarum (Maelle)",
+  "category": "Weapon",
+  "region": "Gestral Village",
+  "description": "Location: Can be bought from Eesda after winning a fight against them. Find them in the hut just beyond the market inside the Gestral Village",
+  "lat": 0.47105,
+  "lng": -0.660163
+ },
+ {
+  "id": 455426,
+  "name": "Sidaro (Monoco)",
+  "category": "Weapon",
+  "region": "Gestral Village",
+  "description": "Location: Can be obtained by defeating Golgra with Monoco. Can also be purchased from Fusoka in the Flying Manor",
+  "lat": 0.483485,
+  "lng": -0.648905
+ },
+ {
+  "id": 455165,
+  "name": "Simoso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating Simon",
+  "lat": 0.781367,
+  "lng": -0.330957
+ },
+ {
+  "id": 455143,
+  "name": "Sireso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Sirene",
+  "description": "Location: Drops from the Chromatic Greatsword Cultist",
+  "lat": 0.817382,
+  "lng": -0.963016
+ },
+ {
+  "id": 455395,
+  "name": "Snowim (Lune)",
+  "category": "Weapon",
+  "region": "Frozen Hearts",
+  "description": "Location: Drops from defeating the Gargant",
+  "lat": 0.871025,
+  "lng": -1.099165
+ },
+ {
+  "id": 455427,
+  "name": "Stalum (Maelle)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Stalact enemy",
+  "lat": 0.675515,
+  "lng": -0.707158
+ },
+ {
+  "id": 543435,
+  "name": "Sucetton (Sciel)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "Reward for defeating the Chromatic Barbasucette",
+  "lat": 1.087771,
+  "lng": -0.47955
+ },
+ {
+  "id": 543273,
+  "name": "Sucreso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Verso's Drafts",
+  "description": "On the treehouse's balcony, reached via Grapple Point",
+  "lat": 1.017542,
+  "lng": -0.498041
+ },
+ {
+  "id": 455166,
+  "name": "Tireso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "The Reacher",
+  "description": "Location: Sold by Eragol (after defeating him in combat) inside The Reacher",
+  "lat": 0.97794,
+  "lng": -0.434605
+ },
+ {
+  "id": 455145,
+  "name": "Tissenum (Maelle)",
+  "category": "Weapon",
+  "region": "Sirene",
+  "description": "Location: Drops from defeating Tisseur",
+  "lat": 0.887401,
+  "lng": -1.012525
+ },
+ {
+  "id": 455151,
+  "name": "Tisseron (Sciel)",
+  "category": "Weapon",
+  "region": "Sirene",
+  "description": "Location: Drops from defeating Sirène",
+  "lat": 0.878593,
+  "lng": -0.967265
+ },
+ {
+  "id": 449471,
+  "name": "Trebuchim (Lune)",
+  "category": "Weapon",
+  "region": "Ancient Sanctuary",
+  "description": "Location: Drops from the Ranger and Catapult Sakapatates found within the Ancient Sanctuary - South Entrance - from the Sanctuary Maze rest point find these enemies in the clearing accessed by crouching through the rocks",
+  "lat": 0.463068,
+  "lng": -0.73544
+ },
+ {
+  "id": 449467,
+  "name": "Troubadim (Lune)",
+  "category": "Weapon",
+  "region": "Flying Waters",
+  "description": "Location: Drops from the Chromatic Troubadour",
+  "lat": 0.502276,
+  "lng": -0.850125
+ },
+ {
+  "id": 455629,
+  "name": "Urnaro (Monoco)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Drops from defeating the Chromatic Glaise at the Sky Island",
+  "lat": 0.672213,
+  "lng": -0.65608
+ },
+ {
+  "id": 455428,
+  "name": "Veremum (Maelle)",
+  "category": "Weapon",
+  "region": "Inside the Monolith",
+  "description": "Location: Sold by Mistra",
+  "lat": 1.077774,
+  "lng": -1.023822
+ },
+ {
+  "id": 455167,
+  "name": "Verleso (Gustave/Verso)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Verso is automatically given this weapon when he joins the party at the beginning of Act II",
+  "lat": 0.617416,
+  "lng": -0.689397
+ },
+ {
+  "id": 455430,
+  "name": "Volesterum (Maelle)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Cribappa",
+  "lat": 0.64086,
+  "lng": -0.288252
+ },
+ {
+  "id": 455436,
+  "name": "Yeverum (Maelle)",
+  "category": "Weapon",
+  "region": "Continent",
+  "description": "Location: Sold by Grour inside Renoir's Drafts",
+  "lat": 0.758782,
+  "lng": -0.337872
+ }
+]

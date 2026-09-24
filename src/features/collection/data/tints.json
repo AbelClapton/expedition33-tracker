@@ -1,0 +1,333 @@
+[
+ {
+  "id": 448808,
+  "name": "Chroma Elixir Shard",
+  "category": "Tint",
+  "region": "Flying Waters",
+  "description": "Location: Found within the Flying Waters - South Entrance - inside the first Paint Cage you come across just after entering the location",
+  "lat": 0.45207,
+  "lng": -0.841952
+ },
+ {
+  "id": 448815,
+  "name": "Chroma Elixir Shard",
+  "category": "Tint",
+  "region": "Ancient Sanctuary",
+  "description": "Location: Found within the Ancient Sanctuary - South Entrance - inside the Paint Cage",
+  "lat": 0.513621,
+  "lng": -0.743859
+ },
+ {
+  "id": 448842,
+  "name": "Chroma Elixir Shard",
+  "category": "Tint",
+  "region": "Forgotten Battlefield",
+  "description": "Location: Found within the Forgotten Battlefield - South Entrance - inside a Paint Cage",
+  "lat": 0.725317,
+  "lng": -0.932585
+ },
+ {
+  "id": 449718,
+  "name": "Chroma Elixir Shard",
+  "category": "Tint",
+  "region": "Continent",
+  "description": "Location: Found within the Stone Wave Cliffs Cave - Inside the Paint Cage. After crossing the bridge formed by a stone column, go through the hole between the rocks on the right and go up.",
+  "lat": 0.614367,
+  "lng": -0.664929
+ },
+ {
+  "id": 543400,
+  "name": "Chroma Elixir Shard",
+  "category": "Tint",
+  "region": "Verso's Drafts",
+  "description": "Beneath the Paint Cage",
+  "lat": 1.00058,
+  "lng": -0.491915
+ },
+ {
+  "id": 448821,
+  "name": "Energy Tint Shard",
+  "category": "Tint",
+  "region": "Ancient Sanctuary",
+  "description": "Location: Found within the Ancient Sanctuary - South Entrance - up on the hill after defeating the Ultimate Sakapatate",
+  "lat": 0.500636,
+  "lng": -0.722767
+ },
+ {
+  "id": 448837,
+  "name": "Energy Tint Shard",
+  "category": "Tint",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Found within the Stone Wave Cliffs - South Entrance - Next to the shipwreck",
+  "lat": 0.473738,
+  "lng": -0.518117
+ },
+ {
+  "id": 448925,
+  "name": "Energy Tint Shard",
+  "category": "Tint",
+  "region": "Spring Meadows",
+  "description": "Location: Found within the Spring Meadows - after climbing the rope on the upper floor of the abandoned house, look to your right for a ramp. Go down it to find the shard underneath.",
+  "lat": 0.455196,
+  "lng": -0.927913
+ },
+ {
+  "id": 449465,
+  "name": "Energy Tint Shard",
+  "category": "Tint",
+  "region": "Flying Waters",
+  "description": "Location: Found within the Flying Waters - South Entrance - in the street near the stall just below the Lumerian Streets rest point. Guarded by Enemy x3",
+  "lat": 0.514966,
+  "lng": -0.840115
+ },
+ {
+  "id": 449728,
+  "name": "Energy Tint Shard",
+  "category": "Tint",
+  "region": "Forgotten Battlefield",
+  "description": "Location: Found within the Forgotten Battlefield - South Entrance - Follow the path to the right after passing through the big gate. Cross the wooden bridge on the left and go down over the shipwreck. It's behind the wooden boxes on the right.",
+  "lat": 0.71741,
+  "lng": -0.907877
+ },
+ {
+  "id": 449759,
+  "name": "Energy Tint Shard",
+  "category": "Tint",
+  "region": "Visages",
+  "description": "Location: Found within the Visages - Path of Sadness, guarded by Enemy x3",
+  "lat": 1.005922,
+  "lng": -1.027367
+ },
+ {
+  "id": 454862,
+  "name": "Energy Tint Shard",
+  "category": "Tint",
+  "region": "Sirene",
+  "description": "In the corner of Glissando's room.",
+  "lat": 0.909799,
+  "lng": -0.978368
+ },
+ {
+  "id": 543325,
+  "name": "Energy Tint Shard",
+  "category": "Tint",
+  "region": "Verso's Drafts",
+  "lat": 1.135433,
+  "lng": -0.513888
+ },
+ {
+  "id": 448927,
+  "name": "Healing Tint Shard",
+  "category": "Tint",
+  "region": "Spring Meadows",
+  "description": "Location: Found within Spring Meadows: - First speak with Jar (Nevron), who can be found sitting near the Abandoned Expeditioner Camp rest point. He requests your help - Retrieve the Resin and head back to speak with Jar again - When Jar asks you for light, shoot the lantern on top of his staff, then speak with him again for your reward",
+  "lat": 0.490657,
+  "lng": -0.895625
+ },
+ {
+  "id": 449474,
+  "name": "Healing Tint Shard",
+  "category": "Tint",
+  "region": "Ancient Sanctuary",
+  "description": "Location: Found within the Ancient Sanctuary - South Entrance - in the red grass at the feet of a statue, just past the Giant Bell Alley rest point",
+  "lat": 0.502776,
+  "lng": -0.754564
+ },
+ {
+  "id": 449725,
+  "name": "Healing Tint Shard",
+  "category": "Tint",
+  "region": "Forgotten Battlefield",
+  "description": "Location: Found within the Forgotten Battlefield - South Entrance - After passing through the big gate, follow the path to the left. Among the ruins.",
+  "lat": 0.702259,
+  "lng": -0.906974
+ },
+ {
+  "id": 449754,
+  "name": "Healing Tint Shard",
+  "category": "Tint",
+  "region": "Visages",
+  "description": "Location: Found within the Visages - Path of Joy Note: May be replaced by a Recoat if you already have a Strong Healing Tint.",
+  "lat": 0.956598,
+  "lng": -1.013486
+ },
+ {
+  "id": 454684,
+  "name": "Healing Tint Shard",
+  "category": "Tint",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Found within the Stone Wave Cliffs - South Entrance - Just down the path from Expedition Flag 56 - Paintress Shrine, guarded by Rocher x2",
+  "lat": 0.459618,
+  "lng": -0.512452
+ },
+ {
+  "id": 456587,
+  "name": "Healing Tint Shard",
+  "category": "Tint",
+  "region": "Inside the Monolith",
+  "description": "Location: Sold by Melosh",
+  "lat": 1.165444,
+  "lng": -1.168831
+ },
+ {
+  "id": 543336,
+  "name": "Healing Tint Shard",
+  "category": "Tint",
+  "region": "Verso's Drafts",
+  "lat": 1.130045,
+  "lng": -0.489021
+ },
+ {
+  "id": 448805,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Spring Meadows",
+  "description": "Location: Found within the Spring Meadows, at the end of a narrow rocky passage",
+  "lat": 0.508495,
+  "lng": -0.889662
+ },
+ {
+  "id": 448818,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Ancient Sanctuary",
+  "description": "Location: Found within the Ancient Sanctuary - South Entrance - in the ruined shack below the Mime",
+  "lat": 0.486381,
+  "lng": -0.71834
+ },
+ {
+  "id": 449459,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Flying Waters",
+  "description": "Location: Found within the Flying Waters - South Entrance - head up and to the right from the Coral Cave rest point and drop into the red hole in the ground. Open the Paint Cage in the area below to obtain the tint",
+  "lat": 0.484311,
+  "lng": -0.820143
+ },
+ {
+  "id": 449899,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Sirene",
+  "description": "Location: Found within the Sirene - Under the Paint Cage",
+  "lat": 0.88509,
+  "lng": -1.023165
+ },
+ {
+  "id": 452838,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Frozen Hearts",
+  "description": "Location: Found within Frozen Hearts - Under the paint cage",
+  "lat": 0.799321,
+  "lng": -1.092605
+ },
+ {
+  "id": 454446,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Inside the Monolith",
+  "description": "Location: Found Inside the Monolith - In the Paint Cage",
+  "lat": 1.086441,
+  "lng": -0.997239
+ },
+ {
+  "id": 454697,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Forgotten Battlefield",
+  "description": "Location: Found within the Forgotten Battlefield - South Entrance - Follow the path to the right after passing through the big gate. Under the wooden bridge at the foot of a small burnt tree.",
+  "lat": 0.719123,
+  "lng": -0.90012
+ },
+ {
+  "id": 454881,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Visages",
+  "description": "Inside Path of Anger, more or less in front of the entrance, on the platform with Enemy x3",
+  "lat": 0.977199,
+  "lng": -0.960889
+ },
+ {
+  "id": 456568,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Found within the Stone Wave Cliffs - In the flooded buildings area of Stone Waves Cliff. It's located below a collapsed building that you can walk into and up the stairs.",
+  "lat": 0.478971,
+  "lng": -0.439899
+ },
+ {
+  "id": 504440,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Old Lumiere",
+  "description": "Location: Sold by Mandelgo",
+  "lat": 0.651439,
+  "lng": -0.97914
+ },
+ {
+  "id": 543389,
+  "name": "Revive Tint Shard",
+  "category": "Tint",
+  "region": "Verso's Drafts",
+  "description": "In front of a duck.",
+  "lat": 1.063709,
+  "lng": -0.487753
+ },
+ {
+  "id": 449712,
+  "name": "Shape of Energy",
+  "category": "Tint",
+  "region": "Continent",
+  "description": "Location: Found within the The Manor - You can reach it by jumping over the platforms. Among the books.",
+  "lat": 0.63624,
+  "lng": -0.699942
+ },
+ {
+  "id": 458761,
+  "name": "Shape of Energy",
+  "category": "Tint",
+  "region": "Gestral Village",
+  "description": "Location: Inside The Manor as accessed from the Gestral Village - In the basement accessed via hatch among some boxes in the corner, unlocked after interacting with 3 objects in the kitchen. Inside a crate in the corner of the basement's largest room.",
+  "lat": 0.471046,
+  "lng": -0.625319
+ },
+ {
+  "id": 452800,
+  "name": "Shape of Health",
+  "category": "Tint",
+  "region": "Sirene",
+  "description": "Location: Found within Sirene - Inside the Manor. Break the mirror in the bathroom and jump through it.",
+  "lat": 0.837709,
+  "lng": -0.996977
+ },
+ {
+  "id": 474953,
+  "name": "Shape of Health",
+  "category": "Tint",
+  "region": "Flying Waters",
+  "description": "Location: Reward for defeating Goblu",
+  "lat": 0.498745,
+  "lng": -0.824048
+ },
+ {
+  "id": 456592,
+  "name": "Shape of Life",
+  "category": "Tint",
+  "region": "Flying Waters",
+  "description": "Location: Found inside The Manor, accessed from within Flying Waters. As you enter, go up the stairs right in front of you. When they split, go up the left stairs, turn right, and up the stairs there. At the top of these stairs, jump through the painting hanging on the left side wall seen in the screenshot. Behind it is a hidden room with a Shape of Life.",
+  "lat": 0.44226,
+  "lng": -0.812239
+ },
+ {
+  "id": 504319,
+  "name": "Shape of Life",
+  "category": "Tint",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Drops from the Lampmaster",
+  "lat": 0.500458,
+  "lng": -0.407052
+ }
+]

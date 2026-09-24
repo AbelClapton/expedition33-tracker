@@ -1,0 +1,117 @@
+{
+ "generatedFrom": "mapgenie map 760 (the-continent), see scripts/fetch-collectables.mjs",
+ "layers": {
+  "lumina": {
+   "category": "Colour of Lumina",
+   "group": "Items",
+   "count": 236,
+   "pins": 236,
+   "exact": 68,
+   "approx": 168
+  },
+  "chroma": {
+   "category": "Chroma",
+   "group": "Items",
+   "count": 150,
+   "pins": 150,
+   "exact": 20,
+   "approx": 130
+  },
+  "chroma-catalysts": {
+   "category": "Chroma Catalyst",
+   "group": "Items",
+   "count": 156,
+   "pins": 156,
+   "exact": 13,
+   "approx": 143
+  },
+  "recoat": {
+   "category": "Recoat",
+   "group": "Items",
+   "count": 21,
+   "pins": 21,
+   "exact": 2,
+   "approx": 19
+  },
+  "weapons": {
+   "category": "Weapon",
+   "group": "Collectibles",
+   "count": 121,
+   "pins": 121,
+   "exact": 32,
+   "approx": 89
+  },
+  "outfits": {
+   "category": "Outfit",
+   "group": "Collectibles",
+   "count": 70,
+   "pins": 70,
+   "exact": 30,
+   "approx": 40
+  },
+  "hairstyles": {
+   "category": "Haircut",
+   "group": "Collectibles",
+   "count": 105,
+   "pins": 105,
+   "exact": 66,
+   "approx": 39
+  },
+  "tints": {
+   "category": "Tint",
+   "group": "Collectibles",
+   "count": 37,
+   "pins": 37,
+   "exact": 2,
+   "approx": 35
+  },
+  "journal-entries": {
+   "category": "Journal Entry",
+   "group": "Collectibles",
+   "count": 49,
+   "pins": 49,
+   "exact": 20,
+   "approx": 29
+  },
+  "music-records": {
+   "category": "Music Record",
+   "group": "Collectibles",
+   "count": 34,
+   "pins": 34,
+   "exact": 20,
+   "approx": 14
+  },
+  "quest-items": {
+   "category": "Quest Item",
+   "group": "Collectibles",
+   "count": 21,
+   "pins": 21,
+   "exact": 0,
+   "approx": 21
+  },
+  "paint-cages": {
+   "category": "Paint Cage",
+   "group": "Collectibles",
+   "count": 20,
+   "pins": 20,
+   "exact": 0,
+   "approx": 20
+  },
+  "underwater-treasure": {
+   "category": "Underwater Treasure",
+   "group": "Locations",
+   "count": 12,
+   "pins": 12,
+   "exact": 12,
+   "approx": 0
+  },
+  "lost-gestrals": {
+   "category": "Lost Gestral",
+   "group": "Collectibles",
+   "count": 9,
+   "pins": 9,
+   "exact": 9,
+   "approx": 0
+  }
+ }
+}

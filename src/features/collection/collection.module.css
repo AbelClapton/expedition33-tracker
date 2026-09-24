@@ -31,15 +31,12 @@
     font-weight: 500;
 }
 
-.foundButton {
-    font-family: var(--font-space-grotesk), sans-serif;
-    font-weight: 500;
-    letter-spacing: 0.2em;
-}
-
 .cardGrid {
     display: grid;
-    grid-template-columns: repeat(1, minmax(0, 1fr));
+    /* Fluid columns instead of fixed 1/2/4 breakpoints: at 768-1199px the shell's
+       240px sidebar plus the old repeat(2/4) left cards as narrow as 189px, and
+       the detailed card's footer needs ~220px of content to hold its controls. */
+    grid-template-columns: repeat(auto-fill, minmax(min(268px, 100%), 1fr));
     gap: 1.5rem;
     padding-bottom: 5rem;
 }
@@ -184,14 +181,18 @@
     }
 }
 
-@media (min-width: 768px) {
-    .cardGrid {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+/* One card per row below sm, so the plate no longer has to hold a fixed 274px:
+   the text columns get narrower and the footer's controls need a second line on
+   a ~320px phone. Grow with the content instead of clipping it, and keep the
+   compact plate at its one-line height (declared after .card so it still wins). */
+@media (max-width: 639px) {
+    .card {
+        height: auto;
+        min-height: 274px;
     }
-}
 
-@media (min-width: 1200px) {
-    .cardGrid {
-        grid-template-columns: repeat(4, minmax(0, 1fr));
+    .cardCompact {
+        height: 72px;
+        min-height: 0;
     }
 }

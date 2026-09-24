@@ -1,0 +1,814 @@
+[
+  {
+    "id": "571693",
+    "name": "Anniversary (Gustave)",
+    "lat": -68.79163,
+    "lng": -11.31001,
+    "note": "Sold by Carrabi before the end of Act 1"
+  },
+  {
+    "id": "571690",
+    "name": "Anniversary (Lune)",
+    "lat": -24.57991,
+    "lng": 4.17518,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "571688",
+    "name": "Anniversary (Maelle)",
+    "lat": -24.57991,
+    "lng": 5.06005,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "571686",
+    "name": "Anniversary (Monoco)",
+    "lat": -24.57991,
+    "lng": 5.94492,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "571689",
+    "name": "Anniversary (Sciel)",
+    "lat": -24.57991,
+    "lng": 4.61762,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "571687",
+    "name": "Anniversary (Verso)",
+    "lat": -24.57991,
+    "lng": 5.50248,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "504576",
+    "name": "Artist (Lune)",
+    "lat": -70.77838,
+    "lng": -25.68703,
+    "note": "Sold by Blabary"
+  },
+  {
+    "id": "504577",
+    "name": "Artist (Maelle)",
+    "lat": -70.77251,
+    "lng": -25.27363,
+    "note": "Sold by Blabary"
+  },
+  {
+    "id": "504578",
+    "name": "Artist (Sciel)",
+    "lat": -70.7689,
+    "lng": -24.81599,
+    "note": "Soled by Blabary"
+  },
+  {
+    "id": "466310",
+    "name": "Baguette (Gustave)",
+    "lat": -74.06787,
+    "lng": -23.41325,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Reward for defeating the Mime in combat."
+  },
+  {
+    "id": "475415",
+    "name": "Baguette (Lune)",
+    "lat": -71.03125,
+    "lng": -21.21487,
+    "approx": true,
+    "area": "Ancient Sanctuary",
+    "note": "Location: Drops from defeating the Mime"
+  },
+  {
+    "id": "521401",
+    "name": "Baguette (Maelle)",
+    "lat": 40.84706,
+    "lng": -68.51,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Reward for defeating the Mime."
+  },
+  {
+    "id": "543321",
+    "name": "Baguette (Monoco)",
+    "lat": -81.18123,
+    "lng": 12.31966,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Dropped by the Mime."
+  },
+  {
+    "id": "504430",
+    "name": "Baguette (Sciel)",
+    "lat": -70.45151,
+    "lng": -14.22562,
+    "approx": true,
+    "area": "Esquie's Nest",
+    "note": "Dropped by the Mime."
+  },
+  {
+    "id": "504842",
+    "name": "Baguette (Verso)",
+    "lat": 36.73888,
+    "lng": -38.91876,
+    "approx": true,
+    "area": "Visages"
+  },
+  {
+    "id": "521629",
+    "name": "Bald (Lune)",
+    "lat": 24.09376,
+    "lng": 9.79014,
+    "note": "Reward for defeating the Mime as Lune."
+  },
+  {
+    "id": "521631",
+    "name": "Bald (Maelle)",
+    "lat": 24.1338,
+    "lng": 10.89622,
+    "note": "Reward for defeating the Mime as Maelle."
+  },
+  {
+    "id": "521632",
+    "name": "Bald (Monoco)",
+    "lat": 24.15382,
+    "lng": 11.41608,
+    "note": "Reward for defeating the Mime as Monoco."
+  },
+  {
+    "id": "521630",
+    "name": "Bald (Sciel)",
+    "lat": 24.12404,
+    "lng": 9.24796,
+    "note": "Reward for defeating the Mime as Sciel."
+  },
+  {
+    "id": "521628",
+    "name": "Bald (Verso)",
+    "lat": 24.15781,
+    "lng": 10.27939,
+    "note": "Reward for defeating the Mime as Verso."
+  },
+  {
+    "id": "504460",
+    "name": "Braid (Lune)",
+    "lat": -67.30184,
+    "lng": 2.44139,
+    "note": "Sold by Appla"
+  },
+  {
+    "id": "504495",
+    "name": "Braid (Sciel)",
+    "lat": -2.63579,
+    "lng": -37.60872,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Drops from the Mime."
+  },
+  {
+    "id": "504437",
+    "name": "Braid Haircut (Maelle)",
+    "lat": -68.1061,
+    "lng": -27.27345,
+    "approx": true,
+    "area": "Yellow Harvest",
+    "note": "Reward for defeating the Mime."
+  },
+  {
+    "id": "464983",
+    "name": "Bun (Gustave)",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Obtained from Amandine in exchange for one Festival Token"
+  },
+  {
+    "id": "504414",
+    "name": "Bun (Verso)",
+    "lat": -25.91217,
+    "lng": -37.14676,
+    "note": "Sold by Blakora"
+  },
+  {
+    "id": "516918",
+    "name": "Bun Braid (Gustave)",
+    "lat": -67.48864,
+    "lng": -20.39511,
+    "note": "Sold by Jumeliba before the end of Act 1."
+  },
+  {
+    "id": "512713",
+    "name": "Bun Braid (Verso)",
+    "lat": -24.9782,
+    "lng": 5.50248,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "504405",
+    "name": "Charming (Gustave)",
+    "lat": -67.48837,
+    "lng": -21.30003,
+    "note": "Sold by Jumeliba before the end of Act 1."
+  },
+  {
+    "id": "516770",
+    "name": "Chic (Gustave)",
+    "lat": -68.79163,
+    "lng": -12.19487,
+    "note": "Sold by Carrabi before the end of Act 1"
+  },
+  {
+    "id": "543398",
+    "name": "Chic (Maelle)",
+    "lat": -81.24216,
+    "lng": 11.54351,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Appears after standing on the panels in ascending order. Most of them are underwater."
+  },
+  {
+    "id": "512717",
+    "name": "Chic (Monoco)",
+    "lat": -24.9782,
+    "lng": 5.94492,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "543259",
+    "name": "Chic (Verso)",
+    "lat": -81.06407,
+    "lng": 12.04545,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Spawns after completing the game by stepping on the numbers in ascending order."
+  },
+  {
+    "id": "527184",
+    "name": "Clea (Lune)",
+    "lat": -61.05882,
+    "lng": -41.32984,
+    "note": "Endless Tower - Reward for defeating the Goblu and Chromatic Abbest in Stage 3, Trial 3."
+  },
+  {
+    "id": "521889",
+    "name": "Clea (Maelle)",
+    "lat": -30.18312,
+    "lng": -32.06776,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "Dropped by the Mime in Flying Manor."
+  },
+  {
+    "id": "527191",
+    "name": "Clea (Sciel)",
+    "lat": -60.4943,
+    "lng": -43.10649,
+    "note": "Found within the Endless Tower - rewarded for defeating the Ultimate Sakapatate and Chromatic Luster in Stage 7, Trial 3."
+  },
+  {
+    "id": "504406",
+    "name": "Curly (Gustave)",
+    "lat": -67.38739,
+    "lng": -20.84653,
+    "note": "Sold by Jumeliba before the end of Act 1."
+  },
+  {
+    "id": "513973",
+    "name": "Curly (Verso)",
+    "lat": 47.09275,
+    "lng": -64.59473,
+    "note": "Sold by Sodasso"
+  },
+  {
+    "id": "504586",
+    "name": "Double Braid (Lune)",
+    "lat": 61.16873,
+    "lng": -22.26716,
+    "note": "Sold by Granasori"
+  },
+  {
+    "id": "504419",
+    "name": "Double Braid (Maelle)",
+    "lat": -64.60607,
+    "lng": -15.81592,
+    "note": "Sold by Colaro"
+  },
+  {
+    "id": "513975",
+    "name": "Double Braid (Sciel)",
+    "lat": 47.10022,
+    "lng": -63.63244,
+    "note": "Sold by Sodasso"
+  },
+  {
+    "id": "527185",
+    "name": "Double Braid White (Maelle)",
+    "lat": -60.79771,
+    "lng": -43.11893,
+    "note": "Reward for defeating the Chromatic Echassier in Stage 4, Trial 3."
+  },
+  {
+    "id": "543349",
+    "name": "Double Bun (Lune)",
+    "lat": -81.29027,
+    "lng": 12.5275,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Reward for jumping onto the number panels sequentially, found in an area beyond the Crawlspace."
+  },
+  {
+    "id": "543440",
+    "name": "Double Bun (Maelle)",
+    "lat": -81.15388,
+    "lng": 10.97192,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Reward for jumping off the diving board and landing in the blue ring, then speaking to the Half-baked Gestral."
+  },
+  {
+    "id": "543413",
+    "name": "Double Bun (Monoco)",
+    "lat": -81.08772,
+    "lng": 12.93264,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Given to you by the Half-baked Lifeguard alongside a Piece of Cake after turning half of the nearby Esquie statues blue."
+  },
+  {
+    "id": "543290",
+    "name": "Double Bun (Sciel)",
+    "lat": -81.36133,
+    "lng": 11.65978,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Reward for stepping on the 10 plates in order, starting here."
+  },
+  {
+    "id": "516771",
+    "name": "Esquie (Gustave)",
+    "lat": -68.79163,
+    "lng": -11.75244,
+    "note": "Sold by Carrabi before the end of Act 1"
+  },
+  {
+    "id": "518876",
+    "name": "Esquie (Lune)",
+    "lat": -80.9998,
+    "lng": 11.37038,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Verso's Drafts - Sold by Najabla"
+  },
+  {
+    "id": "518875",
+    "name": "Esquie (Maelle)",
+    "lat": -81.25483,
+    "lng": 13.29888,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Verso's Drafts - Sold by Najabla"
+  },
+  {
+    "id": "518878",
+    "name": "Esquie (Monoco)",
+    "lat": -81.26772,
+    "lng": 10.60551,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Verso's Drafts - Sold by Najabla"
+  },
+  {
+    "id": "518877",
+    "name": "Esquie (Sciel)",
+    "lat": -80.96168,
+    "lng": 12.64084,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Verso's Drafts - Sold by Najabla"
+  },
+  {
+    "id": "518874",
+    "name": "Esquie (Verso)",
+    "lat": -81.41716,
+    "lng": 12.46804,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Verso's Drafts - Sold by Najabla"
+  },
+  {
+    "id": "527194",
+    "name": "Expedition White (Verso)",
+    "lat": -60.43077,
+    "lng": -40.80376,
+    "note": "Found within the Endless Tower - rewarded for defeating the Chromatic Danseuse, Flame Eveque, and Frost Eveque in Stage 9, Trial 3."
+  },
+  {
+    "id": "504562",
+    "name": "French Bob (Lune)",
+    "lat": -21.49726,
+    "lng": -17.06303,
+    "note": "Sold by Strabami"
+  },
+  {
+    "id": "504416",
+    "name": "French Bob (Maelle)",
+    "lat": -5.96411,
+    "lng": -16.53211,
+    "note": "Speak to Grandis after freeing the carousel from the ice. Answer yes to receive the new haircut."
+  },
+  {
+    "id": "543441",
+    "name": "French Bob (Monoco)",
+    "lat": -81.04926,
+    "lng": 10.50431,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Reward for jumping off the diving board and landing in the red ring, then speaking to the Half-baked Gestral."
+  },
+  {
+    "id": "504543",
+    "name": "French Bob (Sciel)",
+    "lat": -30.88343,
+    "lng": -25.25635,
+    "note": "Sold by Pecha"
+  },
+  {
+    "id": "475517",
+    "name": "Gestral (Gustave)",
+    "lat": -69.86989,
+    "lng": -21.17101,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Sold by Delsitra"
+  },
+  {
+    "id": "518583",
+    "name": "Gestral (Lune)",
+    "lat": -67.70572,
+    "lng": -12.77211,
+    "note": "Obtained from Sastro in the Camp after finding 2 Lost Gestrals"
+  },
+  {
+    "id": "518582",
+    "name": "Gestral (Maelle)",
+    "lat": -70.44183,
+    "lng": -16.25697,
+    "note": "Obtained from Sastro in the Camp after finding 1 Lost Gestral"
+  },
+  {
+    "id": "518584",
+    "name": "Gestral (Sciel)",
+    "lat": -67.42426,
+    "lng": -42.36265,
+    "note": "Obtained from Sastro in the Camp after finding 3 Lost Gestrals"
+  },
+  {
+    "id": "518585",
+    "name": "Gestral (Verso)",
+    "lat": -20.88118,
+    "lng": 6.0175,
+    "note": "Obtained from Sastro in the Camp after finding 5 Lost Gestrals"
+  },
+  {
+    "id": "522320",
+    "name": "Gestral White (Maelle)",
+    "lat": -68.73203,
+    "lng": -29.33504,
+    "note": "Reward for defeating Golgra in the Dark Gestral Arena. She fights you immediately after completing Round 3."
+  },
+  {
+    "id": "504582",
+    "name": "Gustave's Haircut (Verso)",
+    "lat": -16.69099,
+    "lng": -54.46045,
+    "note": "Sold by Papasso"
+  },
+  {
+    "id": "504417",
+    "name": "Half Ponytail (Lune)",
+    "lat": 22.8138,
+    "lng": -3.44713,
+    "note": "Sold by Rederi"
+  },
+  {
+    "id": "512716",
+    "name": "Long Double Bun (Lune)",
+    "lat": -24.9782,
+    "lng": 4.17518,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "512714",
+    "name": "Long Double Bun (Maelle)",
+    "lat": -24.9782,
+    "lng": 5.06005,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "512715",
+    "name": "Long Double Bun (Sciel)",
+    "lat": -24.9782,
+    "lng": 4.61762,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "504579",
+    "name": "Messy Bun (Lune)",
+    "lat": -16.67851,
+    "lng": -55.49325,
+    "note": "Sold by Papasso"
+  },
+  {
+    "id": "504580",
+    "name": "Messy Bun (Maelle)",
+    "lat": -16.70412,
+    "lng": -55.93984,
+    "note": "Sold by Papasso"
+  },
+  {
+    "id": "527190",
+    "name": "Messy Bun White (Sciel)",
+    "lat": -60.74884,
+    "lng": -40.75537,
+    "note": "Found within the Endless Tower - rewarded for defeating the Gargant in Stage 6, Trial 3"
+  },
+  {
+    "id": "543366",
+    "name": "Osquio (Gustave/Verso)",
+    "lat": -81.12274,
+    "lng": 13.70859,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Reward for defeating Osquio"
+  },
+  {
+    "id": "543373",
+    "name": "Osquio (Lune)",
+    "lat": -81.40848,
+    "lng": 10.92317,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "543372",
+    "name": "Osquio (Maelle)",
+    "lat": -80.88797,
+    "lng": 11.73494,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "543375",
+    "name": "Osquio (Monoco)",
+    "lat": -81.37259,
+    "lng": 13.476,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "543374",
+    "name": "Osquio (Sciel)",
+    "lat": -81.19399,
+    "lng": 9.96408,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "521457",
+    "name": "Painted Me (Maelle)",
+    "lat": 40.54471,
+    "lng": -69.28615,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Reward for defeating Alicia"
+  },
+  {
+    "id": "504542",
+    "name": "Plunging Bob (Sciel)",
+    "lat": -30.87872,
+    "lng": -24.54293,
+    "note": "Sold by Pecha"
+  },
+  {
+    "id": "504415",
+    "name": "Ponytail (Lune)",
+    "lat": -25.89675,
+    "lng": -36.55363,
+    "note": "Sold by Blakora"
+  },
+  {
+    "id": "504399",
+    "name": "Ponytail (Sciel)",
+    "lat": -65.82078,
+    "lng": -15.0172,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Sold by Jerijeri"
+  },
+  {
+    "id": "527196",
+    "name": "Ponytail White (Maelle)",
+    "lat": -60.1856,
+    "lng": -41.30755,
+    "note": "Location: Rewarded upon completion of all 33 Endless Tower challenges when you speak to the Faded Woman."
+  },
+  {
+    "id": "515730",
+    "name": "Pure (Monoco)",
+    "lat": -74.80409,
+    "lng": 31.28628,
+    "note": "Sold by Lucaroparfé"
+  },
+  {
+    "id": "518854",
+    "name": "Real Maelle (Maelle)",
+    "lat": 69.24058,
+    "lng": -16.8682,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Automatically obtained when you complete Act II."
+  },
+  {
+    "id": "475518",
+    "name": "Rebellious (Maelle)",
+    "lat": -70.00669,
+    "lng": -21.94716,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Inside The Manor as accessed from the Gestral Village - In the basement accessed via hatch among some boxes in the corner, unlocked after interacting with 3 objects in the kitchen. Inside a crate by the stairs in the room accessed by crawling under the hole in the wall."
+  },
+  {
+    "id": "504418",
+    "name": "Rebellious (Sciel)",
+    "lat": 22.53236,
+    "lng": -3.95039,
+    "note": "Sold by Rederi"
+  },
+  {
+    "id": "527186",
+    "name": "Rebellious White (Lune)",
+    "lat": -60.79536,
+    "lng": -42.57902,
+    "note": "Endless Tower -Reward for defeating Chromatic Troubadour and Chromatic Abberation in Stage 5, Trial 3."
+  },
+  {
+    "id": "518701",
+    "name": "Samurai (Verso)",
+    "lat": 41.70573,
+    "lng": -4.77343,
+    "approx": true,
+    "area": "Sirene",
+    "note": "Unlocked in the process of reaching Bond Level 3 with Monoco. Choose these dialogue options: - \"Yes, my hair is impeccable.\" - \"Fine!\""
+  },
+  {
+    "id": "504477",
+    "name": "Short (Gustave)",
+    "lat": -68.79163,
+    "lng": -13.07974,
+    "note": "Sold by Carrabi before the end of Act 1"
+  },
+  {
+    "id": "504528",
+    "name": "Short (Lune)",
+    "lat": -9.79568,
+    "lng": -5.08271,
+    "approx": true,
+    "area": "Frozen Hearts",
+    "note": "Dropped from the Mime"
+  },
+  {
+    "id": "474631",
+    "name": "Short (Maelle)",
+    "lat": -72.50172,
+    "lng": -19.45666,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: Drops from defeating the Mime"
+  },
+  {
+    "id": "504581",
+    "name": "Short (Sciel)",
+    "lat": -16.69624,
+    "lng": -54.9651,
+    "note": "Sold by Papasso"
+  },
+  {
+    "id": "504459",
+    "name": "Short Curly (Sciel)",
+    "lat": -67.30925,
+    "lng": 1.65607,
+    "note": "Sold by Appla"
+  },
+  {
+    "id": "513974",
+    "name": "Short White (Maelle)",
+    "lat": 47.33857,
+    "lng": -64.11912,
+    "note": "Sold by Sodasso"
+  },
+  {
+    "id": "527283",
+    "name": "Simon (Lune)",
+    "lat": -59.43671,
+    "lng": -42.59147,
+    "note": "Reward for defeating Simon The Divergent Star within the Endless Tower - independent of the challenges. Added in the Thank You update."
+  },
+  {
+    "id": "527284",
+    "name": "Simon (Maelle)",
+    "lat": -59.43114,
+    "lng": -42.12707,
+    "note": "Reward for defeating Simon The Divergent Star within the Endless Tower - independent of the challenges. Added in the Thank You update."
+  },
+  {
+    "id": "527286",
+    "name": "Simon (Monoco)",
+    "lat": -59.39207,
+    "lng": -41.09841,
+    "note": "Reward for defeating Simon The Divergent Star within the Endless Tower - independent of the challenges. Added in the Thank You update."
+  },
+  {
+    "id": "527285",
+    "name": "Simon (Sciel)",
+    "lat": -59.40882,
+    "lng": -41.64039,
+    "note": "Reward for defeating Simon The Divergent Star within the Endless Tower - independent of the challenges. Added in the Thank You update."
+  },
+  {
+    "id": "527280",
+    "name": "Simon (Verso/Gustave)",
+    "lat": -59.43671,
+    "lng": -43.0339,
+    "note": "Reward for defeating Simon The Divergent Star within the Endless Tower - independent of the challenges. Added in the Thank You update."
+  },
+  {
+    "id": "504786",
+    "name": "Sirene (Lune)",
+    "lat": 41.40732,
+    "lng": -5.54959,
+    "approx": true,
+    "area": "Sirene",
+    "note": "Location: Drops from the Mime."
+  },
+  {
+    "id": "518700",
+    "name": "Viking (Monoco)",
+    "lat": 42.27005,
+    "lng": -5.04765,
+    "approx": true,
+    "area": "Sirene",
+    "note": "Unlocked in the process of reaching Bond Level 3 with Monoco. Choose these dialogue options: - \"Yes, my hair is impeccable.\" - \"Fine!\""
+  },
+  {
+    "id": "504461",
+    "name": "Vintage (Maelle)",
+    "lat": -58.73848,
+    "lng": -32.31663,
+    "note": "Sold by Geranjo"
+  },
+  {
+    "id": "504420",
+    "name": "Vintage (Sciel)",
+    "lat": -64.58725,
+    "lng": -16.43533,
+    "note": "Sold by Colaro"
+  },
+  {
+    "id": "504540",
+    "name": "Voluminous (Lune)",
+    "lat": 24.57115,
+    "lng": -51.81621,
+    "note": "Reward from defeating the Mimes"
+  },
+  {
+    "id": "511915",
+    "name": "Voluminous (Maelle)",
+    "lat": 69.09877,
+    "lng": -17.64436,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Reward for defeating the Mime."
+  },
+  {
+    "id": "504541",
+    "name": "Voluminous (Sciel)",
+    "lat": 24.64157,
+    "lng": -50.77788,
+    "note": "Reward from defeating the Mimes"
+  },
+  {
+    "id": "513801",
+    "name": "Wavy (Lune)",
+    "lat": -68.25432,
+    "lng": -28.04961,
+    "approx": true,
+    "area": "Yellow Harvest",
+    "note": "Sold by Pinabby"
+  }
+]

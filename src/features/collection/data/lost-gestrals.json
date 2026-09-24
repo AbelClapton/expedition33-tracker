@@ -1,0 +1,78 @@
+[
+ {
+  "id": 448457,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "description": "Standing near the mimes.",
+  "lat": 0.728431,
+  "lng": -0.725287
+ },
+ {
+  "id": 448468,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "lat": 0.681529,
+  "lng": -0.667587
+ },
+ {
+  "id": 448553,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "lat": 0.611294,
+  "lng": -0.685726
+ },
+ {
+  "id": 448593,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "lat": 0.612012,
+  "lng": -0.714551
+ },
+ {
+  "id": 448847,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "lat": 0.67921,
+  "lng": -0.689556
+ },
+ {
+  "id": 449763,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "description": "Requires Esquie's flight ability to reach.",
+  "lat": 0.751576,
+  "lng": -0.735676
+ },
+ {
+  "id": 449767,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "description": "Right before Esquie's Nest",
+  "lat": 0.6037,
+  "lng": -0.689156
+ },
+ {
+  "id": 452777,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "lat": 0.708162,
+  "lng": -0.621542
+ },
+ {
+  "id": 453345,
+  "name": "Lost Gestral",
+  "category": "Lost Gestral",
+  "region": "Continent",
+  "description": "On a floating island (flying Esquie required)",
+  "lat": 0.621273,
+  "lng": -0.720098
+ }
+]

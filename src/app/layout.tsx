@@ -1,5 +1,11 @@
 import type { Metadata } from "next";
-import { Geist, Geist_Mono, Hanken_Grotesk, Playfair_Display, Space_Grotesk } from "next/font/google";
+import {
+  Geist,
+  Geist_Mono,
+  Hanken_Grotesk,
+  Playfair_Display,
+  Space_Grotesk,
+} from "next/font/google";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import "./globals.css";
 
@@ -28,12 +34,15 @@ const playfairDisplay = Playfair_Display({
 const spaceGrotesk = Space_Grotesk({
   variable: "--font-space-grotesk",
   subsets: ["latin"],
-  weight: ["300", "500", "700"],
+  // 400 is the weight every `font-meta` label already asks for; without the face
+  // the browser matched it to 500, so the panels' meta text rendered medium
+  weight: ["300", "400", "500", "700"],
 });
 
 export const metadata: Metadata = {
   title: "Picto Tracker",
-  description: "Collection, build and map tracker for Clair Obscur: Expedition 33.",
+  description:
+    "Collection, build and map tracker for Clair Obscur: Expedition 33.",
 };
 
 export default function RootLayout({

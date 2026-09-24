@@ -1,45 +1,46 @@
-import { Button as ButtonPrimitive } from "@base-ui/react/button"
-import { cva, type VariantProps } from "class-variance-authority"
+import { Button as ButtonPrimitive } from "@base-ui/react/button";
+import { cva, type VariantProps } from "class-variance-authority";
 
-import { cn } from "@/lib/utils"
+import { cn } from "@/lib/utils";
 
+/**
+ * Buttons wear the chamfer: a stretched hexagon, pointed on the long axis, cut on
+ * the short one. `globals.css` draws it as two clipped layers under the element, so
+ * focus rings and hit areas stay ordinary rectangles - a variant only picks the
+ * hairline and the face.
+ */
 const buttonVariants = cva(
-  "group/button inline-flex shrink-0 items-center justify-center rounded-md border bg-clip-padding font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:border-ring focus-visible:ring-3 focus-visible:ring-ring/40 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 aria-invalid:border-destructive aria-invalid:ring-3 aria-invalid:ring-destructive/20 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
+  "group/button chamfer relative inline-flex shrink-0 items-center justify-center border-0 font-medium whitespace-nowrap transition-all outline-none select-none focus-visible:ring-2 focus-visible:ring-ring/40 active:not-aria-[haspopup]:translate-y-px disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:shrink-0 [&_svg:not([class*='size-'])]:size-4",
   {
     variants: {
       variant: {
-        default:
-          "border-primary/70 bg-linear-to-b from-[#3a3016] to-[#1b1912] text-primary shadow-[0_0_0_1px_rgb(242_202_80_/_15%),0_0_22px_rgb(242_202_80_/_20%)_inset] hover:from-[#4a3b1b] hover:to-[#252016]",
-        outline:
-          "border-border bg-[#1a1c1f] text-[#d0c5af] hover:bg-[#23262a] hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground",
-        secondary:
-          "border-secondary/60 bg-linear-to-b from-[#07403c] to-[#042927] text-secondary shadow-[0_0_0_1px_rgb(89_218_209_/_20%),0_0_18px_rgb(89_218_209_/_12%)_inset] hover:from-[#0a4d48] hover:to-[#063431]",
+        default: "chamfer-gold text-primary",
+        outline: "chamfer-plate text-[#d0c5af] hover:text-foreground",
+        secondary: "chamfer-teal text-secondary",
         ghost:
-          "border-transparent text-muted-foreground hover:border-border hover:bg-muted/40 hover:text-foreground aria-expanded:bg-muted aria-expanded:text-foreground",
-        destructive:
-          "border-destructive/60 bg-linear-to-b from-[#4d1617] to-[#2f1112] text-destructive hover:from-[#5a1a1b] hover:to-[#391415] focus-visible:border-destructive/50 focus-visible:ring-destructive/20",
-        link: "border-transparent p-0 text-primary underline-offset-4 hover:underline",
+          "chamfer-ghost text-muted-foreground hover:text-foreground aria-expanded:text-foreground",
+        destructive: "chamfer-crimson text-destructive",
+        link: "chamfer-ghost p-0 tracking-normal normal-case text-primary underline-offset-4 hover:underline",
       },
       size: {
         default:
-          "h-9 gap-1.5 px-3 text-[0.78rem] tracking-[0.11em] uppercase has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2",
-        xs: "h-7 gap-1 rounded-[min(var(--radius-md),10px)] px-2 text-[0.7rem] tracking-[0.1em] uppercase in-data-[slot=button-group]:rounded-md has-data-[icon=inline-end]:pr-1.5 has-data-[icon=inline-start]:pl-1.5 [&_svg:not([class*='size-'])]:size-3",
-        sm: "h-8 gap-1 rounded-[min(var(--radius-md),12px)] px-2.5 text-[0.74rem] tracking-[0.1em] uppercase in-data-[slot=button-group]:rounded-md has-data-[icon=inline-end]:pr-1.5 has-data-[icon=inline-start]:pl-1.5 [&_svg:not([class*='size-'])]:size-3.5",
-        lg: "h-10 gap-1.5 px-4 text-[0.8rem] tracking-[0.12em] uppercase has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2",
-        icon: "size-8",
+          "h-9 [--chamfer-h:2.25rem] gap-1.5 px-4 text-[0.78rem] tracking-[0.11em] uppercase has-data-[icon=inline-end]:pr-3 has-data-[icon=inline-start]:pl-3",
+        xs: "chamfer-square h-7 [--chamfer-h:1.75rem] gap-1 px-2 text-[0.7rem] tracking-[0.1em] uppercase has-data-[icon=inline-end]:pr-1.5 has-data-[icon=inline-start]:pl-1.5 [&_svg:not([class*='size-'])]:size-3",
+        sm: "h-8 [--chamfer-h:2rem] gap-1 px-3 text-[0.74rem] tracking-[0.1em] uppercase has-data-[icon=inline-end]:pr-2 has-data-[icon=inline-start]:pl-2 [&_svg:not([class*='size-'])]:size-3.5",
+        lg: "h-10 [--chamfer-h:2.5rem] gap-1.5 px-5 text-[0.8rem] tracking-[0.12em] uppercase has-data-[icon=inline-end]:pr-3.5 has-data-[icon=inline-start]:pl-3.5",
+        icon: "chamfer-square size-8 [--chamfer-h:2rem]",
         "icon-xs":
-          "size-6 rounded-[min(var(--radius-md),10px)] in-data-[slot=button-group]:rounded-md [&_svg:not([class*='size-'])]:size-3",
-        "icon-sm":
-          "size-7 rounded-[min(var(--radius-md),12px)] in-data-[slot=button-group]:rounded-md",
-        "icon-lg": "size-9",
+          "chamfer-square size-6 [--chamfer-h:1.5rem] [&_svg:not([class*='size-'])]:size-3",
+        "icon-sm": "chamfer-square size-7 [--chamfer-h:1.75rem]",
+        "icon-lg": "chamfer-square size-9 [--chamfer-h:2.25rem]",
       },
     },
     defaultVariants: {
       variant: "default",
       size: "default",
     },
-  }
-)
+  },
+);
 
 function Button({
   className,
@@ -53,7 +54,7 @@ function Button({
       className={cn(buttonVariants({ variant, size, className }))}
       {...props}
     />
-  )
+  );
 }
 
-export { Button, buttonVariants }
+export { Button, buttonVariants };

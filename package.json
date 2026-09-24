@@ -9,7 +9,9 @@
     "publish:pages": "node scripts/publish-pages.mjs",
     "start": "next start",
     "lint": "eslint",
-    "pins:map": "node scripts/fetch-map-pins.mjs"
+    "pins:map": "node scripts/fetch-map-pins.mjs",
+    "collectables:fetch": "node scripts/fetch-collectables.mjs",
+    "collectables:media": "node scripts/fetch-entry-media.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.5.0",

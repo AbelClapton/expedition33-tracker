@@ -1,0 +1,191 @@
+[
+  {
+    "id": "464359",
+    "name": "A Flower for Sophie",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: On the bench you begin the game next to. Use: Get past Maelle - she won't let you proceed unless you take it."
+  },
+  {
+    "id": "448827",
+    "name": "A journal from Gustave's apprentices",
+    "lat": -80.01299,
+    "lng": -8.71738,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Obtained from Gustave's Apprentices after the Gommage in Lumiere"
+  },
+  {
+    "id": "474955",
+    "name": "Bourgeon Skin",
+    "lat": -72.50172,
+    "lng": -19.45666,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: Obtained the first time a Bourgeon optional boss is defeated Use: Give to The Small Bourgeon"
+  },
+  {
+    "id": "455119",
+    "name": "Eternal Ice",
+    "lat": -9.79568,
+    "lng": -5.08271,
+    "approx": true,
+    "area": "Frozen Hearts",
+    "note": "Location: Drops from defeating Gargant. Give this item to the Grandis Merchant to unlock his inventory"
+  },
+  {
+    "id": "464966",
+    "name": "Festival Token",
+    "lat": -79.81015,
+    "lng": -8.21544,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Automatically received after the Gommage Use: Can be exchanged for one of the following: - Weird Pictos from Tom - Bun (Gustave) haircut from Amandine - Old Key from Colette - A Baguette secret weapon from the Boulangerie (must be held until NG+)"
+  },
+  {
+    "id": "464980",
+    "name": "Festival Token",
+    "lat": -80.0678,
+    "lng": -7.73339,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Reward from passing the quiz given by Antoine Use: Can be exchanged for one of the following: - Weird Pictos from Tom - Bun (Gustave) haircut from Amandine - Old Key from Colette - A Baguette secret weapon from the Boulangerie (must be held until NG+)"
+  },
+  {
+    "id": "464984",
+    "name": "Festival Token",
+    "lat": -79.91245,
+    "lng": -9.28897,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Defeat Maelle in combat at this location to be rewarded a Festival Token Use: Can be exchanged for one of the following: - Weird Pictos from Tom - Bun (Gustave) haircut from Amandine - Old Key from Colette - A Baguette secret weapon from the Boulangerie (must be held until NG+)"
+  },
+  {
+    "id": "458546",
+    "name": "Glowing Rock Crystal I",
+    "lat": -65.82078,
+    "lng": -15.0172,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: On the lower level, turn to face north, and you should spot the first rock crystal glowing in the darkness. Defeat or sneak around any enemies in the area and use a free aim shot to dislodge and retrieve the crystal Use: Given to Hexga (Nevron)"
+  },
+  {
+    "id": "458547",
+    "name": "Glowing Rock Crystal II",
+    "lat": -65.9836,
+    "lng": -15.79336,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: Head northeast to travel toward the center of the cave, and you'll find large, stalagmite-like rock formations emerging from the ground. Wrap around the rock formations, and you'll find the second Glowing Rock Crystal hiding on the other side. Shoot it with a Free Aim shot, then pick up the purple-colored item. Use: Given to Hexga (Nevron)"
+  },
+  {
+    "id": "458548",
+    "name": "Glowing Rock Crystal III",
+    "lat": -65.50792,
+    "lng": -15.29141,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: Head toward the eastern end of the cave, and you should spot a rock crystal near another rope. As you approach the rock crystal, a Rocher will pop out of the ground. With the Glowing Rock Crystal intertwined with this creature, you'll need to take him down to collect the final quest item. Use: Given to Hexga (Nevron)"
+  },
+  {
+    "id": "458084",
+    "name": "Intact Mine",
+    "lat": -72.62123,
+    "lng": -20.23282,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: To find an Intact Mine, walk toward the cliff east of the Demineur’s location to find a series of column-like rock formations you can leap across. Jump across the rock formations to reach the eastern clearing pictured above. While leaping, remember that Clair Obscur features a mantle mechanic, so you don’t need to land perfectly on each platform to advance. But if you fall at any point, you can return to the starting point by climbing up the handholds attached to the western rockface. When you reach the eastern platform, turn to face southward, and you should be able to spot a purple-glowing item in the distance. Next, leap onto the elongated rock formation to your right, and walk to the southern end of the surface before jumping south again to land on a small ledge. Lastly, jump onto the cylinder-like rock formation to your left, and hop toward the purple-glowing item to collect an Intact Mine. Use: Give to Demineur (Nevron)"
+  },
+  {
+    "id": "492396",
+    "name": "Mushroom",
+    "lat": -70.45151,
+    "lng": -14.22562,
+    "approx": true,
+    "area": "Esquie's Nest",
+    "note": "Location: Found within Esquie's Nest - to the left of the Mime, in the water near the glowing mushrooms. Use: Bring this item to Karatom in the Gestral Village"
+  },
+  {
+    "id": "448923",
+    "name": "Old Key",
+    "lat": -79.83709,
+    "lng": -7.32824,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Obtained from Colette in the blue tent after the Gommage in exchange for one Festival Token. Can later be used to open an old gate to retrieve the Fracture Survivor journal entry in Old Lumiere"
+  },
+  {
+    "id": "543338",
+    "name": "Piece of Cake",
+    "lat": -81.18123,
+    "lng": 12.31966,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Location: Given to you by the Very Very Cool Gestral after having every character skip the queue. Use: Feeding the Hungry Door."
+  },
+  {
+    "id": "543396",
+    "name": "Piece of Cake",
+    "lat": -81.24216,
+    "lng": 11.54351,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Location: Reward for returning the Toy Boat to the Half-baked Gestrals Use: Feed the Hungry Door"
+  },
+  {
+    "id": "543412",
+    "name": "Piece of Cake",
+    "lat": -81.06407,
+    "lng": 12.04545,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Location: Given to you by the Half-baked Lifeguard by turning half of the Esquie statues in the area blue. Use: Opens the Hungry Door."
+  },
+  {
+    "id": "448804",
+    "name": "Resin",
+    "lat": -74.06787,
+    "lng": -23.41325,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Location: Found within Spring Meadows, in the open area just beyond the Abandoned Expeditioner Camp rest point - on the side of a cliff amongst ruined crates and barrels surrounded by glowing blue foliage Use: Brought to Jar"
+  },
+  {
+    "id": "543388",
+    "name": "Toy Boat",
+    "lat": -81.29027,
+    "lng": 12.5275,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Location: Inside a small cave behind the waterfall. Use: Return it to the Half-baked Gestrals for a piece of cake."
+  },
+  {
+    "id": "448825",
+    "name": "Weird Pictos",
+    "lat": -80.14873,
+    "lng": -8.60111,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Obtained from Tom in the green tent at the Gommage in exchange for one Festival Token. Use: Can later be given to Jujubree in the Gestral Village and is either converted into Augmented Aim, or will upgrade the Pictos if you've previously obtained Augmented Aim from within Flying Waters"
+  },
+  {
+    "id": "449744",
+    "name": "Wood Boards",
+    "lat": 0,
+    "lng": -44.06456,
+    "approx": true,
+    "area": "Esoteric Ruins",
+    "note": "Location: Found within the Esoteric Ruins - After passing through the maze, you will find it on the ruins of the building right in front of you. You can deliver this item to the spirit you see at the entrance. Use: Given to Portier (Nevron)"
+  },
+  {
+    "id": "449483",
+    "name": "Wooden Stick",
+    "lat": -69.86989,
+    "lng": -21.17101,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Can be bought from the Gestral in the marketplace of the Gestral Village for x1,000 Chroma Use: None"
+  }
+]

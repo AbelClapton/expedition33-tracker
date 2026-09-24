@@ -1,0 +1,571 @@
+[
+  {
+    "id": "466311",
+    "name": "Baguette (Gustave)",
+    "lat": -74.06787,
+    "lng": -23.41325,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Reward for defeating the Mime in combat."
+  },
+  {
+    "id": "475414",
+    "name": "Baguette (Lune)",
+    "lat": -71.03125,
+    "lng": -21.21487,
+    "approx": true,
+    "area": "Ancient Sanctuary",
+    "note": "Location: Drops from defeating the Mime"
+  },
+  {
+    "id": "521402",
+    "name": "Baguette (Maelle)",
+    "lat": 40.84706,
+    "lng": -68.51,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Reward for defeating the Mime."
+  },
+  {
+    "id": "543320",
+    "name": "Baguette (Monoco)",
+    "lat": -81.18123,
+    "lng": 12.31966,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Dropped by the Mime."
+  },
+  {
+    "id": "504429",
+    "name": "Baguette (Sciel)",
+    "lat": -70.45151,
+    "lng": -14.22562,
+    "approx": true,
+    "area": "Esquie's Nest",
+    "note": "Dropped by the Mime."
+  },
+  {
+    "id": "504843",
+    "name": "Baguette (Verso)",
+    "lat": 36.73888,
+    "lng": -38.91876,
+    "approx": true,
+    "area": "Visages"
+  },
+  {
+    "id": "516769",
+    "name": "Chic (Gustave)",
+    "lat": -68.79163,
+    "lng": -12.63731,
+    "note": "Sold by Carrabi before the end of Act 1"
+  },
+  {
+    "id": "512708",
+    "name": "Chic (Lune)",
+    "lat": -25.3752,
+    "lng": 4.17518,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "512710",
+    "name": "Chic (Maelle)",
+    "lat": -25.3752,
+    "lng": 5.06005,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "512712",
+    "name": "Chic (Monoco)",
+    "lat": -25.3752,
+    "lng": 5.94492,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "512709",
+    "name": "Chic (Sciel)",
+    "lat": -25.3752,
+    "lng": 4.61762,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "512711",
+    "name": "Chic (Verso)",
+    "lat": -25.3752,
+    "lng": 5.50248,
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "543340",
+    "name": "Civilian (Lune)",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "Reward for choosing Maelle's ending."
+  },
+  {
+    "id": "504463",
+    "name": "Civilian (Maelle)",
+    "lat": -58.89782,
+    "lng": -31.86521,
+    "note": "Sold by Geranjo"
+  },
+  {
+    "id": "521953",
+    "name": "Civilian (Monoco)",
+    "lat": 2.06498,
+    "lng": 59.17002,
+    "approx": true,
+    "area": "Endless Night Sanctuary",
+    "note": "Sold by Anthonypo"
+  },
+  {
+    "id": "543341",
+    "name": "Civilian (Sciel)",
+    "lat": -80.01299,
+    "lng": -8.71738,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "Reward for choosing Maelle's ending."
+  },
+  {
+    "id": "504693",
+    "name": "Civilian (Verso)",
+    "lat": -55.55514,
+    "lng": -27.75211,
+    "note": "Civilian outfit for Verso Location: Found within the The Manor library - In a hidden room (activate the book shown in the screenshot)"
+  },
+  {
+    "id": "527195",
+    "name": "Clair (Verso)",
+    "lat": -60.1836,
+    "lng": -42.56243,
+    "note": "Location: Rewarded upon completion of all 33 Endless Tower challenges"
+  },
+  {
+    "id": "901008",
+    "name": "Clea (Lune)",
+    "lat": -30.18312,
+    "lng": -32.06776,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "Speak to the Young Boy after defeating Clea. Can only pick one outfit. Pick the other outfits in NG+ and NG++ to obtain all of them."
+  },
+  {
+    "id": "901009",
+    "name": "Clea (Maelle)",
+    "lat": -30.52723,
+    "lng": -32.84391,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "Speak to the Young Boy after defeating Clea. Can only pick one outfit. Pick the other outfits in NG+ and NG++ to obtain all of them."
+  },
+  {
+    "id": "901010",
+    "name": "Clea (Sciel)",
+    "lat": -29.52465,
+    "lng": -32.34197,
+    "approx": true,
+    "area": "Flying Manor",
+    "note": "Speak to the Young Boy after defeating Clea. Can only pick one outfit. Pick the other outfits in NG+ and NG++ to obtain all of them."
+  },
+  {
+    "id": "464986",
+    "name": "Crimson Uniform (Gustave)",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Rewarded from Jules after agreeing to help Richard"
+  },
+  {
+    "id": "504519",
+    "name": "Danseuse (Lune)",
+    "lat": -9.79568,
+    "lng": -5.08271,
+    "approx": true,
+    "area": "Frozen Hearts",
+    "note": "Reward from completing the Danseuses request"
+  },
+  {
+    "id": "504558",
+    "name": "Danseuse (Sciel)",
+    "lat": -10.18841,
+    "lng": -5.85886,
+    "approx": true,
+    "area": "Frozen Hearts",
+    "note": "Sold by Verogo"
+  },
+  {
+    "id": "543342",
+    "name": "Esquie (Gustave/Verso)",
+    "lat": -81.24216,
+    "lng": 11.54351,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Given to you by the Very Very Cool Gestral when you ride the ride as Verso."
+  },
+  {
+    "id": "543344",
+    "name": "Esquie (Lune)",
+    "lat": -81.06407,
+    "lng": 12.04545,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Given to you by the Very Very Cool Gestral when you ride the ride as Lune."
+  },
+  {
+    "id": "543343",
+    "name": "Esquie (Maelle)",
+    "lat": -81.29027,
+    "lng": 12.5275,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Given to you by the Very Very Cool Gestral when you ride the ride as Maelle."
+  },
+  {
+    "id": "543346",
+    "name": "Esquie (Monoco)",
+    "lat": -81.15388,
+    "lng": 10.97192,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Given to you by the Very Very Cool Gestral when you ride the ride as Monoco."
+  },
+  {
+    "id": "543345",
+    "name": "Esquie (Sciel)",
+    "lat": -81.08772,
+    "lng": 12.93264,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Given to you by the Very Very Cool Gestral when you ride the ride as Sciel."
+  },
+  {
+    "id": "504478",
+    "name": "Lumiere (Maelle)",
+    "lat": -68.79163,
+    "lng": -13.52218,
+    "note": "Sold by Carrabi"
+  },
+  {
+    "id": "512591",
+    "name": "Lumiere (Monoco)",
+    "lat": -58.53728,
+    "lng": 1.15073,
+    "note": "Talk to the Flying Casino npc in the building as Monoco (as he mentions not wanting to talk to humans)."
+  },
+  {
+    "id": "504476",
+    "name": "Lumiere Suit (Gustave)",
+    "lat": -68.79163,
+    "lng": -13.96461,
+    "note": "Sold by Carrabi before the end of Act 1"
+  },
+  {
+    "id": "504544",
+    "name": "Obscur (Maelle)",
+    "lat": -41.70573,
+    "lng": -16.50857,
+    "approx": true,
+    "area": "Forgotten Battlefield",
+    "note": "Sold by Kasumi after fighting them."
+  },
+  {
+    "id": "543367",
+    "name": "Osquio (Gustave/Verso)",
+    "lat": -81.36133,
+    "lng": 11.65978,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Reward for defeating Osquio"
+  },
+  {
+    "id": "543369",
+    "name": "Osquio (Lune)",
+    "lat": -80.9998,
+    "lng": 11.37038,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "543368",
+    "name": "Osquio (Maelle)",
+    "lat": -81.25483,
+    "lng": 13.29888,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "543371",
+    "name": "Osquio (Monoco)",
+    "lat": -81.26772,
+    "lng": 10.60551,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "543370",
+    "name": "Osquio (Sciel)",
+    "lat": -80.96168,
+    "lng": 12.64084,
+    "approx": true,
+    "area": "Verso's Drafts",
+    "note": "Sold by the Gestral Merchant."
+  },
+  {
+    "id": "524662",
+    "name": "Painted Me (Maelle)",
+    "lat": -72.46406,
+    "lng": 18.53647,
+    "note": "Place the Manor Family Canvas quest item on the empty frame in The Manor to unlock the Painting Room. Inside the Painting Room, you can find the outfit on the floor to the right of the black canvas. Note: not specific to this location. The Painting Room can technically be accessed from any door to the Manor once you place the painting in the empty frame."
+  },
+  {
+    "id": "504559",
+    "name": "Pelerin (Verso)",
+    "lat": -9.04669,
+    "lng": -5.35692,
+    "approx": true,
+    "area": "Frozen Hearts",
+    "note": "Sold by Verogo"
+  },
+  {
+    "id": "524913",
+    "name": "Pure (Gustave)",
+    "lat": -69.86989,
+    "lng": -21.17101,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Reward for completing Karatom's quest."
+  },
+  {
+    "id": "504641",
+    "name": "Pure (Lune)",
+    "lat": -17.1546,
+    "lng": -29.43597,
+    "note": "Complete the Grandis Fashionist's questions as Lune to receive this as a reward - Life blooms like a rose, with petals soft and frail... -> Winter winds will whisper, the ending of the tale. - Life's a canvas painted with the colours of our strife... -> Death the artist's final stroke, completing every life. - Life sings a song of joy and pain, its notes both sweet and bitter... -> Its echoes fade to stillness, our secrets follow after."
+  },
+  {
+    "id": "504642",
+    "name": "Pure (Maelle)",
+    "lat": -17.1546,
+    "lng": -28.60641,
+    "note": "Complete the Grandis Fashionist's questions as Maelle to receive this as a reward - Life is but a fleeting dream, a whisper in the night... -> While shadows fade to silence, gone beyond our sight. - Through the veil of shadows, life's mysteries are spun... -> Death untangles threads, revealing what's begun. - Life dances on the edge of time, a flicker in the breeze... -> Eternity then cradles us, a promise to appease."
+  },
+  {
+    "id": "515729",
+    "name": "Pure (Monoco)",
+    "lat": -74.80122,
+    "lng": 30.60051,
+    "note": "Sold by Lucaroparfé"
+  },
+  {
+    "id": "504640",
+    "name": "Pure (Sciel)",
+    "lat": -17.0393,
+    "lng": -29.02672,
+    "note": "Complete the Grandis Fashionist's questions as Sciel to receive this as a reward - Life's a river winding through the valleys of despair... -> It meets the sea's embrace, where sorrow turns to air. - Life's a story written with the ink of dreams and fears... -> And death the final chapter, where we shed our tears. - Life's a blazing comet, racing through the sky... -> Its light will softly fade, where weary skies lie."
+  },
+  {
+    "id": "504587",
+    "name": "Pure (Verso)",
+    "lat": 61.1727,
+    "lng": -23.17,
+    "note": "Sold by Granasori"
+  },
+  {
+    "id": "518853",
+    "name": "Real Maelle (Maelle)",
+    "lat": 69.24058,
+    "lng": -16.8682,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Automatically obtained when you complete Act II."
+  },
+  {
+    "id": "543339",
+    "name": "Renoir (Gustave/Verso)",
+    "lat": -79.81015,
+    "lng": -8.21544,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "Reward for choosing Verso's ending."
+  },
+  {
+    "id": "515723",
+    "name": "Renoir's Suit (Verso)",
+    "lat": 69.09877,
+    "lng": -17.64436,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Reward for defeating Renoir."
+  },
+  {
+    "id": "475515",
+    "name": "Sakapatate (Gustave)",
+    "lat": -70.00669,
+    "lng": -21.94716,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Sold by Delsitra"
+  },
+  {
+    "id": "475479",
+    "name": "Sakapatate (Lune)",
+    "lat": -69.60697,
+    "lng": -21.44522,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Rewarded from Alexsoundro for completing their quest"
+  },
+  {
+    "id": "504428",
+    "name": "Sakapatate (Maelle)",
+    "lat": -70.11475,
+    "lng": -20.96317,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Complete Ono-Puncho's Side Quest"
+  },
+  {
+    "id": "475491",
+    "name": "Sakapatate (Sciel)",
+    "lat": -69.80851,
+    "lng": -22.51875,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Sold by Alexcyclo"
+  },
+  {
+    "id": "475516",
+    "name": "Sakapatate (Verso)",
+    "lat": -69.66004,
+    "lng": -20.55802,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Sold by Delsitra"
+  },
+  {
+    "id": "518589",
+    "name": "Simple (Verso)",
+    "lat": 47.69332,
+    "lng": -48.69964,
+    "note": "Sold by Rubiju"
+  },
+  {
+    "id": "504787",
+    "name": "Sirene (Lune)",
+    "lat": 41.70573,
+    "lng": -4.77343,
+    "approx": true,
+    "area": "Sirene",
+    "note": "Location: Drops from Glissando."
+  },
+  {
+    "id": "515728",
+    "name": "Sirene (Sciel)",
+    "lat": 45.09254,
+    "lng": 19.51658,
+    "note": "Sold by Pearo"
+  },
+  {
+    "id": "504462",
+    "name": "Skirt (Lune)",
+    "lat": -58.92791,
+    "lng": -32.77911,
+    "note": "Sold by Geranjo"
+  },
+  {
+    "id": "504571",
+    "name": "Skirt (Maelle)",
+    "lat": -65.82078,
+    "lng": -15.0172,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "As you enter The Manor from The Stone Wave Cliffs, interact with the dresser to the left to obtain this outfit for Maelle"
+  },
+  {
+    "id": "504639",
+    "name": "Skirt (Sciel)",
+    "lat": -15.37678,
+    "lng": -49.9172,
+    "note": "Sold by Carnovi"
+  },
+  {
+    "id": "504569",
+    "name": "Swimsuit (Gustave)",
+    "lat": -69.38679,
+    "lng": -32.02767,
+    "note": "Complete the obstacle course in the Gestral Beach Note: Gustave's items can only be obtained before the end of Act I."
+  },
+  {
+    "id": "512592",
+    "name": "Swimsuit (Maelle)",
+    "lat": 15.95224,
+    "lng": 29.6815,
+    "note": "Reward for completing the Gestral Beach climbing challenge."
+  },
+  {
+    "id": "504643",
+    "name": "Swimsuit (Monoco)",
+    "lat": -21.08954,
+    "lng": -42.57765,
+    "note": "Complete the Gestral Ascension Gestral Beach mini game"
+  },
+  {
+    "id": "504570",
+    "name": "Swimsuit I (Lune)",
+    "lat": -69.388,
+    "lng": -31.33014,
+    "note": "Complete the obstacle course in the Gestral Beach, then answer the Gestral's question: If I were a 2 year-old human, at what age would I gommage? The correct answer is 17, but you can choose any option and still get the swimsuit."
+  },
+  {
+    "id": "518870",
+    "name": "Swimsuit I (Sciel)",
+    "lat": 69.50802,
+    "lng": -17.14241,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Location: Obtain Relationship Level 6 with Sciel - only possible after beginning Act 3."
+  },
+  {
+    "id": "518869",
+    "name": "Swimsuit I (Verso)",
+    "lat": 68.98543,
+    "lng": -16.66036,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Location: Obtain Relationship Level 6 with Sciel - only possible after beginning Act 3."
+  },
+  {
+    "id": "504566",
+    "name": "Swimsuit II (Lune)",
+    "lat": -55.54176,
+    "lng": 6.74406,
+    "note": "Reward for beating Just a Normal One at Beach Raft Volley in Gestral Beach"
+  },
+  {
+    "id": "504567",
+    "name": "Swimsuit II (Sciel)",
+    "lat": -55.52469,
+    "lng": 7.17405,
+    "note": "Reward for beating The Strongest at Beach Raft Volley in Gestral Beach"
+  },
+  {
+    "id": "504588",
+    "name": "Swimsuit II (Verso)",
+    "lat": 39.72357,
+    "lng": 33.88531,
+    "note": "Reward for getting a Gold medal in the race at Gestral Beach"
+  },
+  {
+    "id": "521510",
+    "name": "Visages (Verso)",
+    "lat": -61.09992,
+    "lng": -43.09888,
+    "note": "Endless Tower - Underneath the stairs to the right of the Fading Woman. Added as part of the Thank You update."
+  }
+]

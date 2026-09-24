@@ -11,7 +11,7 @@ export function TrackerMobileBottomNav() {
   const pathname = usePathname();
 
   return (
-    <nav className="fixed inset-x-0 bottom-0 z-30 grid grid-cols-4 border-t border-border/60 bg-[#0f1114]/95 p-2 backdrop-blur-lg md:hidden">
+    <nav className="fixed inset-x-0 bottom-0 z-30 grid grid-cols-4 border-t border-border/60 bg-[#0f1114]/95 p-2 pb-[max(0.5rem,env(safe-area-inset-bottom))] backdrop-blur-lg md:hidden">
       {NAV_ITEMS.map((item) => {
         const active = isActivePath(pathname, item.href);
 

@@ -1,0 +1,403 @@
+[
+  {
+    "id": "454438",
+    "name": "Aline",
+    "lat": 69.24058,
+    "lng": -16.8682,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Location: Found Inside the Monolith, within the Manor. Right in front of you as you enter."
+  },
+  {
+    "id": "449885",
+    "name": "Expedition 34",
+    "lat": 34.87956,
+    "lng": -69.48629,
+    "note": "Location: Found within the The Crows, right in front of the entrance."
+  },
+  {
+    "id": "450897",
+    "name": "Expedition 35",
+    "lat": -36.51108,
+    "lng": -51.99733,
+    "note": "Location: Found within Falling Leaves"
+  },
+  {
+    "id": "449714",
+    "name": "Expedition 36",
+    "lat": -66.86176,
+    "lng": -38.92996,
+    "note": "Location: Found within the White Tree"
+  },
+  {
+    "id": "452805",
+    "name": "Expedition 37",
+    "lat": 15.94038,
+    "lng": 28.99296,
+    "note": "Location: Found within Gestral Beach, next to the entrance."
+  },
+  {
+    "id": "452874",
+    "name": "Expedition 38",
+    "lat": -68.1061,
+    "lng": -27.27345,
+    "approx": true,
+    "area": "Yellow Harvest",
+    "note": "Location: Found within the Yellow Harvest - after the second flag go up the ramp to the right"
+  },
+  {
+    "id": "449760",
+    "name": "Expedition 39",
+    "lat": 36.73888,
+    "lng": -38.91876,
+    "approx": true,
+    "area": "Visages",
+    "note": "Location: Found within the Visages - Path of Sadness, near a camp at the top of some ledges."
+  },
+  {
+    "id": "448445",
+    "name": "Expedition 40",
+    "lat": 60.42568,
+    "lng": -23.46588,
+    "note": "Location: On the beach near the tents and merchant"
+  },
+  {
+    "id": "449729",
+    "name": "Expedition 41",
+    "lat": -41.70573,
+    "lng": -16.50857,
+    "approx": true,
+    "area": "Forgotten Battlefield",
+    "note": "Location: Found within the Forgotten Battlefield - After passing through the big gate, you will encounter an NPC named Fading Woman. From where this NPC is, go to the right towards the wooden reinforced trenches."
+  },
+  {
+    "id": "452821",
+    "name": "Expedition 42",
+    "lat": -2.63579,
+    "lng": -37.60872,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Found within Old Lumiere - From the Manor Gardens expedition flag, head to the upper left corner. Follow the path and take the rope down to find it near a glowing sword."
+  },
+  {
+    "id": "448541",
+    "name": "Expedition 43",
+    "lat": -25.56703,
+    "lng": 25.98441,
+    "note": "Location: On the ground in the ruined camp"
+  },
+  {
+    "id": "452872",
+    "name": "Expedition 44",
+    "lat": -68.25432,
+    "lng": -28.04961,
+    "approx": true,
+    "area": "Yellow Harvest",
+    "note": "Location: Found within the Yellow Harvest - from the Expedition 68 rest point walk around the lake to the right and you'll find it near an enemy"
+  },
+  {
+    "id": "449711",
+    "name": "Expedition 45",
+    "lat": -65.11418,
+    "lng": -31.39927,
+    "note": "Location: Found within the Crushing Cavern - You can reach it by following the path that opens behind the Giant Sapling boss."
+  },
+  {
+    "id": "452795",
+    "name": "Expedition 46",
+    "lat": 44.97172,
+    "lng": 16.42784,
+    "note": "Location: Found within Sirene's Dress"
+  },
+  {
+    "id": "448510",
+    "name": "Expedition 47",
+    "lat": -14.02431,
+    "lng": -51.23078,
+    "note": "Location: On the side of the road amongst the ruined camp"
+  },
+  {
+    "id": "449734",
+    "name": "Expedition 48",
+    "lat": -33.08716,
+    "lng": -9.88523,
+    "note": "Location: Found within the Stone Quarry"
+  },
+  {
+    "id": "452830",
+    "name": "Expedition 49",
+    "lat": -37.62038,
+    "lng": -50.66242,
+    "note": "Location: Found within Falling Leaves - After following the path through the door behind the young boy."
+  },
+  {
+    "id": "448838",
+    "name": "Expedition 50",
+    "lat": -65.82078,
+    "lng": -15.0172,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: Found within the Stone Wave Cliffs - South Entrance - Past the Paintress Shrine rest point, in a large cave with floating lamps, at a cliff's edge overlooking the ocean below"
+  },
+  {
+    "id": "452843",
+    "name": "Expedition 51",
+    "lat": -9.79568,
+    "lng": -5.08271,
+    "approx": true,
+    "area": "Frozen Hearts",
+    "note": "Location: Found within Frozen Hearts"
+  },
+  {
+    "id": "449484",
+    "name": "Expedition 52",
+    "lat": -69.86989,
+    "lng": -21.17101,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Found within the Gestral Village - on the straw mat near the corpse close to the Arena"
+  },
+  {
+    "id": "449705",
+    "name": "Expedition 53",
+    "lat": -71.8493,
+    "lng": -25.55569,
+    "note": "Location: Found within the The Small Bourgeon - After passing Little Bourgeon"
+  },
+  {
+    "id": "449720",
+    "name": "Expedition 54",
+    "lat": -65.58535,
+    "lng": 7.68876,
+    "note": "Location: Found within the Stone Wave Cliffs Cave - In the area where the boss is"
+  },
+  {
+    "id": "449889",
+    "name": "Expedition 55",
+    "lat": 41.70573,
+    "lng": -4.77343,
+    "approx": true,
+    "area": "Sirene",
+    "note": "Location: Found within the Sirene after the flag \"Dancing Classes\""
+  },
+  {
+    "id": "449700",
+    "name": "Expedition 56",
+    "lat": -65.9836,
+    "lng": -15.79336,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: Found within the Stone Wave Cliffs - South Entrance - At the second clearing. On the left side of the slope. In front of the street lamp with a sword stuck in it."
+  },
+  {
+    "id": "448843",
+    "name": "Expedition 57",
+    "lat": -42.00276,
+    "lng": -17.28473,
+    "approx": true,
+    "area": "Forgotten Battlefield",
+    "note": "Location: Found within the Forgotten Battlefield - South Entrance - on a grassy hill near a corpse with a trumpet stuck on its head"
+  },
+  {
+    "id": "455130",
+    "name": "Expedition 58",
+    "lat": -3.03408,
+    "lng": -38.38488,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Automatically added to your collection after completing the main story quest through Old Lumiere"
+  },
+  {
+    "id": "452870",
+    "name": "Expedition 59",
+    "lat": -67.82125,
+    "lng": -27.54767,
+    "approx": true,
+    "area": "Yellow Harvest",
+    "note": "Location: Found within the Yellow Harvest - in the cave with Yellow Spire Wrecks flag - follow the left path"
+  },
+  {
+    "id": "456564",
+    "name": "Expedition 60",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "Location: Found within Lumiere during Act III - Before the Opera House turn right towards the broken edge. Ask Esquie to pull the Journal out of the water"
+  },
+  {
+    "id": "454675",
+    "name": "Expedition 61",
+    "lat": 40.84706,
+    "lng": -68.51,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Location: Found within The Reacher, in the foggy area, near a hot air balloon."
+  },
+  {
+    "id": "448584",
+    "name": "Expedition 62",
+    "lat": -67.38475,
+    "lng": -22.60728,
+    "note": "Location: Behind the Breakable Rocks, only accessible with Esquie"
+  },
+  {
+    "id": "448814",
+    "name": "Expedition 63",
+    "lat": -71.03125,
+    "lng": -21.21487,
+    "approx": true,
+    "area": "Ancient Sanctuary",
+    "note": "Location: Found within the Ancient Sanctuary - South Entrance - in the clearing near the bodies"
+  },
+  {
+    "id": "448609",
+    "name": "Expedition 64",
+    "lat": -73.53851,
+    "lng": -9.62323,
+    "note": "Location: In the ruined camp on the beach"
+  },
+  {
+    "id": "448850",
+    "name": "Expedition 65",
+    "lat": -17.65495,
+    "lng": -28.5276,
+    "note": "Location: Found near Monoco's Station - Northeast Entrance, inside the station. You'll find it soon after walking across some railway tracks."
+  },
+  {
+    "id": "492387",
+    "name": "Expedition 66",
+    "lat": -70.45151,
+    "lng": -14.22562,
+    "approx": true,
+    "area": "Esquie's Nest",
+    "note": "Found within Esquie's Nest - after convincing Esquie to join the party, head across the chasm and find this entry on the ledge near the ruined camp"
+  },
+  {
+    "id": "449906",
+    "name": "Expedition 67",
+    "lat": 41.40732,
+    "lng": -5.54959,
+    "approx": true,
+    "area": "Sirene",
+    "note": "Location: Found within the Sirene Dancing Area"
+  },
+  {
+    "id": "448812",
+    "name": "Expedition 68",
+    "lat": -72.50172,
+    "lng": -19.45666,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: Found within the Flying Waters - South Entrance - on the main path"
+  },
+  {
+    "id": "449755",
+    "name": "Expedition 69",
+    "lat": 36.41865,
+    "lng": -39.69491,
+    "approx": true,
+    "area": "Visages",
+    "note": "Location: Found within the Visages - Path of Joy, guarded by Enemy x2"
+  },
+  {
+    "id": "454437",
+    "name": "Expedition 70",
+    "lat": 69.09877,
+    "lng": -17.64436,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Inside the Monolith - Just around the corner from the Enemy x3."
+  },
+  {
+    "id": "448834",
+    "name": "Expedition 78",
+    "lat": -65.50792,
+    "lng": -15.29141,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: Found within the Stone Wave Cliffs - South Entrance - climb the rope to the ledge above the Hexga to find this entry amongst dead Expeditioners"
+  },
+  {
+    "id": "448801",
+    "name": "Expedition 81",
+    "lat": -74.06787,
+    "lng": -23.41325,
+    "approx": true,
+    "area": "Spring Meadows",
+    "note": "Location: Automatically obtained within the Spring Meadows after a cutscene."
+  },
+  {
+    "id": "454585",
+    "name": "Expedition 84",
+    "lat": -72.66458,
+    "lng": -43.34379,
+    "note": "Location: Found within The Fountain - Next to a river, far right of Blanche"
+  },
+  {
+    "id": "452857",
+    "name": "Julie",
+    "lat": -33.89088,
+    "lng": -20.99309,
+    "note": "Location: At the campsite Requires Esquie's Flight ability"
+  },
+  {
+    "id": "452825",
+    "name": "Renoir",
+    "lat": -1.87715,
+    "lng": -37.88293,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Found within Old Lumiere - Inside the Manor, reached via the Hole in the Wall. Once inside, it's on the bedside table."
+  },
+  {
+    "id": "454696",
+    "name": "Simon",
+    "lat": 30.33495,
+    "lng": -27.87082,
+    "approx": true,
+    "area": "Renoir's Drafts",
+    "note": "Location: Found within Renoir's Drafts - can be found in the arena after defeating the superboss Simon"
+  },
+  {
+    "id": "448852",
+    "name": "Survivor",
+    "lat": -3.35047,
+    "lng": -37.40088,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Found within Old Lumiere - South Entrance - after your party is separated and you gain control of the party of 2, drop down onto the big pipe, and further down through the hole. Use the Old Key to open the locked gate and retrieve the entry"
+  },
+  {
+    "id": "449753",
+    "name": "Unknown I",
+    "lat": 37.34489,
+    "lng": -39.19297,
+    "approx": true,
+    "area": "Visages",
+    "note": "Location: Found within the Visages - Path of Anger. Inside The Manor, on your left after opening the first door."
+  },
+  {
+    "id": "456595",
+    "name": "Unknown II",
+    "lat": 40.54471,
+    "lng": -69.28615,
+    "approx": true,
+    "area": "The Reacher",
+    "note": "Location: Found inside a room in The Manor - accessed via The Reacher"
+  },
+  {
+    "id": "456596",
+    "name": "Unknown III",
+    "lat": -72.41691,
+    "lng": 19.16629,
+    "note": "Location: Found within The Manor Place the Manor Family Canvas quest item on the empty frame in The Manor to unlock the Painting Room. There's an empty frame just by the stairs on the east wing of the manor, near the Expedition Flag."
+  },
+  {
+    "id": "453326",
+    "name": "Verso",
+    "lat": -34.48338,
+    "lng": -22.10539,
+    "note": "South of Julie's journal Requires Esquie's Flight ability"
+  }
+]

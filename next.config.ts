@@ -33,7 +33,9 @@ const nextConfig: NextConfig = {
   trailingSlash: isStaticExport,
   env: {
     NEXT_PUBLIC_BASE_PATH: isStaticExport ? `/${REPO}` : "",
-    NEXT_PUBLIC_TILE_URL: isStaticExport ? TILE_TEMPLATE_PAGES : TILE_TEMPLATE_DEV,
+    NEXT_PUBLIC_TILE_URL: isStaticExport
+      ? TILE_TEMPLATE_PAGES
+      : TILE_TEMPLATE_DEV,
   },
 };
 

@@ -1,12 +1,12 @@
 {
-	"version": "2.0.0",
-	"tasks": [
-		{
-			"label": "preview pages export",
-			"type": "shell",
-			"command": "node scripts/publish-pages.mjs --build-only --serve",
-			"isBackground": true,
-			"problemMatcher": []
-		}
-	]
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "preview pages export",
+      "type": "shell",
+      "command": "node scripts/publish-pages.mjs --build-only --serve",
+      "isBackground": true,
+      "problemMatcher": []
+    }
+  ]
 }

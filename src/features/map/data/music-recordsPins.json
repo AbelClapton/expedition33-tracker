@@ -1,0 +1,268 @@
+[
+  {
+    "id": "450903",
+    "name": "Alicia",
+    "lat": -37.69666,
+    "lng": -51.89296,
+    "note": "Location: Found within Falling Leaves - Inside the Manor"
+  },
+  {
+    "id": "449736",
+    "name": "Alicia's Birthday Party",
+    "lat": -42.58312,
+    "lng": 1.68946,
+    "note": "Location: Found within the Boat Graveyard"
+  },
+  {
+    "id": "452851",
+    "name": "Aline",
+    "lat": -40.64045,
+    "lng": 35.70111,
+    "note": "Location: Found within the White Sands"
+  },
+  {
+    "id": "452867",
+    "name": "Aline's Glasshouse",
+    "lat": -66.90665,
+    "lng": -30.39135,
+    "note": "Location: Found within the Lost Woods"
+  },
+  {
+    "id": "453335",
+    "name": "Children of Lumière",
+    "lat": -5.61701,
+    "lng": -21.91321,
+    "note": "Location: Can be purchased from the merchant Citrelo"
+  },
+  {
+    "id": "456597",
+    "name": "Clea",
+    "lat": -60.16689,
+    "lng": -41.96584,
+    "note": "Location: Rewarded upon completion of all 33 Endless Tower challenges"
+  },
+  {
+    "id": "452840",
+    "name": "Clea! Don't Pull Your Sister's Hair!",
+    "lat": -9.79568,
+    "lng": -5.08271,
+    "approx": true,
+    "area": "Frozen Hearts",
+    "note": "Location: Found within Frozen Hearts - Inside the Manor."
+  },
+  {
+    "id": "455276",
+    "name": "Endless Light",
+    "lat": 30.33495,
+    "lng": -27.87082,
+    "approx": true,
+    "area": "Renoir's Drafts",
+    "note": "Location: Found within Renoir's Drafts - from the entrance head to the left, up the grapple, then drop down the ledge to the right to find the record in the open mouth of a giant mask"
+  },
+  {
+    "id": "452885",
+    "name": "Forlorn",
+    "lat": -72.42672,
+    "lng": 20.2583,
+    "note": "Location: Found within the The Manor"
+  },
+  {
+    "id": "456598",
+    "name": "Goblu",
+    "lat": -70.80228,
+    "lng": -26.49171,
+    "note": "Location: Sold by Blabary"
+  },
+  {
+    "id": "449707",
+    "name": "Gustave",
+    "lat": -65.82078,
+    "lng": -15.0172,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Location: Found within the Stone Wave Cliffs - North Entrance - You'll find it when you return here after defeating the Lampmaster. Near the north entrance."
+  },
+  {
+    "id": "449715",
+    "name": "Honeymoon in Lumière",
+    "lat": -66.90136,
+    "lng": -39.64654,
+    "note": "Location: Found within the White Tree"
+  },
+  {
+    "id": "454439",
+    "name": "L'Amour d'une Mere",
+    "lat": 69.24058,
+    "lng": -16.8682,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Location: Found Inside the Monolith, within the Manor. Right in front of you as you enter."
+  },
+  {
+    "id": "453334",
+    "name": "Le Grand Café de Lumière",
+    "lat": -6.42135,
+    "lng": -17.49648,
+    "note": "Walk towards the Carousel from the expedition flag and you'll see an alleyway immediately to the left where you'll find the Record"
+  },
+  {
+    "id": "455142",
+    "name": "Lettre a Maelle",
+    "lat": 36.73888,
+    "lng": -38.91876,
+    "approx": true,
+    "area": "Visages",
+    "note": "Location: May be obtained following a cutscene at Camp. Missable - choose the 'Check on others' option via the fireplace menu."
+  },
+  {
+    "id": "449706",
+    "name": "Lights of the Past",
+    "lat": -73.43682,
+    "lng": -16.59812,
+    "note": "Location: Found within the Ancient Gestral City"
+  },
+  {
+    "id": "455607",
+    "name": "Linen & Cotton",
+    "lat": 48.05849,
+    "lng": -48.31263,
+    "note": "Location: Sold by Rubiju"
+  },
+  {
+    "id": "455414",
+    "name": "Lost Voice",
+    "lat": -21.45644,
+    "lng": -16.3814,
+    "note": "Sold by Strabami"
+  },
+  {
+    "id": "448922",
+    "name": "Lumiere",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Obtained from defeating the Mime Alternative location: Obtained in the Opera House in Act 3, behind the piano."
+  },
+  {
+    "id": "542770",
+    "name": "Lumiere",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "Near the rest point in the opera house."
+  },
+  {
+    "id": "456599",
+    "name": "Lune",
+    "lat": 69.09877,
+    "lng": -17.64436,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Location: Complete Lune's side quest after reaching Relationship Level 6 with her"
+  },
+  {
+    "id": "456600",
+    "name": "Monoco",
+    "lat": 69.50802,
+    "lng": -17.14241,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Location: Complete Monoco's side quest after reaching Relationship Level 6 with him"
+  },
+  {
+    "id": "449882",
+    "name": "Nocturne pour Lumière",
+    "lat": 37.95985,
+    "lng": 64.90381,
+    "note": "Location: Found within the Sinister Cave - Go up. Jump down from the small gap between the rock."
+  },
+  {
+    "id": "448930",
+    "name": "Nocturne Pour Un Masque De Tristesse",
+    "lat": -72.50172,
+    "lng": -19.45666,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: Found within The Manor, accessed from within the Flying Waters - after rescuing Maelle, head to the dining room downstairs and interact with four switches: - Right side of the room, on the narrow wall near a column. - Right side of the room, at the back of the furthest column. - Left side of the room, in the corner opposite the previous switch. - Left side of the room, on a wall near the fireplace. The final switch will reveal and open a secret passage. Traverse it and break the crate inside to find the record ."
+  },
+  {
+    "id": "456603",
+    "name": "Our Drafts Collide",
+    "lat": -80.01299,
+    "lng": -8.71738,
+    "approx": true,
+    "area": "Lumiere (Act 3)",
+    "note": "Location: Automatically obtained at the end of Act III"
+  },
+  {
+    "id": "449709",
+    "name": "Our Painted Family",
+    "lat": -72.47156,
+    "lng": -8.52018,
+    "note": "Location: Found within the The Meadows"
+  },
+  {
+    "id": "452826",
+    "name": "Renoir",
+    "lat": -2.63579,
+    "lng": -37.60872,
+    "approx": true,
+    "area": "Old Lumiere",
+    "note": "Location: Found within Old Lumiere - Inside the Manor, reached via the Hole in the Wall. Once inside, it's on the bathroom sink."
+  },
+  {
+    "id": "449722",
+    "name": "Reverence",
+    "lat": -49.59729,
+    "lng": -29.1533,
+    "note": "Location: Found within the Blades' Graveyard"
+  },
+  {
+    "id": "452865",
+    "name": "Reveries dans Paris",
+    "lat": -58.71112,
+    "lng": 0.47277,
+    "note": "Location: Found within the Flying Casino - Behind the casino building"
+  },
+  {
+    "id": "456602",
+    "name": "Robe de Jour",
+    "lat": 22.53173,
+    "lng": -2.90445,
+    "note": "Location: Sold by Rederi"
+  },
+  {
+    "id": "456601",
+    "name": "Sciel",
+    "lat": 68.98543,
+    "lng": -16.66036,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Location: Obtain Relationship Level 6 with Sciel - only possible after beginning Act 3."
+  },
+  {
+    "id": "449708",
+    "name": "Un 33 Décembre à Lumière",
+    "lat": -72.08841,
+    "lng": -15.37487,
+    "note": "Location: Found within the Twilight Quarry"
+  },
+  {
+    "id": "452829",
+    "name": "Until Next Life",
+    "lat": -37.60203,
+    "lng": -49.60923,
+    "note": "Location: Found within Falling Leaves - After defeating the Scavenger, go back and talk to Young Boy."
+  },
+  {
+    "id": "449752",
+    "name": "Verso",
+    "lat": 36.41865,
+    "lng": -39.69491,
+    "approx": true,
+    "area": "Visages",
+    "note": "Location: Found within the Visages - Path of Anger. Inside the Manor, right in front of you as you enter."
+  }
+]

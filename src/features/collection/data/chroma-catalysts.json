@@ -1,0 +1,1386 @@
+[
+ {
+  "id": 456562,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Intro)",
+  "description": "Given to you by the Trash-can Man after interacting with the trash can four times.",
+  "lat": 0.474636,
+  "lng": -1.000469
+ },
+ {
+  "id": 466293,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Spring Meadows",
+  "description": "Location: On the ground in the corner of the abandoned house's ground floor.",
+  "lat": 0.451512,
+  "lng": -0.931229
+ },
+ {
+  "id": 466299,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Spring Meadows",
+  "description": "On a rocky ledge.",
+  "lat": 0.470381,
+  "lng": -0.922558
+ },
+ {
+  "id": 474346,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Spring Meadows",
+  "description": "Location: On the ledge behind the enemies, amongst the ruined crates",
+  "lat": 0.505419,
+  "lng": -0.884195
+ },
+ {
+  "id": 474602,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "lat": 0.454219,
+  "lng": -0.823728
+ },
+ {
+  "id": 474605,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "description": "Location: On the ground - prepare for a surprise attack from Demineur x3",
+  "lat": 0.452264,
+  "lng": -0.826466
+ },
+ {
+  "id": 474610,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "description": "Among the Nevron corpses beside the path.",
+  "lat": 0.450395,
+  "lng": -0.808561
+ },
+ {
+  "id": 474620,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "description": "Location: At the base of the giant anvil, guarded by the Cruler and Bruler",
+  "lat": 0.466184,
+  "lng": -0.820409
+ },
+ {
+  "id": 474934,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "description": "Location: At the edge of the cliff. Use the Grapple Point to the north to reach this location",
+  "lat": 0.499585,
+  "lng": -0.85796
+ },
+ {
+  "id": 516764,
+  "name": "Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "description": "Reward for defeating the Bourgeon.",
+  "lat": 0.499532,
+  "lng": -0.833169
+ },
+ {
+  "id": 516766,
+  "name": "Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "description": "Reward for defeating the Chromatic Troubadour",
+  "lat": 0.502682,
+  "lng": -0.8506
+ },
+ {
+  "id": 508613,
+  "name": "Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Spring Meadows",
+  "description": "Reward for defeating Eveque",
+  "lat": 0.513569,
+  "lng": -0.885454
+ },
+ {
+  "id": 516768,
+  "name": "Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "description": "Reward for defeating Goblu",
+  "lat": 0.498944,
+  "lng": -0.824538
+ },
+ {
+  "id": 454574,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Location: Found within Endless Night Sanctuary",
+  "lat": 0.817027,
+  "lng": -0.476366
+ },
+ {
+  "id": 454575,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Location: Found within Endless Night Sanctuary - Under the Paint Cage. It's close to the Night Totem Expedition Flag.",
+  "lat": 0.817765,
+  "lng": -0.484917
+ },
+ {
+  "id": 454577,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Location: Found within Endless Night Sanctuary, up on a ledge.",
+  "lat": 0.783372,
+  "lng": -0.514126
+ },
+ {
+  "id": 455422,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Location: Found within the Flying Manor - Close to a corpse of Stalact",
+  "lat": 0.649725,
+  "lng": -0.402345
+ },
+ {
+  "id": 504604,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Frozen Hearts",
+  "lat": 0.83915,
+  "lng": -1.088605
+ },
+ {
+  "id": 504605,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Frozen Hearts",
+  "lat": 0.832005,
+  "lng": -1.086971
+ },
+ {
+  "id": 504606,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Frozen Hearts",
+  "lat": 0.812232,
+  "lng": -1.082255
+ },
+ {
+  "id": 504607,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Frozen Hearts",
+  "lat": 0.810349,
+  "lng": -1.111179
+ },
+ {
+  "id": 504608,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Frozen Hearts",
+  "lat": 0.80163,
+  "lng": -1.102891
+ },
+ {
+  "id": 504614,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Frozen Hearts",
+  "lat": 0.793501,
+  "lng": -1.104964
+ },
+ {
+  "id": 504680,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Frozen Hearts",
+  "description": "At the end of the cave",
+  "lat": 0.798927,
+  "lng": -1.12298
+ },
+ {
+  "id": 518866,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for getting a Silver medal in the race at Gestral Beach",
+  "lat": 0.745224,
+  "lng": -0.641417
+ },
+ {
+  "id": 521688,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating the Bourgeon.",
+  "lat": 0.674145,
+  "lng": -0.417071
+ },
+ {
+  "id": 521690,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "On a broken chunk of walkway.",
+  "lat": 0.663903,
+  "lng": -0.416343
+ },
+ {
+  "id": 521696,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Behind the Enemy x3",
+  "lat": 0.650571,
+  "lng": -0.424944
+ },
+ {
+  "id": 521697,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "At the edge of the room.",
+  "lat": 0.655489,
+  "lng": -0.425239
+ },
+ {
+  "id": 521827,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Covered by rock.",
+  "lat": 0.639557,
+  "lng": -0.391224
+ },
+ {
+  "id": 521836,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "lat": 0.659258,
+  "lng": -0.471918
+ },
+ {
+  "id": 521841,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "lat": 0.643777,
+  "lng": -0.506226
+ },
+ {
+  "id": 521852,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Dropped by the Bourgeon.",
+  "lat": 0.63894,
+  "lng": -0.49924
+ },
+ {
+  "id": 521862,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating the Grosse Tete.",
+  "lat": 0.624025,
+  "lng": -0.473563
+ },
+ {
+  "id": 521882,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Guarded by Gold Chevaliere x2.",
+  "lat": 0.617511,
+  "lng": -0.467427
+ },
+ {
+  "id": 521897,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating the Bourgeon.",
+  "lat": 0.753601,
+  "lng": -0.445633
+ },
+ {
+  "id": 521900,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "On the ground beyond the Crawlspace.",
+  "lat": 0.770624,
+  "lng": -0.468534
+ },
+ {
+  "id": 521906,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "On a floating platform reached via grapple points.",
+  "lat": 0.74511,
+  "lng": -0.405168
+ },
+ {
+  "id": 521930,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Endless Night Sanctuary",
+  "description": "In the stone ring.",
+  "lat": 0.808075,
+  "lng": -0.508214
+ },
+ {
+  "id": 543086,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "description": "Guarded by enemies among the scaffolding.",
+  "lat": 0.744561,
+  "lng": -0.356115
+ },
+ {
+  "id": 543087,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "description": "Under the path.",
+  "lat": 0.747677,
+  "lng": -0.345351
+ },
+ {
+  "id": 543089,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "lat": 0.766788,
+  "lng": -0.326377
+ },
+ {
+  "id": 543102,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "description": "Reached via Rope",
+  "lat": 0.780374,
+  "lng": -0.354732
+ },
+ {
+  "id": 543104,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "description": "Reached via Grapple Point",
+  "lat": 0.761066,
+  "lng": -0.337492
+ },
+ {
+  "id": 543401,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "lat": 1.023175,
+  "lng": -0.533109
+ },
+ {
+  "id": 543417,
+  "name": "Grandiose Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "lat": 1.020683,
+  "lng": -0.459613
+ },
+ {
+  "id": 518860,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating the Chromatic Benisseur",
+  "lat": 0.58856,
+  "lng": -0.641717
+ },
+ {
+  "id": 518867,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating the Chromatic Chapelier",
+  "lat": 0.741365,
+  "lng": -0.742267
+ },
+ {
+  "id": 521949,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Endless Night Sanctuary",
+  "description": "Reward for defeating the Chromatic Cruler",
+  "lat": 0.805002,
+  "lng": -0.454777
+ },
+ {
+  "id": 522326,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating the Chromatic Aberration.",
+  "lat": 0.591578,
+  "lng": -0.708414
+ },
+ {
+  "id": 543083,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "description": "Dropped by the Chromatic Creation",
+  "lat": 0.738021,
+  "lng": -0.386263
+ },
+ {
+  "id": 543093,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "description": "Dropped by Creation x2",
+  "lat": 0.760793,
+  "lng": -0.331742
+ },
+ {
+  "id": 543100,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "description": "Dropped by the Creation",
+  "lat": 0.77167,
+  "lng": -0.338178
+ },
+ {
+  "id": 543305,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "description": "Dropped by Chromatic Licorne",
+  "lat": 1.10937,
+  "lng": -0.447289
+ },
+ {
+  "id": 543309,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "description": "Dropped by Chromatic Franctale",
+  "lat": 1.095682,
+  "lng": -0.503699
+ },
+ {
+  "id": 543352,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "description": "Dropped by Chromatic Machinapied",
+  "lat": 1.134924,
+  "lng": -0.517156
+ },
+ {
+  "id": 543436,
+  "name": "Grandiose Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "description": "Reward for defeating the Chromatic Barbasucette",
+  "lat": 1.0879,
+  "lng": -0.478868
+ },
+ {
+  "id": 518882,
+  "name": "Grandiose Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "description": "Reward for defeating Osquio",
+  "lat": 1.030037,
+  "lng": -0.314023
+ },
+ {
+  "id": 521801,
+  "name": "Grandiose Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating the Gargant.",
+  "lat": 0.648304,
+  "lng": -0.378672
+ },
+ {
+  "id": 521823,
+  "name": "Grandiose Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating Lampmaster",
+  "lat": 0.670728,
+  "lng": -0.373449
+ },
+ {
+  "id": 521876,
+  "name": "Grandiose Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating the Dualliste.",
+  "lat": 0.649088,
+  "lng": -0.49522
+ },
+ {
+  "id": 521912,
+  "name": "Grandiose Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating Goblu",
+  "lat": 0.743274,
+  "lng": -0.427209
+ },
+ {
+  "id": 521917,
+  "name": "Grandiose Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating Clea",
+  "lat": 0.701238,
+  "lng": -0.45398
+ },
+ {
+  "id": 521934,
+  "name": "Grandiose Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Endless Night Sanctuary",
+  "description": "Reward for defeating Ultimate Sakapatate",
+  "lat": 0.816692,
+  "lng": -0.499077
+ },
+ {
+  "id": 522323,
+  "name": "Grandiose Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating Sprong",
+  "lat": 0.642353,
+  "lng": -0.708645
+ },
+ {
+  "id": 521940,
+  "name": "Grandiose Chroma Catalyst x5",
+  "category": "Chroma Catalyst",
+  "region": "Endless Night Sanctuary",
+  "description": "Reward for defeating the Petank",
+  "lat": 0.793317,
+  "lng": -0.518819
+ },
+ {
+  "id": 521725,
+  "name": "Grandiose Chroma Catalyst x6",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating the Eveque x3",
+  "lat": 0.661104,
+  "lng": -0.42079
+ },
+ {
+  "id": 543423,
+  "name": "Grandiose Chroma Catalyst x6",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "description": "Location: Reward for defeating Licornapieds.",
+  "lat": 1.019011,
+  "lng": -0.439171
+ },
+ {
+  "id": 521728,
+  "name": "Perfect Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating the Eveque x3",
+  "lat": 0.661456,
+  "lng": -0.419079
+ },
+ {
+  "id": 521822,
+  "name": "Perfect Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating Lampmaster",
+  "lat": 0.670524,
+  "lng": -0.374371
+ },
+ {
+  "id": 521875,
+  "name": "Perfect Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating the Dualliste.",
+  "lat": 0.649013,
+  "lng": -0.495768
+ },
+ {
+  "id": 521916,
+  "name": "Perfect Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Manor",
+  "description": "Reward for defeating Clea",
+  "lat": 0.701333,
+  "lng": -0.455293
+ },
+ {
+  "id": 542734,
+  "name": "Perfect Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "description": "Inside the trash can.",
+  "lat": 0.771959,
+  "lng": -0.265043
+ },
+ {
+  "id": 543082,
+  "name": "Perfect Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Renoir's Drafts",
+  "description": "Dropped by the Chromatic Creation",
+  "lat": 0.737917,
+  "lng": -0.386838
+ },
+ {
+  "id": 543365,
+  "name": "Perfect Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Verso's Drafts",
+  "description": "Dropped by Osquio.",
+  "lat": 1.030059,
+  "lng": -0.315237
+ },
+ {
+  "id": 454691,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Old Lumiere",
+  "description": "Location: Found within the Old Lumiere - South Entrance - On the balcony behind the corner on the left side while continuing down the path.",
+  "lat": 0.732112,
+  "lng": -1.043305
+ },
+ {
+  "id": 492391,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Stone Wave Cliffs",
+  "description": "Beside the ramp.",
+  "lat": 0.461512,
+  "lng": -0.466822
+ },
+ {
+  "id": 502719,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Forgotten Battlefield",
+  "description": "On top of the wooden structure to your right when entering the large area.",
+  "lat": 0.702764,
+  "lng": -0.892832
+ },
+ {
+  "id": 504093,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Stone Wave Cliffs",
+  "lat": 0.461335,
+  "lng": -0.476572
+ },
+ {
+  "id": 504565,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Forgotten Battlefield",
+  "description": "Locked behind Paint Spike",
+  "lat": 0.72777,
+  "lng": -0.888374
+ },
+ {
+  "id": 504691,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Old Lumiere",
+  "description": "Location: Found within Old Lumiere - South Entrance - after your party is separated and you gain control of the party of 2, you'll find this by dropping down onto the big pipe with a hole in it.",
+  "lat": 0.689891,
+  "lng": -1.012189
+ },
+ {
+  "id": 516767,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Flying Waters",
+  "description": "Reward for defeating Goblu",
+  "lat": 0.498783,
+  "lng": -0.825031
+ },
+ {
+  "id": 516982,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating the Bourgeon",
+  "lat": 0.610963,
+  "lng": -0.686364
+ },
+ {
+  "id": 517991,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating the Stalact.",
+  "lat": 0.684595,
+  "lng": -0.699657
+ },
+ {
+  "id": 517993,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating the Bourgeon",
+  "lat": 0.689538,
+  "lng": -0.725476
+ },
+ {
+  "id": 522322,
+  "name": "Polished Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating the Bourgeon",
+  "lat": 0.597076,
+  "lng": -0.678847
+ },
+ {
+  "id": 516919,
+  "name": "Polished Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for defeating Chromatic Bruler",
+  "lat": 0.610354,
+  "lng": -0.695941
+ },
+ {
+  "id": 517896,
+  "name": "Polished Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Forgotten Battlefield",
+  "description": "Reward for defeating the Chromatic Luster",
+  "lat": 0.729902,
+  "lng": -0.910194
+ },
+ {
+  "id": 455117,
+  "name": "Polished Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Location: Received from defeating Monoco during the story quest",
+  "lat": 0.68452,
+  "lng": -0.700942
+ },
+ {
+  "id": 504320,
+  "name": "Polished Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Drops from the Lampmaster",
+  "lat": 0.500153,
+  "lng": -0.406494
+ },
+ {
+  "id": 504336,
+  "name": "Polished Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Yellow Harvest",
+  "description": "Location: Drops from defeating Glaise",
+  "lat": 0.407771,
+  "lng": -0.55294
+ },
+ {
+  "id": 504505,
+  "name": "Polished Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Old Lumiere",
+  "description": "Reward for defeating Renoir.",
+  "lat": 0.7444,
+  "lng": -1.016454
+ },
+ {
+  "id": 516773,
+  "name": "Polished Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Ancient Sanctuary",
+  "description": "Reward for defeating the Ultimate Sakapatate",
+  "lat": 0.507542,
+  "lng": -0.725896
+ },
+ {
+  "id": 517924,
+  "name": "Polished Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Forgotten Battlefield",
+  "description": "Reward for defeating Dualliste",
+  "lat": 0.73984,
+  "lng": -0.934107
+ },
+ {
+  "id": 504324,
+  "name": "Polished Chroma Catalyst x5",
+  "category": "Chroma Catalyst",
+  "region": "Esquie's Nest",
+  "description": "Reward for defeating Petank",
+  "lat": 0.47941,
+  "lng": -0.573109
+ },
+ {
+  "id": 504423,
+  "name": "Polished Chroma Catalyst x5",
+  "category": "Chroma Catalyst",
+  "region": "Ancient Sanctuary",
+  "description": "Reward for defeating Petank",
+  "lat": 0.451053,
+  "lng": -0.747302
+ },
+ {
+  "id": 504465,
+  "name": "Polished Chroma Catalyst x5",
+  "category": "Chroma Catalyst",
+  "region": "Stone Wave Cliffs",
+  "description": "Reward for defeating the Petank",
+  "lat": 0.455831,
+  "lng": -0.466044
+ },
+ {
+  "id": 517900,
+  "name": "Polished Chroma Catalyst x5",
+  "category": "Chroma Catalyst",
+  "region": "Forgotten Battlefield",
+  "description": "Reward for defeating the Petank.",
+  "lat": 0.712535,
+  "lng": -0.922417
+ },
+ {
+  "id": 504341,
+  "name": "Polished Chroma Catalyst x6",
+  "category": "Chroma Catalyst",
+  "region": "Yellow Harvest",
+  "description": "Location: Drops from defeating the Chromatic Orphelin",
+  "lat": 0.386936,
+  "lng": -0.557732
+ },
+ {
+  "id": 518855,
+  "name": "Polished Chroma Catalyst x6",
+  "category": "Chroma Catalyst",
+  "region": "Old Lumiere",
+  "description": "Reward for defeating Chromatic Danseuse",
+  "lat": 0.661352,
+  "lng": -0.970815
+ },
+ {
+  "id": 454860,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "After Glissando elevator, on the right side.",
+  "lat": 0.919805,
+  "lng": -0.973773
+ },
+ {
+  "id": 454864,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "In the room of Tisseur.",
+  "lat": 0.876429,
+  "lng": -1.009004
+ },
+ {
+  "id": 454865,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "Above where the Mime is, need to go back a bit and take the other way, past Benisseur x2",
+  "lat": 0.866455,
+  "lng": -1.019776
+ },
+ {
+  "id": 454866,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "After the room full of ribbons, keep to the left side to find it behind a wall.",
+  "lat": 0.838799,
+  "lng": -1.012263
+ },
+ {
+  "id": 454870,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "After Greater Shell picto, climb up.",
+  "lat": 0.797003,
+  "lng": -0.976321
+ },
+ {
+  "id": 454872,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "After the first flag and two sets of monsters, go left then left again and down the rope. Then go right to find the loot beyond an archway.",
+  "lat": 0.782465,
+  "lng": -1.009696
+ },
+ {
+  "id": 454873,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "Up in the middle, just before second elevator.",
+  "lat": 0.808804,
+  "lng": -1.022611
+ },
+ {
+  "id": 454874,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "After the flag and two sets of monsters go left, then right. Under the Paint Spike.",
+  "lat": 0.801119,
+  "lng": -1.018505
+ },
+ {
+  "id": 454875,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "After descending the Rope, look back and to the right.",
+  "lat": 0.797356,
+  "lng": -0.97993
+ },
+ {
+  "id": 454876,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "Path of Sadness, path on the right side of the final mask, close to the Expedition 39 journal - follow a narrow path behind the huge rock pillar.",
+  "lat": 1.008877,
+  "lng": -1.03665
+ },
+ {
+  "id": 454878,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "In Path of Sadness, on the left side from the flag.",
+  "lat": 0.996803,
+  "lng": -1.035225
+ },
+ {
+  "id": 454880,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "In Path of Anger, on the platform on the right, just before the huge face.",
+  "lat": 1.004492,
+  "lng": -0.963042
+ },
+ {
+  "id": 454884,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "Path of Joy, middle then right side. Guarded by Moissonneuse x2",
+  "lat": 0.961173,
+  "lng": -1.018011
+ },
+ {
+  "id": 456589,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "Just up a hill near the Anger Vale flag",
+  "lat": 0.991638,
+  "lng": -0.945849
+ },
+ {
+  "id": 504134,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Ancient Sanctuary",
+  "lat": 0.48052,
+  "lng": -0.756023
+ },
+ {
+  "id": 504568,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for beating The Weakest at Beach Raft Volley in Gestral Beach",
+  "lat": 0.636991,
+  "lng": -0.667607
+ },
+ {
+  "id": 509447,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "High up, near the paint cage.",
+  "lat": 0.885142,
+  "lng": -1.020508
+ },
+ {
+  "id": 513763,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "At the top of the staircase.",
+  "lat": 1.079823,
+  "lng": -1.104606
+ },
+ {
+  "id": 513764,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "lat": 1.080383,
+  "lng": -1.09182
+ },
+ {
+  "id": 513765,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "lat": 1.073778,
+  "lng": -1.04729
+ },
+ {
+  "id": 513768,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "After you grapple up, behind the rock to the right.",
+  "lat": 1.100904,
+  "lng": -1.127544
+ },
+ {
+  "id": 513772,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Behind the pillar.",
+  "lat": 1.197589,
+  "lng": -1.19207
+ },
+ {
+  "id": 518579,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "Reward for defeating Glissando",
+  "lat": 0.915589,
+  "lng": -0.981411
+ },
+ {
+  "id": 518694,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "Reward for defeating the Jovial Moissonneuse",
+  "lat": 0.961458,
+  "lng": -1.028815
+ },
+ {
+  "id": 518695,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "Reward for defeating the Seething Boucheclier",
+  "lat": 0.995639,
+  "lng": -0.969472
+ },
+ {
+  "id": 518696,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "Reward for defeating the Sorrowful Chapelier",
+  "lat": 1.009298,
+  "lng": -1.040613
+ },
+ {
+  "id": 518725,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Reward for defeating Eveque",
+  "lat": 1.080426,
+  "lng": -1.011926
+ },
+ {
+  "id": 518732,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Behind a large rock.",
+  "lat": 1.076068,
+  "lng": -1.030757
+ },
+ {
+  "id": 518742,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Reward for defeating Ultimate Sakapatate",
+  "lat": 1.078209,
+  "lng": -1.086496
+ },
+ {
+  "id": 518771,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Behind the Ceramic Chevaliere x2",
+  "lat": 1.26484,
+  "lng": -1.173984
+ },
+ {
+  "id": 518865,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Continent",
+  "description": "Reward for getting a Bronze medal in the race at Gestral Beach",
+  "lat": 0.745063,
+  "lng": -0.641997
+ },
+ {
+  "id": 521647,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Crimson Forest",
+  "description": "As you jump towards Expedition Flag 79 - The Three Blades, turn left and jump towards the boxes to find the catalyst inside.",
+  "lat": 0.895365,
+  "lng": -0.511213
+ },
+ {
+  "id": 521660,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Crimson Forest",
+  "description": "In the lower area, near a Red Sword.",
+  "lat": 0.873559,
+  "lng": -0.511739
+ },
+ {
+  "id": 542729,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "description": "By the top of the stairs.",
+  "lat": 0.790065,
+  "lng": -0.259376
+ },
+ {
+  "id": 542747,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "lat": 0.741116,
+  "lng": -0.260601
+ },
+ {
+  "id": 542750,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "description": "In a dark alley.",
+  "lat": 0.731489,
+  "lng": -0.274273
+ },
+ {
+  "id": 542752,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "lat": 0.717701,
+  "lng": -0.269164
+ },
+ {
+  "id": 542776,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "lat": 0.641173,
+  "lng": -0.320344
+ },
+ {
+  "id": 542789,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "lat": 0.651645,
+  "lng": -0.2916
+ },
+ {
+  "id": 542803,
+  "name": "Resplendent Chroma Catalyst",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "description": "Dropped by Creation",
+  "lat": 0.599953,
+  "lng": -0.274109
+ },
+ {
+  "id": 518569,
+  "name": "Resplendent Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "Reward for defeating the Chromatic Greatsword Cultist",
+  "lat": 0.81739,
+  "lng": -0.962608
+ },
+ {
+  "id": 518690,
+  "name": "Resplendent Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "Reward for defeating the Chromatic Ramasseur",
+  "lat": 0.997204,
+  "lng": -1.04681
+ },
+ {
+  "id": 518737,
+  "name": "Resplendent Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Reward for defeating the Chromatic Bourgeon",
+  "lat": 1.062852,
+  "lng": -1.072676
+ },
+ {
+  "id": 518765,
+  "name": "Resplendent Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Reward for defeating Clair Obscur",
+  "lat": 1.248347,
+  "lng": -1.190604
+ },
+ {
+  "id": 521454,
+  "name": "Resplendent Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "The Reacher",
+  "description": "Reward for defeating the Chromatic Braseleur",
+  "lat": 0.933091,
+  "lng": -0.335541
+ },
+ {
+  "id": 521663,
+  "name": "Resplendent Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Crimson Forest",
+  "description": "Reward for defeating the Chromatic Gold Chevaliere",
+  "lat": 0.910429,
+  "lng": -0.516741
+ },
+ {
+  "id": 542760,
+  "name": "Resplendent Chroma Catalyst x2",
+  "category": "Chroma Catalyst",
+  "region": "Lumiere (Act 3)",
+  "description": "Dropped by Chromatic Echassier",
+  "lat": 0.690861,
+  "lng": -0.29506
+ },
+ {
+  "id": 518575,
+  "name": "Resplendent Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "Reward for defeating Tisseur",
+  "lat": 0.887733,
+  "lng": -1.01216
+ },
+ {
+  "id": 518580,
+  "name": "Resplendent Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "Reward for defeating Sirène",
+  "lat": 0.87861,
+  "lng": -0.96606
+ },
+ {
+  "id": 518757,
+  "name": "Resplendent Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Reward for defeating Gargant",
+  "lat": 1.160207,
+  "lng": -1.16503
+ },
+ {
+  "id": 518775,
+  "name": "Resplendent Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Reward for defeating Renoir",
+  "lat": 1.286486,
+  "lng": -1.180452
+ },
+ {
+  "id": 518779,
+  "name": "Resplendent Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "Inside the Monolith",
+  "description": "Reward for defeating The Paintress",
+  "lat": 1.296824,
+  "lng": -1.176999
+ },
+ {
+  "id": 521458,
+  "name": "Resplendent Chroma Catalyst x3",
+  "category": "Chroma Catalyst",
+  "region": "The Reacher",
+  "description": "Reward for defeating Alicia",
+  "lat": 1.00051,
+  "lng": -0.382417
+ },
+ {
+  "id": 518576,
+  "name": "Resplendent Chroma Catalyst x5",
+  "category": "Chroma Catalyst",
+  "region": "Sirene",
+  "description": "Reward for defeating the Petank",
+  "lat": 0.914755,
+  "lng": -1.000063
+ },
+ {
+  "id": 521414,
+  "name": "Resplendent Chroma Catalyst x5",
+  "category": "Chroma Catalyst",
+  "region": "The Reacher",
+  "description": "Reward for defeating the Petànk",
+  "lat": 0.892042,
+  "lng": -0.386383
+ },
+ {
+  "id": 518699,
+  "name": "Resplendent Chroma Catalyst x6",
+  "category": "Chroma Catalyst",
+  "region": "Visages",
+  "description": "Reward for defeating the Mask Keeper",
+  "lat": 1.049905,
+  "lng": -0.964547
+ }
+]

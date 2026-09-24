@@ -1,0 +1,180 @@
+[
+  {
+    "id": "448829",
+    "name": "Recoat",
+    "lat": -69.86989,
+    "lng": -21.17101,
+    "approx": true,
+    "area": "Gestral Village",
+    "note": "Location: Found within the Gestral Village - on the stairs close to the casino"
+  },
+  {
+    "id": "449724",
+    "name": "Recoat",
+    "lat": -41.70573,
+    "lng": -16.50857,
+    "approx": true,
+    "area": "Forgotten Battlefield",
+    "note": "Location: Found within the Forgotten Battlefield - South Entrance - After passing through the big gate, follow the path to the left. It's inside a crate among the ruins."
+  },
+  {
+    "id": "450909",
+    "name": "Recoat",
+    "lat": -29.32334,
+    "lng": -58.29965,
+    "note": "Location: Found within Floating Cemetery - Inside the building"
+  },
+  {
+    "id": "454445",
+    "name": "Recoat",
+    "lat": 69.24058,
+    "lng": -16.8682,
+    "approx": true,
+    "area": "Inside the Monolith",
+    "note": "Location: Found Inside the Monolith"
+  },
+  {
+    "id": "464396",
+    "name": "Recoat",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Intro)",
+    "note": "Location: Rewarded for completion of the combat challenge from Nicolas"
+  },
+  {
+    "id": "474614",
+    "name": "Recoat",
+    "lat": -72.50172,
+    "lng": -19.45666,
+    "approx": true,
+    "area": "Flying Waters",
+    "note": "Location: On the platform"
+  },
+  {
+    "id": "504326",
+    "name": "Recoat",
+    "lat": -70.45151,
+    "lng": -14.22562,
+    "approx": true,
+    "area": "Esquie's Nest",
+    "note": "Reward for defeating Petank"
+  },
+  {
+    "id": "504370",
+    "name": "Recoat",
+    "lat": -65.82078,
+    "lng": -15.0172,
+    "approx": true,
+    "area": "Stone Wave Cliffs"
+  },
+  {
+    "id": "504375",
+    "name": "Recoat",
+    "lat": -65.9836,
+    "lng": -15.79336,
+    "approx": true,
+    "area": "Stone Wave Cliffs"
+  },
+  {
+    "id": "504424",
+    "name": "Recoat",
+    "lat": -71.03125,
+    "lng": -21.21487,
+    "approx": true,
+    "area": "Ancient Sanctuary",
+    "note": "Reward for defeating Petank"
+  },
+  {
+    "id": "504466",
+    "name": "Recoat",
+    "lat": -65.50792,
+    "lng": -15.29141,
+    "approx": true,
+    "area": "Stone Wave Cliffs",
+    "note": "Reward for defeating the Petank"
+  },
+  {
+    "id": "513774",
+    "name": "Recoat",
+    "lat": 69.09877,
+    "lng": -17.64436,
+    "approx": true,
+    "area": "Inside the Monolith"
+  },
+  {
+    "id": "517901",
+    "name": "Recoat",
+    "lat": -42.00276,
+    "lng": -17.28473,
+    "approx": true,
+    "area": "Forgotten Battlefield",
+    "note": "Reward for defeating the Petank."
+  },
+  {
+    "id": "517992",
+    "name": "Recoat",
+    "lat": -17.59615,
+    "lng": -28.11282,
+    "note": "Given by a Grateful Grandis sitting next to Expedition 65."
+  },
+  {
+    "id": "518577",
+    "name": "Recoat",
+    "lat": 41.70573,
+    "lng": -4.77343,
+    "approx": true,
+    "area": "Sirene",
+    "note": "Reward for defeating the Petank"
+  },
+  {
+    "id": "518581",
+    "name": "Recoat",
+    "lat": 41.40732,
+    "lng": -5.54959,
+    "approx": true,
+    "area": "Sirene",
+    "note": "Reward for defeating Sirène"
+  },
+  {
+    "id": "521941",
+    "name": "Recoat",
+    "lat": 2.06498,
+    "lng": 59.17002,
+    "approx": true,
+    "area": "Endless Night Sanctuary",
+    "note": "Reward for defeating the Petank"
+  },
+  {
+    "id": "542792",
+    "name": "Recoat",
+    "lat": -79.94359,
+    "lng": -7.94123,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "542793",
+    "name": "Recoat",
+    "lat": -80.01299,
+    "lng": -8.71738,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "542799",
+    "name": "Recoat",
+    "lat": -79.81015,
+    "lng": -8.21544,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  },
+  {
+    "id": "590306",
+    "name": "Recoat",
+    "lat": -80.0678,
+    "lng": -7.73339,
+    "approx": true,
+    "area": "Lumiere (Act 3)"
+  }
+]

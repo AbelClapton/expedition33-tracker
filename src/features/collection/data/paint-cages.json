@@ -1,0 +1,182 @@
+[
+ {
+  "id": 474593,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Flying Waters",
+  "description": "Location: To the right of the main path Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Chroma Elixir Shard",
+  "lat": 0.451827,
+  "lng": -0.842303
+ },
+ {
+  "id": 474947,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Flying Waters",
+  "description": "Location: In the underground area Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Revive Tint Shard",
+  "lat": 0.484016,
+  "lng": -0.820506
+ },
+ {
+  "id": 475424,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Ancient Sanctuary",
+  "description": "Location: On the ledge. To get up to the ledge, head through the opening in the foliage from the clearing to the south. Slide down the Rope, then traverse the platforms to reach the ledge with the cage on the other side. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Chroma Elixir Shard",
+  "lat": 0.513223,
+  "lng": -0.744325
+ },
+ {
+  "id": 504313,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Up the slope to the end of the path Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Duenum (Maelle)",
+  "lat": 0.463145,
+  "lng": -0.45152
+ },
+ {
+  "id": 504385,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Forgotten Battlefield",
+  "description": "Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Chroma Elixir Shard",
+  "lat": 0.725727,
+  "lng": -0.933495
+ },
+ {
+  "id": 504401,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Stone Wave Cliffs",
+  "description": "Location: Just through the gap in the rocks, to the left of the Expedition 78 journal. Lock Locations: - Paint Chest Lock - Paint Cage Lock - Paint Cage Lock Reward: - Delaram (Gustave/Verso)",
+  "lat": 0.427517,
+  "lng": -0.48397
+ },
+ {
+  "id": 504455,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Old Lumiere",
+  "description": "Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Redalim (Lune)",
+  "lat": 0.711363,
+  "lng": -1.004316
+ },
+ {
+  "id": 504506,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Sirene",
+  "description": "Location: In an area reached via this Rope. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Shield Affinity",
+  "lat": 0.791433,
+  "lng": -1.003747
+ },
+ {
+  "id": 504520,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Frozen Hearts",
+  "description": "Location: ?? Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Anti-Freeze",
+  "lat": 0.787745,
+  "lng": -1.086735
+ },
+ {
+  "id": 504524,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Frozen Hearts",
+  "description": "Location: ?? Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Revive Tint Shard",
+  "lat": 0.799616,
+  "lng": -1.092112
+ },
+ {
+  "id": 504597,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Esoteric Ruins",
+  "description": "Location: To the right of the main path Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Chroma",
+  "lat": 0.691387,
+  "lng": -1.111701
+ },
+ {
+  "id": 504801,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Sirene",
+  "description": "Location: Reached by climbing the ledges at the edge of the room, near the entrance. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Revive Tint Shard",
+  "lat": 0.884477,
+  "lng": -1.023161
+ },
+ {
+  "id": 511911,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Inside the Monolith",
+  "description": "Location: On a ledge. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Random Defense",
+  "lat": 1.068809,
+  "lng": -1.082156
+ },
+ {
+  "id": 512594,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Inside the Monolith",
+  "description": "Location: Beneath a train. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Empowering Parry",
+  "lat": 1.148563,
+  "lng": -1.15541
+ },
+ {
+  "id": 518713,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Inside the Monolith",
+  "description": "Location: In the area beyond the Rope. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Revive Tint Shard",
+  "lat": 1.086286,
+  "lng": -0.997735
+ },
+ {
+  "id": 521681,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Flying Manor",
+  "description": "Location: On the lower level of the large building. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Energising Stun",
+  "lat": 0.678627,
+  "lng": -0.418431
+ },
+ {
+  "id": 521845,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Flying Manor",
+  "description": "Location: Beside an archway. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Powerful Revive",
+  "lat": 0.65658,
+  "lng": -0.512803
+ },
+ {
+  "id": 521947,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Endless Night Sanctuary",
+  "description": "Location: On a ledge reached via Climbing Holds. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Grandiose Chroma Catalyst",
+  "lat": 0.817554,
+  "lng": -0.4855
+ },
+ {
+  "id": 543267,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Verso's Drafts",
+  "description": "Location: Beyond the Crawlspace. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Chroma Elixir Shard",
+  "lat": 1.00055,
+  "lng": -0.492282
+ },
+ {
+  "id": 543427,
+  "name": "Paint Cage",
+  "category": "Paint Cage",
+  "region": "Verso's Drafts",
+  "description": "Location: Between two rocks. Lock Locations: - Paint Cage Lock - Paint Cage Lock - Paint Cage Lock Reward: - Esquim (Lune)",
+  "lat": 1.076622,
+  "lng": -0.518342
+ }
+]
