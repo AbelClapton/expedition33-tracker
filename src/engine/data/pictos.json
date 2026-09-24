@@ -1,0 +1,2977 @@
+[
+    {
+        "id": "accelerating-heal-9",
+        "name": "Accelerating Heal",
+        "location": "In the ruined camp on the beach",
+        "luminaId": "accelerating-heal",
+        "level": 9,
+        "stats": {
+            "health": 329,
+            "speed": 65
+        }
+    },
+    {
+        "id": "accelerating-last-stand-6",
+        "name": "Accelerating Last Stand",
+        "location": "Obtained after defeating Bertrand Big Hands in the Hidden Gestral Arena",
+        "luminaId": "accelerating-last-stand",
+        "level": 6,
+        "stats": {
+            "health": 168,
+            "speed": 34
+        }
+    },
+    {
+        "id": "accelerating-shots-28",
+        "name": "Accelerating Shots",
+        "location": "Sold by Fusoka after defeating him in fight",
+        "luminaId": "accelerating-shots",
+        "level": 28,
+        "stats": {
+            "health": 4869,
+            "defense": 301
+        }
+    },
+    {
+        "id": "accelerating-tint-25",
+        "name": "Accelerating Tint",
+        "location": "Sold by Anthonypo",
+        "luminaId": "accelerating-tint",
+        "level": 25,
+        "stats": {
+            "health": 2162,
+            "speed": 434
+        }
+    },
+    {
+        "id": "aegis-revival-31-grour",
+        "name": "Aegis Revival",
+        "location": "Sold by Grour",
+        "luminaId": "aegis-revival",
+        "level": 31,
+        "stats": {
+            "defense": 1990,
+            "speed": 672
+        }
+    },
+    {
+        "id": "aegis-revival-12-spring",
+        "name": "Aegis Revival",
+        "location": "Found within Spring Meadows – clear out the Paint Spike near Abandoned Expeditioner Camp rest point",
+        "luminaId": "aegis-revival",
+        "level": 12,
+        "stats": {
+            "defense": 218,
+            "speed": 108
+        }
+    },
+    {
+        "id": "alternating-critical-29",
+        "name": "Alternating Critical",
+        "location": "Verso’s Drafts – From entrance to Candy Land, follow tunnel to right ledge",
+        "luminaId": "alternating-critical",
+        "level": 29,
+        "stats": {
+            "speed": 293,
+            "critRate": 50
+        }
+    },
+    {
+        "id": "anti-blight-20-eragol",
+        "name": "Anti-Blight",
+        "location": "Sold by Eragol",
+        "luminaId": "anti-blight",
+        "level": 20,
+        "stats": {
+            "health": 1333,
+            "defense": 647
+        }
+    },
+    {
+        "id": "anti-blight-20-portier",
+        "name": "Anti-Blight",
+        "location": "Drops from Chromatic Portier",
+        "luminaId": "anti-blight",
+        "level": 20,
+        "stats": {
+            "health": 1333,
+            "defense": 647
+        }
+    },
+    {
+        "id": "anti-burn-29-gargant-reward",
+        "name": "Anti-Burn",
+        "location": "Reward for defeating the Gargant",
+        "luminaId": "anti-burn",
+        "level": 29,
+        "stats": {
+            "health": 2757,
+            "defense": 1572
+        }
+    },
+    {
+        "id": "anti-burn-29-gargant-drop",
+        "name": "Anti-Burn",
+        "location": "Drops from defeating the Gargant",
+        "luminaId": "anti-burn",
+        "level": 29,
+        "stats": {
+            "health": 2757,
+            "defense": 1572
+        }
+    },
+    {
+        "id": "anti-charm-13",
+        "name": "Anti-Charm",
+        "location": "Drops from defeating Tisseur",
+        "luminaId": "anti-charm",
+        "level": 13,
+        "stats": {
+            "health": 599,
+            "defense": 290
+        }
+    },
+    {
+        "id": "anti-freeze-21",
+        "name": "Anti-Freeze",
+        "location": "Found within Frozen Hearts – Under the paint cage",
+        "luminaId": "anti-freeze",
+        "level": 21,
+        "stats": {
+            "health": 1464,
+            "defense": 733
+        }
+    },
+    {
+        "id": "anti-stun-29",
+        "name": "Anti-Stun",
+        "location": "Drops from Chromatic Petank",
+        "luminaId": "anti-stun",
+        "level": 29,
+        "stats": {
+            "health": 2757,
+            "defense": 1572
+        }
+    },
+    {
+        "id": "ap-discount-29",
+        "name": "AP Discount",
+        "location": "Verso’s Drafts – Sold by Najabla",
+        "luminaId": "ap-discount",
+        "level": 29,
+        "stats": {
+            "speed": 1055
+        }
+    },
+    {
+        "id": "at-deaths-door-8",
+        "name": "At Death’s Door",
+        "location": "Drops from the Lampmaster",
+        "luminaId": "at-deaths-door",
+        "level": 8,
+        "stats": {
+            "defense": 96,
+            "critRate": 11
+        }
+    },
+    {
+        "id": "attack-lifesteal-4",
+        "name": "Attack Lifesteal",
+        "location": "Found within Ancient Sanctuary – South Entrance, guarded by Catapult Sakapatate",
+        "luminaId": "attack-lifesteal",
+        "level": 4,
+        "stats": {
+            "health": 88,
+            "critRate": 8
+        }
+    },
+    {
+        "id": "augmented-aim-3",
+        "name": "Augmented Aim",
+        "location": "Found within Flying Waters – South Entrance, on top of giant anchor",
+        "luminaId": "augmented-aim",
+        "level": 3,
+        "stats": {
+            "speed": 21,
+            "critRate": 4
+        }
+    },
+    {
+        "id": "augmented-attack-2",
+        "name": "Augmented Attack",
+        "location": "Received after beating Chromatic Lancelier optional boss",
+        "luminaId": "augmented-attack",
+        "level": 2,
+        "stats": {
+            "defense": 8,
+            "speed": 10
+        }
+    },
+    {
+        "id": "augmented-counter-1-31-grour",
+        "name": "Augmented Counter I",
+        "location": "Sold by Grour",
+        "luminaId": "augmented-counter-1",
+        "level": 31,
+        "stats": {
+            "health": 4976,
+            "critRate": 18
+        }
+    },
+    {
+        "id": "augmented-counter-1-28-bourgeon",
+        "name": "Augmented Counter I",
+        "location": "Dropped by the Bourgeon",
+        "luminaId": "augmented-counter-1",
+        "level": 28,
+        "stats": {
+            "health": 4058,
+            "critRate": 16
+        }
+    },
+    {
+        "id": "augmented-counter-1-3-bourgeon",
+        "name": "Augmented Counter I",
+        "location": "Drops from Bourgeon in Flying Waters",
+        "luminaId": "augmented-counter-1",
+        "level": 3,
+        "stats": {
+            "health": 95,
+            "critRate": 4
+        }
+    },
+    {
+        "id": "augmented-counter-2-12",
+        "name": "Augmented Counter II",
+        "location": "Drops from Chromatic Ramasseur",
+        "luminaId": "augmented-counter-2",
+        "level": 12,
+        "stats": {
+            "defense": 208,
+            "critRate": 15
+        }
+    },
+    {
+        "id": "augmented-counter-3-17",
+        "name": "Augmented Counter III",
+        "location": "Drops from Chromatic Echassier",
+        "luminaId": "augmented-counter-3",
+        "level": 17,
+        "stats": {
+            "defense": 432,
+            "critRate": 19
+        }
+    },
+    {
+        "id": "augmented-first-strike-31-grour",
+        "name": "Augmented First Strike",
+        "location": "Sold by Grour",
+        "luminaId": "augmented-first-strike",
+        "level": 31,
+        "stats": {
+            "speed": 1008,
+            "critRate": 18
+        }
+    },
+    {
+        "id": "augmented-first-strike-6-francois",
+        "name": "Augmented First Strike",
+        "location": "Drops from Francois",
+        "luminaId": "augmented-first-strike",
+        "level": 6,
+        "stats": {
+            "speed": 51,
+            "critRate": 5
+        }
+    },
+    {
+        "id": "auto-death-7",
+        "name": "Auto Death",
+        "location": "Purchased from merchant Pinabby",
+        "luminaId": "auto-death",
+        "level": 7,
+        "stats": {
+            "critRate": 26
+        }
+    },
+    {
+        "id": "auto-powerful-19",
+        "name": "Auto Powerful",
+        "location": "Found within Floating Cemetery – if you agree to end Chalier’s life",
+        "luminaId": "auto-powerful",
+        "level": 19,
+        "stats": {
+            "speed": 241,
+            "critRate": 20
+        }
+    },
+    {
+        "id": "auto-regen-13",
+        "name": "Auto Regen",
+        "location": "Found within Sirene, guarded by Benisseur x1",
+        "luminaId": "auto-regen",
+        "level": 13,
+        "stats": {
+            "defense": 479
+        }
+    },
+    {
+        "id": "auto-rush-10",
+        "name": "Auto Rush",
+        "location": "Found within Old Lumiere – South Entrance, guarded by Ceramic Chevaliere x3",
+        "luminaId": "auto-rush",
+        "level": 10,
+        "stats": {
+            "speed": 112,
+            "critRate": 7
+        }
+    },
+    {
+        "id": "auto-shell-7",
+        "name": "Auto Shell",
+        "location": "Found within Stone Wave Cliffs – South Entrance, reward for completing Hexga (Nevron)’s quest",
+        "luminaId": "auto-shell",
+        "level": 7,
+        "stats": {
+            "health": 411
+        }
+    },
+    {
+        "id": "base-shield-20",
+        "name": "Base Shield",
+        "location": "Complete the challenge in The Chosen Path",
+        "luminaId": "base-shield",
+        "level": 20,
+        "stats": {
+            "speed": 378,
+            "critRate": 11
+        }
+    },
+    {
+        "id": "beneficial-contamination-14",
+        "name": "Beneficial Contamination",
+        "location": "Sold by Persik",
+        "luminaId": "beneficial-contamination",
+        "level": 14,
+        "stats": {
+            "defense": 274,
+            "speed": 135
+        }
+    },
+    {
+        "id": "break-specialist-28",
+        "name": "Break Specialist",
+        "location": "Sold by Fusoka after defeating him",
+        "luminaId": "break-specialist",
+        "level": 28,
+        "stats": {
+            "health": 2705,
+            "speed": 546
+        }
+    },
+    {
+        "id": "breaker-5",
+        "name": "Breaker",
+        "location": "Drops from Ultimate Sakapatate",
+        "luminaId": "breaker",
+        "level": 5,
+        "stats": {
+            "speed": 25,
+            "critRate": 9
+        }
+    },
+    {
+        "id": "breaking-attack-15",
+        "name": "Breaking Attack",
+        "location": "Drops from defeating Clair Obscur",
+        "luminaId": "breaking-attack",
+        "level": 15,
+        "stats": {
+            "speed": 154,
+            "critRate": 17
+        }
+    },
+    {
+        "id": "breaking-burn-15",
+        "name": "Breaking Burn",
+        "location": "Guarded by the Bourgeon",
+        "luminaId": "breaking-burn",
+        "level": 15,
+        "stats": {
+            "speed": 243,
+            "critRate": 9
+        }
+    },
+    {
+        "id": "breaking-counter-7",
+        "name": "Breaking Counter",
+        "location": "Stone Wave Cliffs – South Entrance, in fallen structure left of Hexga",
+        "luminaId": "breaking-counter",
+        "level": 7,
+        "stats": {
+            "speed": 43,
+            "critRate": 10
+        }
+    },
+    {
+        "id": "breaking-death-29",
+        "name": "Breaking Death",
+        "location": "Drops from Thunder Eveque",
+        "luminaId": "breaking-death",
+        "level": 29,
+        "stats": {
+            "speed": 586,
+            "critRate": 33
+        }
+    },
+    {
+        "id": "breaking-shots-7",
+        "name": "Breaking Shots",
+        "location": "Stone Wave Cliffs – South Entrance, jump across pillars in large dark underground area",
+        "luminaId": "breaking-shots",
+        "level": 7,
+        "stats": {
+            "speed": 43,
+            "critRate": 10
+        }
+    },
+    {
+        "id": "breaking-slow-15",
+        "name": "Breaking Slow",
+        "location": "Under the Paint Spike. Requires Esquie Flight",
+        "luminaId": "breaking-slow",
+        "level": 15,
+        "stats": {
+            "speed": 162,
+            "critRate": 17
+        }
+    },
+    {
+        "id": "burn-affinity-21",
+        "name": "Burn Affinity",
+        "location": "Frozen Hearts – On top of train wreck",
+        "luminaId": "burn-affinity",
+        "level": 21,
+        "stats": {
+            "speed": 439,
+            "critRate": 12
+        }
+    },
+    {
+        "id": "burning-break-21",
+        "name": "Burning Break",
+        "location": "Found within Frozen Hearts",
+        "luminaId": "burning-break",
+        "level": 21,
+        "stats": {
+            "health": 1541,
+            "critRate": 24
+        }
+    },
+    {
+        "id": "burning-death-28",
+        "name": "Burning Death",
+        "location": "Reward for defeating the Gargant",
+        "luminaId": "burning-death",
+        "level": 28,
+        "stats": {
+            "speed": 546,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "burning-mark-4",
+        "name": "Burning Mark",
+        "location": "Ancient Sanctuary – South Entrance, climb down cliff diagonally from Entrance rest point",
+        "luminaId": "burning-mark",
+        "level": 4,
+        "stats": {
+            "health": 44,
+            "defense": 32
+        }
+    },
+    {
+        "id": "burning-shots-1",
+        "name": "Burning Shots",
+        "location": "Spring Meadows",
+        "luminaId": "burning-shots",
+        "level": 1,
+        "stats": {
+            "speed": 15,
+            "critRate": 2
+        }
+    },
+    {
+        "id": "charging-alteration-28",
+        "name": "Charging Alteration",
+        "location": "Flying Manor – top of tower in Gargant arena",
+        "luminaId": "charging-alteration",
+        "level": 28,
+        "stats": {
+            "defense": 1501,
+            "speed": 546
+        }
+    },
+    {
+        "id": "charging-attack-20",
+        "name": "Charging Attack",
+        "location": "The Reacher – instead of second balloon, climb left wall, crawl, drop down",
+        "luminaId": "charging-attack",
+        "level": 20,
+        "stats": {
+            "speed": 266,
+            "critRate": 22
+        }
+    },
+    {
+        "id": "charging-burn-31",
+        "name": "Charging Burn",
+        "location": "Renoir’s Drafts – ruined bridge near Grour",
+        "luminaId": "charging-burn",
+        "level": 31,
+        "stats": {
+            "health": 3152,
+            "speed": 639
+        }
+    },
+    {
+        "id": "charging-counter-20",
+        "name": "Charging Counter",
+        "location": "The Reacher – instead of second balloon, climb left wall to dead end",
+        "luminaId": "charging-counter",
+        "level": 20,
+        "stats": {
+            "health": 1333,
+            "defense": 647
+        }
+    },
+    {
+        "id": "charging-critical-25",
+        "name": "Charging Critical",
+        "location": "Endless Tower – reward for Stage 5, Trial 3",
+        "luminaId": "charging-critical",
+        "level": 25,
+        "stats": {
+            "defense": 1048,
+            "critRate": 27
+        }
+    },
+    {
+        "id": "charging-mark-25",
+        "name": "Charging Mark",
+        "location": "Sold by Anthonypo",
+        "luminaId": "charging-mark",
+        "level": 25,
+        "stats": {
+            "speed": 413,
+            "critRate": 27
+        }
+    },
+    {
+        "id": "charging-stun-16",
+        "name": "Charging Stun",
+        "location": "Lumiere (Act III) – ground beneath red and white tree",
+        "luminaId": "charging-stun",
+        "level": 16,
+        "stats": {
+            "health": 922,
+            "speed": 182
+        }
+    },
+    {
+        "id": "charging-tint-9",
+        "name": "Charging Tint",
+        "location": "In the guarded ruined camp (can be obtained without fighting)",
+        "luminaId": "charging-tint",
+        "level": 9,
+        "stats": {
+            "health": 329,
+            "defense": 122
+        }
+    },
+    {
+        "id": "charging-weakness-20",
+        "name": "Charging Weakness",
+        "location": "Sold by Eragol",
+        "luminaId": "charging-weakness",
+        "level": 20,
+        "stats": {
+            "speed": 280,
+            "critRate": 23
+        }
+    },
+    {
+        "id": "cheater-24",
+        "name": "Cheater",
+        "location": "Drops from Sprong",
+        "luminaId": "cheater",
+        "level": 24,
+        "stats": {
+            "health": 1198,
+            "speed": 400
+        }
+    },
+    {
+        "id": "cleansing-tint-15-eveque",
+        "name": "Cleansing Tint",
+        "location": "Reward for defeating Eveque",
+        "luminaId": "cleansing-tint",
+        "level": 15,
+        "stats": {
+            "health": 818,
+            "defense": 335
+        }
+    },
+    {
+        "id": "cleansing-tint-1-eveque",
+        "name": "Cleansing Tint",
+        "location": "Spring Meadows – drops after defeating Eveque",
+        "luminaId": "cleansing-tint",
+        "level": 1,
+        "stats": {
+            "health": 35,
+            "defense": 6
+        }
+    },
+    {
+        "id": "cleas-death-33",
+        "name": "Clea’s Death",
+        "location": "Reward for defeating Clea Unleashed in Endless Tower",
+        "luminaId": "cleas-death",
+        "level": 33,
+        "stats": {
+            "speed": 726,
+            "critRate": 37
+        }
+    },
+    {
+        "id": "cleas-life-30",
+        "name": "Clea’s Life",
+        "location": "Drops from Clea inside Flying Manor",
+        "luminaId": "cleas-life",
+        "level": 30,
+        "stats": {
+            "health": 5591
+        }
+    },
+    {
+        "id": "combo-attack-1-9",
+        "name": "Combo Attack I",
+        "location": "Drops from story boss Dualliste",
+        "luminaId": "combo-attack-1",
+        "level": 9,
+        "stats": {
+            "speed": 93,
+            "critRate": 6
+        }
+    },
+    {
+        "id": "combo-attack-2-29",
+        "name": "Combo Attack II",
+        "location": "Drops from Chromatic Clair Obscur",
+        "luminaId": "combo-attack-2",
+        "level": 29,
+        "stats": {
+            "speed": 836,
+            "critRate": 16
+        }
+    },
+    {
+        "id": "combo-attack-3-25",
+        "name": "Combo Attack III",
+        "location": "Dark Gestral Arena – reward for round 3",
+        "luminaId": "combo-attack-3",
+        "level": 25,
+        "stats": {
+            "speed": 619,
+            "critRate": 14
+        }
+    },
+    {
+        "id": "confident-28-flying",
+        "name": "Confident",
+        "location": "Reward for defeating patrolling Enemy x3",
+        "luminaId": "confident",
+        "level": 28,
+        "stats": {
+            "speed": 519,
+            "critRate": 31
+        }
+    },
+    {
+        "id": "confident-10-drop",
+        "name": "Confident",
+        "location": "Dropped by Enemy x3",
+        "luminaId": "confident",
+        "level": 10,
+        "stats": {
+            "speed": 75,
+            "critRate": 13
+        }
+    },
+    {
+        "id": "confident-7-hexga",
+        "name": "Confident",
+        "location": "Stone Wave Cliffs – drops from Hexga",
+        "luminaId": "confident",
+        "level": 7,
+        "stats": {
+            "speed": 41,
+            "critRate": 10
+        }
+    },
+    {
+        "id": "confident-fighter-11",
+        "name": "Confident Fighter",
+        "location": "Visages – Path of Joy",
+        "luminaId": "confident-fighter",
+        "level": 11,
+        "stats": {
+            "health": 222,
+            "critRate": 20
+        }
+    },
+    {
+        "id": "consuming-attack-29",
+        "name": "Consuming Attack",
+        "location": "Verso’s Drafts – Sold by Najabla",
+        "luminaId": "consuming-attack",
+        "level": 29,
+        "stats": {
+            "speed": 836,
+            "critRate": 16
+        }
+    },
+    {
+        "id": "critical-break-14",
+        "name": "Critical Break",
+        "location": "Inside the Paint Spike",
+        "luminaId": "critical-break",
+        "level": 14,
+        "stats": {
+            "speed": 203,
+            "critRate": 8
+        }
+    },
+    {
+        "id": "critical-burn-25-anthonypo",
+        "name": "Critical Burn",
+        "location": "Purchased from Anthonypo",
+        "luminaId": "critical-burn",
+        "level": 25,
+        "stats": {
+            "speed": 434,
+            "critRate": 28
+        }
+    },
+    {
+        "id": "critical-burn-1-spring",
+        "name": "Critical Burn",
+        "location": "End of short crevice in Spring Meadows",
+        "luminaId": "critical-burn",
+        "level": 1,
+        "stats": {
+            "speed": 8,
+            "critRate": 6
+        }
+    },
+    {
+        "id": "critical-moment-5",
+        "name": "Critical Moment",
+        "location": "Sold by Jujubree",
+        "luminaId": "critical-moment",
+        "level": 5,
+        "stats": {
+            "speed": 26,
+            "critRate": 9
+        }
+    },
+    {
+        "id": "critical-stun-20",
+        "name": "Critical Stun",
+        "location": "Sold by Gestral Merchant (fight required)",
+        "luminaId": "critical-stun",
+        "level": 20,
+        "stats": {
+            "defense": 681,
+            "critRate": 23
+        }
+    },
+    {
+        "id": "critical-vulnerability-9",
+        "name": "Critical Vulnerability",
+        "location": "In ruined camp, guarded by enemies",
+        "luminaId": "critical-vulnerability",
+        "level": 9,
+        "stats": {
+            "defense": 116,
+            "speed": 62
+        }
+    },
+    {
+        "id": "critical-weakness-26",
+        "name": "Critical Weakness",
+        "location": "Endless Tower – Stage 6, Trial 3",
+        "luminaId": "critical-weakness",
+        "level": 26,
+        "stats": {
+            "speed": 670,
+            "critRate": 14
+        }
+    },
+    {
+        "id": "damage-share-29",
+        "name": "Damage Share",
+        "location": "Verso’s Drafts – dropped by first Licorne enemy",
+        "luminaId": "damage-share",
+        "level": 29,
+        "stats": {
+            "health": 2612,
+            "defense": 1489
+        }
+    },
+    {
+        "id": "dead-energy-1-15",
+        "name": "Dead Energy I",
+        "location": "Hidden amongst ruined crates on beach",
+        "luminaId": "dead-energy-1",
+        "level": 15,
+        "stats": {
+            "speed": 162,
+            "critRate": 17
+        }
+    },
+    {
+        "id": "dead-energy-2-1",
+        "name": "Dead Energy II",
+        "location": "Spring Meadows – on ledge above bridge inside a barrel",
+        "luminaId": "dead-energy-2",
+        "level": 1,
+        "stats": {
+            "speed": 4,
+            "critRate": 9
+        }
+    },
+    {
+        "id": "death-bomb-7",
+        "name": "Death Bomb",
+        "location": "Yellow Harvest – wide area near tent",
+        "luminaId": "death-bomb",
+        "level": 7,
+        "stats": {
+            "speed": 43,
+            "critRate": 10
+        }
+    },
+    {
+        "id": "defensive-mode-7",
+        "name": "Defensive Mode",
+        "location": "Stone Wave Cliffs – North Entrance (return after Lampmaster)",
+        "luminaId": "defensive-mode",
+        "level": 7,
+        "stats": {
+            "health": 216,
+            "defense": 71
+        }
+    },
+    {
+        "id": "dodger-1",
+        "name": "Dodger",
+        "location": "Obtained automatically inside Spring Meadows after Portier defeated",
+        "luminaId": "dodger",
+        "level": 1,
+        "stats": {
+            "speed": 12,
+            "critRate": 3
+        }
+    },
+    {
+        "id": "double-burn-11",
+        "name": "Double Burn",
+        "location": "Visages – Path of Anger",
+        "luminaId": "double-burn",
+        "level": 11,
+        "stats": {
+            "speed": 132,
+            "critRate": 7
+        }
+    },
+    {
+        "id": "double-mark-13",
+        "name": "Double Mark",
+        "location": "Sold by Klaudiso",
+        "luminaId": "double-mark",
+        "level": 13,
+        "stats": {
+            "speed": 236
+        }
+    },
+    {
+        "id": "double-third-29",
+        "name": "Double Third",
+        "location": "Verso’s Drafts – dropped by an enemy",
+        "luminaId": "double-third",
+        "level": 29,
+        "stats": {
+            "health": 2757,
+            "speed": 279,
+            "critRate": 16
+        }
+    },
+    {
+        "id": "draining-cleanse-20",
+        "name": "Draining Cleanse",
+        "location": "The Reacher – down rope, grapple across, guarded by Orphelin x2",
+        "luminaId": "draining-cleanse",
+        "level": 20,
+        "stats": {
+            "health": 2000,
+            "defense": 324
+        }
+    },
+    {
+        "id": "effective-heal-13",
+        "name": "Effective Heal",
+        "location": "Sirene – behind Chromatic Greatsword Cultist",
+        "luminaId": "effective-heal",
+        "level": 13,
+        "stats": {
+            "health": 284,
+            "defense": 341
+        }
+    },
+    {
+        "id": "effective-support-14",
+        "name": "Effective Support",
+        "location": "Small patch of land northeast of Sirene (requires Esquie Flight)",
+        "luminaId": "effective-support",
+        "level": 14,
+        "stats": {
+            "health": 721,
+            "speed": 142
+        }
+    },
+    {
+        "id": "empowered-healer-29",
+        "name": "Empowered Healer",
+        "location": "On a ledge reached by hopping from plank to plank",
+        "luminaId": "empowered-healer",
+        "level": 29,
+        "stats": {
+            "health": 2757,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "empowering-attack-1",
+        "name": "Empowering Attack",
+        "location": "Spring Meadows – far ledge after defeating Eveque",
+        "luminaId": "empowering-attack",
+        "level": 1,
+        "stats": {
+            "speed": 12,
+            "critRate": 3
+        }
+    },
+    {
+        "id": "empowering-break-28",
+        "name": "Empowering Break",
+        "location": "Flying Manor – behind Enemy x3 after taking elevator up",
+        "luminaId": "empowering-break",
+        "level": 28,
+        "stats": {
+            "speed": 546,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "empowering-dodge-15",
+        "name": "Empowering Dodge",
+        "location": "On the ground in the ruined camp",
+        "luminaId": "empowering-dodge",
+        "level": 15,
+        "stats": {
+            "speed": 162,
+            "critRate": 17
+        }
+    },
+    {
+        "id": "empowering-jumps-29",
+        "name": "Empowering Jumps",
+        "location": "Reward for half-baked gestral’s jumping challenge",
+        "luminaId": "empowering-jumps",
+        "level": 29,
+        "stats": {
+            "defense": 1654,
+            "critRate": 33
+        }
+    },
+    {
+        "id": "empowering-last-stand-6",
+        "name": "Empowering Last Stand",
+        "location": "Obtained after defeating Julien Tiny Head in Hidden Gestral Arena",
+        "luminaId": "empowering-last-stand",
+        "level": 6,
+        "stats": {
+            "health": 168,
+            "critRate": 10
+        }
+    },
+    {
+        "id": "empowering-parry-15-paintcage",
+        "name": "Empowering Parry",
+        "location": "Inside Paint Cage",
+        "luminaId": "empowering-parry",
+        "level": 15,
+        "stats": {
+            "speed": 162,
+            "critRate": 17
+        }
+    },
+    {
+        "id": "empowering-parry-28-fusoka",
+        "name": "Empowering Parry",
+        "location": "Sold by Fusoka",
+        "luminaId": "empowering-parry",
+        "level": 28,
+        "stats": {
+            "speed": 546,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "empowering-tint-28-endless",
+        "name": "Empowering Tint",
+        "location": "Endless Tower – Stage 8, Trial 3",
+        "luminaId": "empowering-tint",
+        "level": 28,
+        "stats": {
+            "health": 2705,
+            "speed": 546
+        }
+    },
+    {
+        "id": "empowering-tint-8-battlefield",
+        "name": "Empowering Tint",
+        "location": "Forgotten Battlefield – after big gate, right towards trenches, up rope",
+        "luminaId": "empowering-tint",
+        "level": 8,
+        "stats": {
+            "health": 270,
+            "speed": 54
+        }
+    },
+    {
+        "id": "energetic-healer-28",
+        "name": "Energetic Healer",
+        "location": "Flying Manor – left ledge after riding rope up in lower section",
+        "luminaId": "energetic-healer",
+        "level": 28,
+        "stats": {
+            "defense": 1426,
+            "speed": 519
+        }
+    },
+    {
+        "id": "energising-attack-1-31-grour",
+        "name": "Energising Attack I",
+        "location": "Sold by Grour",
+        "luminaId": "energising-attack-1",
+        "level": 31,
+        "stats": {
+            "speed": 958,
+            "critRate": 18
+        }
+    },
+    {
+        "id": "energising-attack-1-7-glaise",
+        "name": "Energising Attack I",
+        "location": "Drops from Glaise",
+        "luminaId": "energising-attack-1",
+        "level": 7,
+        "stats": {
+            "speed": 62,
+            "critRate": 5
+        }
+    },
+    {
+        "id": "energising-attack-2-13",
+        "name": "Energising Attack II",
+        "location": "Sold by Klaudiso",
+        "luminaId": "energising-attack-2",
+        "level": 13,
+        "stats": {
+            "defense": 120,
+            "speed": 177
+        }
+    },
+    {
+        "id": "energising-break-3",
+        "name": "Energising Break",
+        "location": "On ground behind Chromatic Troubadour",
+        "luminaId": "energising-break",
+        "level": 3,
+        "stats": {
+            "speed": 14,
+            "critRate": 7
+        }
+    },
+    {
+        "id": "energising-burn-22",
+        "name": "Energising Burn",
+        "location": "Drops from Chromatic Veilleur",
+        "luminaId": "energising-burn",
+        "level": 22,
+        "stats": {
+            "defense": 401,
+            "speed": 321
+        }
+    },
+    {
+        "id": "energising-cleanse-15",
+        "name": "Energising Cleanse",
+        "location": "Sold by Mistra after defeating him",
+        "luminaId": "energising-cleanse",
+        "level": 15,
+        "stats": {
+            "health": 1166,
+            "defense": 160
+        }
+    },
+    {
+        "id": "energising-death-21",
+        "name": "Energising Death",
+        "location": "Forgotten Battlefield – South Entrance, right path after big gate, edge of stone balcony",
+        "luminaId": "energising-death",
+        "level": 21,
+        "stats": {
+            "defense": 771,
+            "speed": 308
+        }
+    },
+    {
+        "id": "energising-gradient-17",
+        "name": "Energising Gradient",
+        "location": "Drops from Frost Eveque",
+        "luminaId": "energising-gradient",
+        "level": 17,
+        "stats": {
+            "speed": 293,
+            "critRate": 10
+        }
+    },
+    {
+        "id": "energising-heal-7",
+        "name": "Energising Heal",
+        "location": "On ground in ruined camp guarded by enemies",
+        "luminaId": "energising-heal",
+        "level": 7,
+        "stats": {
+            "health": 206,
+            "speed": 41
+        }
+    },
+    {
+        "id": "energising-jump-4",
+        "name": "Energising Jump",
+        "location": "Ancient Sanctuary – South Entrance, left over two bridges",
+        "luminaId": "energising-jump",
+        "level": 4,
+        "stats": {
+            "health": 46,
+            "speed": 30
+        }
+    },
+    {
+        "id": "energising-pain-28-greatsword",
+        "name": "Energising Pain",
+        "location": "Dropped from a Greatsword Cultist in Flying Manor",
+        "luminaId": "energising-pain",
+        "level": 28,
+        "stats": {
+            "health": 3855,
+            "defense": 713
+        }
+    },
+    {
+        "id": "energising-pain-15-greatsword",
+        "name": "Energising Pain",
+        "location": "Dropped by Greatsword Cultist x2",
+        "luminaId": "energising-pain",
+        "level": 15,
+        "stats": {
+            "health": 1166,
+            "defense": 160
+        }
+    },
+    {
+        "id": "energising-pain-12-unknown",
+        "name": "Energising Pain",
+        "location": "Dropped by enemies",
+        "luminaId": "energising-pain",
+        "level": 12,
+        "stats": {
+            "health": 779,
+            "defense": 104
+        }
+    },
+    {
+        "id": "energising-pain-7-stonewave",
+        "name": "Energising Pain",
+        "location": "Stone Wave Cliffs – South Entrance, drops from Greatsword Cultist",
+        "luminaId": "energising-pain",
+        "level": 7,
+        "stats": {
+            "health": 308,
+            "defense": 34
+        }
+    },
+    {
+        "id": "energising-parry-999-grour",
+        "name": "Energising Parry",
+        "location": "Sold by Grour",
+        "luminaId": "energising-parry",
+        "level": 99,
+        "stats": {
+            "health": 6303
+        }
+    },
+    {
+        "id": "energising-parry-9-luster",
+        "name": "Energising Parry",
+        "location": "Drops from Chromatic Luster",
+        "luminaId": "energising-parry",
+        "level": 9,
+        "stats": {
+            "health": 626
+        }
+    },
+    {
+        "id": "energising-powerful-16",
+        "name": "Energising Powerful",
+        "location": "Lumiere (Act III) – rooftops, north garden",
+        "luminaId": "energising-powerful",
+        "level": 16,
+        "stats": {
+            "defense": 373,
+            "speed": 173
+        }
+    },
+    {
+        "id": "energising-revive-8",
+        "name": "Energising Revive",
+        "location": "Obtained after defeating Chromatic Hexga",
+        "luminaId": "energising-revive",
+        "level": 8,
+        "stats": {
+            "health": 270,
+            "defense": 96
+        }
+    },
+    {
+        "id": "energising-rush-22",
+        "name": "Energising Rush",
+        "location": "Endless Tower – Stage 2, Trial 3",
+        "luminaId": "energising-rush",
+        "level": 22,
+        "stats": {
+            "defense": 801,
+            "speed": 321
+        }
+    },
+    {
+        "id": "energising-shell-15",
+        "name": "Energising Shell",
+        "location": "Under the Paint Spike",
+        "luminaId": "energising-shell",
+        "level": 15,
+        "stats": {
+            "defense": 319,
+            "speed": 154
+        }
+    },
+    {
+        "id": "energising-shots-28",
+        "name": "Energising Shots",
+        "location": "Flying Manor – on ground next to Goblu fight",
+        "luminaId": "energising-shots",
+        "level": 28,
+        "stats": {
+            "speed": 779,
+            "critRate": 16
+        }
+    },
+    {
+        "id": "energising-start-1-6",
+        "name": "Energising Start I",
+        "location": "In sand behind ruined crates under arch (requires Esquie)",
+        "luminaId": "energising-start-1",
+        "level": 6,
+        "stats": {
+            "health": 320
+        }
+    },
+    {
+        "id": "energising-start-2-4",
+        "name": "Energising Start II",
+        "location": "Ancient Sanctuary – South Entrance",
+        "luminaId": "energising-start-2",
+        "level": 4,
+        "stats": {
+            "health": 175
+        }
+    },
+    {
+        "id": "energising-start-3-6",
+        "name": "Energising Start III",
+        "location": "Esquie’s Nest – after convincing Esquie, across chasm",
+        "luminaId": "energising-start-3",
+        "level": 6,
+        "stats": {
+            "health": 320
+        }
+    },
+    {
+        "id": "energising-start-4-8",
+        "name": "Energising Start IV",
+        "location": "Forgotten Battlefield – South Entrance, inside trench reinforced with planks",
+        "luminaId": "energising-start-4",
+        "level": 8,
+        "stats": {
+            "health": 513
+        }
+    },
+    {
+        "id": "energising-stun-28",
+        "name": "Energising Stun",
+        "location": "Flying Manor – Paint Cage on path to Eveques",
+        "luminaId": "energising-stun",
+        "level": 28,
+        "stats": {
+            "speed": 519,
+            "critRate": 31
+        }
+    },
+    {
+        "id": "energising-turn-31-grour",
+        "name": "Energising Turn",
+        "location": "Sold by Grour",
+        "luminaId": "energising-turn",
+        "level": 31,
+        "stats": {
+            "speed": 1277
+        }
+    },
+    {
+        "id": "energising-turn-14-sirene",
+        "name": "Energising Turn",
+        "location": "Drops from Sirène",
+        "luminaId": "energising-turn",
+        "level": 14,
+        "stats": {
+            "speed": 270
+        }
+    },
+    {
+        "id": "energy-master-30",
+        "name": "Energy Master",
+        "location": "Drops from Serpenphare",
+        "luminaId": "energy-master",
+        "level": 30,
+        "stats": {
+            "health": 4970
+        }
+    },
+    {
+        "id": "enfeebling-attack-15",
+        "name": "Enfeebling Attack",
+        "location": "Inside the Monolith – near train in front of Melosh",
+        "luminaId": "enfeebling-attack",
+        "level": 15,
+        "stats": {
+            "health": 389,
+            "defense": 478
+        }
+    },
+    {
+        "id": "enfeebling-mark-7",
+        "name": "Enfeebling Mark",
+        "location": "Stone Wave Cliffs – near Flooded Buildings rest point",
+        "luminaId": "enfeebling-mark",
+        "level": 7,
+        "stats": {
+            "defense": 102,
+            "speed": 21
+        }
+    },
+    {
+        "id": "exhausting-power-8",
+        "name": "Exhausting Power",
+        "location": "Stone Wave Cliffs Cave – area where boss is",
+        "luminaId": "exhausting-power",
+        "level": 8,
+        "stats": {
+            "health": 270,
+            "defense": 96
+        }
+    },
+    {
+        "id": "exposing-attack-3",
+        "name": "Exposing Attack",
+        "location": "Bought from Noco after winning a fight",
+        "luminaId": "exposing-attack",
+        "level": 3,
+        "stats": {
+            "speed": 20,
+            "critRate": 4
+        }
+    },
+    {
+        "id": "exposing-break-20",
+        "name": "Exposing Break",
+        "location": "Sold by Eragol",
+        "luminaId": "exposing-break",
+        "level": 20,
+        "stats": {
+            "defense": 681,
+            "speed": 280
+        }
+    },
+    {
+        "id": "faster-than-strong-16",
+        "name": "Faster Than Strong",
+        "location": "Lumiere (Act III) – drops from Creation",
+        "luminaId": "faster-than-strong",
+        "level": 16,
+        "stats": {
+            "health": 876,
+            "defense": 373
+        }
+    },
+    {
+        "id": "feint-29",
+        "name": "Feint",
+        "location": "Reward for countering three of Monsieur Frappe’s attacks",
+        "luminaId": "feint",
+        "level": 29,
+        "stats": {
+            "critRate": 66
+        }
+    },
+    {
+        "id": "first-life-33",
+        "name": "First Life",
+        "location": "Reward for defeating Chromatic Lampmaster in Endless Tower (Thank You update)",
+        "luminaId": "first-life",
+        "level": 33,
+        "stats": {
+            "defense": 4722
+        }
+    },
+    {
+        "id": "first-offensive-10",
+        "name": "First Offensive",
+        "location": "Reward for defeating Chromatic Abbest",
+        "luminaId": "first-offensive",
+        "level": 10,
+        "stats": {
+            "speed": 75,
+            "critRate": 13
+        }
+    },
+    {
+        "id": "first-strike-7",
+        "name": "First Strike",
+        "location": "Stone Wave Cliffs – South Entrance, second clearing, up shorter cliffs, in front of statue",
+        "luminaId": "first-strike",
+        "level": 7,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 41,
+            "critRate": 10
+        }
+    },
+    {
+        "id": "frenzy-29",
+        "name": "Frenzy",
+        "location": "Reward for defeating Licornapieds",
+        "luminaId": "frenzy",
+        "level": 29,
+        "stats": {
+            "health": 0,
+            "defense": 1572,
+            "speed": 557,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "fueling-break-27-endless",
+        "name": "Fueling Break",
+        "location": "Endless Tower – Stage 7, Trial 3",
+        "luminaId": "fueling-break",
+        "level": 27,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 507,
+            "critRate": 31
+        }
+    },
+    {
+        "id": "fueling-break-9-crates",
+        "name": "Fueling Break",
+        "location": "On ground near ruined crates. Also Endless Tower Stage 7, Trial 3",
+        "luminaId": "fueling-break",
+        "level": 9,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 65,
+            "critRate": 12
+        }
+    },
+    {
+        "id": "full-strength-16",
+        "name": "Full Strength",
+        "location": "Sold by Cribappa",
+        "luminaId": "full-strength",
+        "level": 16,
+        "stats": {
+            "health": 876,
+            "defense": 373,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "glass-cannon-11",
+        "name": "Glass Cannon",
+        "location": "Visages – Path of Sadness, behind Chromatic Ramasseur. Also Gestral Merchant in Sacred River",
+        "luminaId": "glass-cannon",
+        "level": 11,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 175,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "gradient-break-25",
+        "name": "Gradient Break",
+        "location": "Endless Night Sanctuary – tiny alcove between paths",
+        "luminaId": "gradient-break",
+        "level": 25,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 434,
+            "critRate": 28
+        }
+    },
+    {
+        "id": "gradient-breaker-28",
+        "name": "Gradient Breaker",
+        "location": "Sold by Fusoka after defeating him in Flying Manor",
+        "luminaId": "gradient-breaker",
+        "level": 28,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 546,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "gradient-fighter-16",
+        "name": "Gradient Fighter",
+        "location": "Lumiere (Act III) – up steps left side of large garden, guarded by two Aberrations",
+        "luminaId": "gradient-fighter",
+        "level": 16,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 182,
+            "critRate": 18
+        }
+    },
+    {
+        "id": "gradient-overcharge-29",
+        "name": "Gradient Overcharge",
+        "location": "On a floating candy reached via wooden planks after Climbable Blocks",
+        "luminaId": "gradient-overcharge",
+        "level": 29,
+        "stats": {
+            "health": 5514,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "gradient-parry-29",
+        "name": "Gradient Parry",
+        "location": "In the statue's hand",
+        "luminaId": "gradient-parry",
+        "level": 29,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 557,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "greater-defenceless-21-endless",
+        "name": "Greater Defenceless",
+        "location": "Reward for Dualliste in Stage 1, Trial 3",
+        "luminaId": "greater-defenceless",
+        "level": 21,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 293,
+            "critRate": 23
+        }
+    },
+    {
+        "id": "greater-defenceless-15-melosh",
+        "name": "Greater Defenceless",
+        "location": "Sold by Melosh",
+        "luminaId": "greater-defenceless",
+        "level": 15,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 154,
+            "critRate": 17
+        }
+    },
+    {
+        "id": "greater-powerful-13",
+        "name": "Greater Powerful",
+        "location": "Sold by Klaudiso",
+        "luminaId": "greater-powerful",
+        "level": 13,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 59,
+            "critRate": 23
+        }
+    },
+    {
+        "id": "greater-powerless-30",
+        "name": "Greater Powerless",
+        "location": "Endless Tower – Stage 10, Trial 3",
+        "luminaId": "greater-powerless",
+        "level": 30,
+        "stats": {
+            "health": 0,
+            "defense": 1727,
+            "speed": 597,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "greater-rush-21",
+        "name": "Greater Rush",
+        "location": "Sold by Grandis Merchant",
+        "luminaId": "greater-rush",
+        "level": 21,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 439,
+            "critRate": 12
+        }
+    },
+    {
+        "id": "greater-shell-13",
+        "name": "Greater Shell",
+        "location": "Sirene – area reached via rope",
+        "luminaId": "greater-shell",
+        "level": 13,
+        "stats": {
+            "health": 599,
+            "defense": 240,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "greater-slow-20",
+        "name": "Greater Slow",
+        "location": "Sky Island – drop down to lower area, climb wall structures",
+        "luminaId": "greater-slow",
+        "level": 20,
+        "stats": {
+            "health": 0,
+            "defense": 647,
+            "speed": 266,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "healing-boon-20",
+        "name": "Healing Boon",
+        "location": "The Reacher – ride platform by Eragol, grapple across, descend rope",
+        "luminaId": "healing-boon",
+        "level": 20,
+        "stats": {
+            "health": 0,
+            "defense": 647,
+            "speed": 266,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "healing-counter-10",
+        "name": "Healing Counter",
+        "location": "Sold by Mandelgo",
+        "luminaId": "healing-counter",
+        "level": 10,
+        "stats": {
+            "health": 751,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "healing-death-10",
+        "name": "Healing Death",
+        "location": "Old Lumiere – high-up area beyond Climbing Holds",
+        "luminaId": "healing-death",
+        "level": 10,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 78,
+            "critRate": 13
+        }
+    },
+    {
+        "id": "healing-fire-13",
+        "name": "Healing Fire",
+        "location": "Sirene – from Crumbling Path rest point, rope, grapple, duck under rocks",
+        "luminaId": "healing-fire",
+        "level": 13,
+        "stats": {
+            "health": 0,
+            "defense": 240,
+            "speed": 118,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "healing-mark-5",
+        "name": "Healing Mark",
+        "location": "Sold by Eesda",
+        "luminaId": "healing-mark",
+        "level": 5,
+        "stats": {
+            "health": 0,
+            "defense": 65,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "healing-parry-5",
+        "name": "Healing Parry",
+        "location": "Ruined camp on cliff (can be obtained without fighting). Also Stone Quarry after helping Troubadour",
+        "luminaId": "healing-parry",
+        "level": 5,
+        "stats": {
+            "health": 127,
+            "defense": 34,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "healing-share-11",
+        "name": "Healing Share",
+        "location": "Sold by Blooraga",
+        "luminaId": "healing-share",
+        "level": 11,
+        "stats": {
+            "health": 467,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 14
+        }
+    },
+    {
+        "id": "healing-stun-16",
+        "name": "Healing Stun",
+        "location": "Lumiere (Act III) – after grappling past Opera House, right path",
+        "luminaId": "healing-stun",
+        "level": 16,
+        "stats": {
+            "health": 876,
+            "defense": 0,
+            "speed": 173,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "healing-tint-energy-7",
+        "name": "Healing Tint Energy",
+        "location": "Stone Wave Cliffs – near Flooded Buildings rest point, behind enemies",
+        "luminaId": "healing-tint-energy",
+        "level": 7,
+        "stats": {
+            "health": 216,
+            "defense": 71,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "immaculate-12",
+        "name": "Immaculate",
+        "location": "Drops from Mask Keeper",
+        "luminaId": "immaculate",
+        "level": 12,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 103,
+            "critRate": 15
+        }
+    },
+    {
+        "id": "in-medias-res-23",
+        "name": "In Medias Res",
+        "location": "Dark Shores – end of beach, guarded by enemies (can be obtained without fighting)",
+        "luminaId": "in-medias-res",
+        "level": 23,
+        "stats": {
+            "health": 0,
+            "defense": 1310,
+            "speed": 0,
+            "critRate": 13
+        }
+    },
+    {
+        "id": "inverted-affinity-8",
+        "name": "Inverted Affinity",
+        "location": "Sold by Kasumi",
+        "luminaId": "inverted-affinity",
+        "level": 8,
+        "stats": {
+            "health": 270,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 11
+        }
+    },
+    {
+        "id": "last-stand-critical-6",
+        "name": "Last Stand Critical",
+        "location": "Obtained after defeating Mathieu the Colossus in Hidden Gestral Arena",
+        "luminaId": "last-stand-critical",
+        "level": 6,
+        "stats": {
+            "health": 168,
+            "defense": 50,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "longer-break-29",
+        "name": "Longer Break",
+        "location": "Verso's Drafts – dropped by an enemy",
+        "luminaId": "longer-break",
+        "level": 29,
+        "stats": {
+            "health": 2757,
+            "defense": 786,
+            "speed": 279,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "longer-burn-27",
+        "name": "Longer Burn",
+        "location": "Sold by Fusoka. Also drops from Chromatic Aberration",
+        "luminaId": "longer-burn",
+        "level": 27,
+        "stats": {
+            "health": 2392,
+            "defense": 1292,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "longer-powerful-10",
+        "name": "Longer Powerful",
+        "location": "Sold by Mandelgo",
+        "luminaId": "longer-powerful",
+        "level": 10,
+        "stats": {
+            "health": 376,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 13
+        }
+    },
+    {
+        "id": "longer-rush-15",
+        "name": "Longer Rush",
+        "location": "In front of tents on mountain (requires Esquie flight)",
+        "luminaId": "longer-rush",
+        "level": 15,
+        "stats": {
+            "health": 778,
+            "defense": 0,
+            "speed": 154,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "longer-shell-28-enemyx3",
+        "name": "Longer Shell",
+        "location": "Dropped by Enemy x3",
+        "luminaId": "longer-shell",
+        "level": 28,
+        "stats": {
+            "health": 2570,
+            "defense": 1426,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "longer-shell-20-reacher",
+        "name": "Longer Shell",
+        "location": "The Reacher – on ledge via hopping boards",
+        "luminaId": "longer-shell",
+        "level": 20,
+        "stats": {
+            "health": 1333,
+            "defense": 647,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "longer-shell-15-reward",
+        "name": "Longer Shell",
+        "location": "Reward for defeating Enemy x3",
+        "luminaId": "longer-shell",
+        "level": 15,
+        "stats": {
+            "health": 778,
+            "defense": 319,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "longer-shell-8-battlefield",
+        "name": "Longer Shell",
+        "location": "Forgotten Battlefield – South Entrance, drops from common enemy",
+        "luminaId": "longer-shell",
+        "level": 8,
+        "stats": {
+            "health": 257,
+            "defense": 92,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "marking-break-25",
+        "name": "Marking Break",
+        "location": "Sold by Anthonypo after defeating him",
+        "luminaId": "marking-break",
+        "level": 25,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 434,
+            "critRate": 28
+        }
+    },
+    {
+        "id": "marking-shots-3",
+        "name": "Marking Shots",
+        "location": "Flying Waters – on ground in alcove guarded by two Luster enemies",
+        "luminaId": "marking-shots",
+        "level": 3,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 26,
+            "critRate": 2
+        }
+    },
+    {
+        "id": "painted-power-16",
+        "name": "Painted Power",
+        "location": "Drops from Paintress at Monolith Peak",
+        "luminaId": "painted-power",
+        "level": 16,
+        "stats": {
+            "health": 1844,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "painter-28",
+        "name": "Painter",
+        "location": "On corpse on walkway reached via Grapple Point",
+        "luminaId": "painter",
+        "level": 28,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 519,
+            "critRate": 31
+        }
+    },
+    {
+        "id": "perilous-parry-29-gold",
+        "name": "Perilous Parry",
+        "location": "Dropped by Gold Chevaliere",
+        "luminaId": "perilous-parry",
+        "level": 29,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 586,
+            "critRate": 33
+        }
+    },
+    {
+        "id": "perilous-parry-28-enemyx3",
+        "name": "Perilous Parry",
+        "location": "Dropped by Enemy x3",
+        "luminaId": "perilous-parry",
+        "level": 28,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 546,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "perilous-parry-20-chromatic",
+        "name": "Perilous Parry",
+        "location": "Reward for Chromatic Gold Chevaliere",
+        "luminaId": "perilous-parry",
+        "level": 20,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 280,
+            "critRate": 23
+        }
+    },
+    {
+        "id": "perilous-parry-18-crimson",
+        "name": "Perilous Parry",
+        "location": "Dropped by first Gold Chevaliere in Crimson Forest",
+        "luminaId": "perilous-parry",
+        "level": 18,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 228,
+            "critRate": 20
+        }
+    },
+    {
+        "id": "perilous-parry-15-ceramic",
+        "name": "Perilous Parry",
+        "location": "Dropped by first Ceramic Chevaliere",
+        "luminaId": "perilous-parry",
+        "level": 15,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 162,
+            "critRate": 17
+        }
+    },
+    {
+        "id": "perilous-parry-8-stonewave",
+        "name": "Perilous Parry",
+        "location": "Drops from first Gold Chevalier in Stone Wave Cliffs",
+        "luminaId": "perilous-parry",
+        "level": 8,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 54,
+            "critRate": 11
+        }
+    },
+    {
+        "id": "piercing-shot-12",
+        "name": "Piercing Shot",
+        "location": "Ancient Sanctuary – South Entrance, in water in alcove behind Paint Spike",
+        "luminaId": "piercing-shot",
+        "level": 12,
+        "stats": {
+            "health": 546,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 15
+        }
+    },
+    {
+        "id": "powered-attack-11",
+        "name": "Powered Attack",
+        "location": "Visages – Path of Anger",
+        "luminaId": "powered-attack",
+        "level": 11,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 132,
+            "critRate": 7
+        }
+    },
+    {
+        "id": "powerful-heal-25",
+        "name": "Powerful Heal",
+        "location": "Sold by Anthonypo",
+        "luminaId": "powerful-heal",
+        "level": 25,
+        "stats": {
+            "health": 2162,
+            "defense": 0,
+            "speed": 434,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "powerful-mark-33",
+        "name": "Powerful Mark",
+        "location": "Flying Manor – elevator left, past Glaise, up slope right, climb handholds, guarded by 2 Steel Chevalieres",
+        "luminaId": "powerful-mark",
+        "level": 33,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 1089,
+            "critRate": 19
+        }
+    },
+    {
+        "id": "powerful-on-shell-23-drop",
+        "name": "Powerful On Shell",
+        "location": "Dropped by enemies",
+        "luminaId": "powerful-on-shell",
+        "level": 23,
+        "stats": {
+            "health": 0,
+            "defense": 874,
+            "speed": 0,
+            "critRate": 25
+        }
+    },
+    {
+        "id": "powerful-on-shell-13-sirene",
+        "name": "Powerful On Shell",
+        "location": "Sirene – drops from enemy at bottom of chamber with many bridges",
+        "luminaId": "powerful-on-shell",
+        "level": 13,
+        "stats": {
+            "health": 0,
+            "defense": 240,
+            "speed": 0,
+            "critRate": 16
+        }
+    },
+    {
+        "id": "powerful-revive-28-paintcage",
+        "name": "Powerful Revive",
+        "location": "In Paint Cage",
+        "luminaId": "powerful-revive",
+        "level": 28,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 546,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "powerful-revive-8-bruler",
+        "name": "Powerful Revive",
+        "location": "Reward for Chromatic Bruler",
+        "luminaId": "powerful-revive",
+        "level": 8,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 54,
+            "critRate": 11
+        }
+    },
+    {
+        "id": "powerful-shield-25",
+        "name": "Powerful Shield",
+        "location": "Sold by Anthonypo",
+        "luminaId": "powerful-shield",
+        "level": 25,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 651,
+            "critRate": 14
+        }
+    },
+    {
+        "id": "powerful-shots-12",
+        "name": "Powerful Shots",
+        "location": "Gestral Village – hut behind Paint Spike",
+        "luminaId": "powerful-shots",
+        "level": 12,
+        "stats": {
+            "health": 983,
+            "defense": 44,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "pro-retreat-30",
+        "name": "Pro Retreat",
+        "location": "Obtained from Sastro after finding all 9 Lost Gestrals",
+        "luminaId": "pro-retreat",
+        "level": 30,
+        "stats": {
+            "health": 2485,
+            "defense": 0,
+            "speed": 503,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "protecting-attack-25",
+        "name": "Protecting Attack",
+        "location": "Sold by Anthonypo",
+        "luminaId": "protecting-attack",
+        "level": 25,
+        "stats": {
+            "health": 3081,
+            "defense": 524,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "protecting-death-13",
+        "name": "Protecting Death",
+        "location": "Sirene – climb ledge near Enemy x3, near fire",
+        "luminaId": "protecting-death",
+        "level": 13,
+        "stats": {
+            "health": 599,
+            "defense": 0,
+            "speed": 118,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "protecting-heal-20-eragol",
+        "name": "Protecting Heal",
+        "location": "Sold by Eragol",
+        "luminaId": "protecting-heal",
+        "level": 20,
+        "stats": {
+            "health": 1403,
+            "defense": 0,
+            "speed": 280,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "protecting-heal-10-portier",
+        "name": "Protecting Heal",
+        "location": "Reward from Portier (Nevron)'s quest. Also sold by Eragol",
+        "luminaId": "protecting-heal",
+        "level": 10,
+        "stats": {
+            "health": 395,
+            "defense": 0,
+            "speed": 78,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "protecting-last-stand-6",
+        "name": "Protecting Last Stand",
+        "location": "Obtained after defeating Dominique Giant Feet in Hidden Gestral Arena",
+        "luminaId": "protecting-last-stand",
+        "level": 6,
+        "stats": {
+            "health": 168,
+            "defense": 50,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "protecting-shots-28",
+        "name": "Protecting Shots",
+        "location": "Flying Manor – down stairs, turn right, drop off ledge between pillars, rope, lower ledge",
+        "luminaId": "protecting-shots",
+        "level": 28,
+        "stats": {
+            "health": 4869,
+            "defense": 301,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "protecting-tint-20",
+        "name": "Protecting Tint",
+        "location": "The Reacher – foggy area, cross bridge, turn around, cross smaller bridge",
+        "luminaId": "protecting-tint",
+        "level": 20,
+        "stats": {
+            "health": 1403,
+            "defense": 681,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "quick-break-31-mouth",
+        "name": "Quick Break",
+        "location": "In large stone mouth, guarded by Contorsionniste x3",
+        "luminaId": "quick-break",
+        "level": 31,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 672,
+            "critRate": 36
+        }
+    },
+    {
+        "id": "quick-break-25-cruler",
+        "name": "Quick Break",
+        "location": "Drops from Chromatic Cruler",
+        "luminaId": "quick-break",
+        "level": 25,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 434,
+            "critRate": 28
+        }
+    },
+    {
+        "id": "random-defense-15",
+        "name": "Random Defense",
+        "location": "Inside the Monolith – under paint cage (one lock behind Paint Spike)",
+        "luminaId": "random-defense",
+        "level": 15,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 34
+        }
+    },
+    {
+        "id": "recovery-20",
+        "name": "Recovery",
+        "location": "Obtained from completing Benisseur (Nevron)'s quest",
+        "luminaId": "recovery",
+        "level": 20,
+        "stats": {
+            "health": 2000,
+            "defense": 324,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "rejuvenating-revive-12",
+        "name": "Rejuvenating Revive",
+        "location": "Inside Chromatic Gault arena, near corpse behind hut",
+        "luminaId": "rejuvenating-revive",
+        "level": 12,
+        "stats": {
+            "health": 546,
+            "defense": 218,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "revive-paradox-11",
+        "name": "Revive Paradox",
+        "location": "Drops from Chromatic Danseuse",
+        "luminaId": "revive-paradox",
+        "level": 11,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 92,
+            "critRate": 14
+        }
+    },
+    {
+        "id": "revive-tint-energy-8",
+        "name": "Revive Tint Energy",
+        "location": "Forgotten Battlefield – North Entrance, grassy ledge after Dualliste. Also Gestral Merchant in Sacred River",
+        "luminaId": "revive-tint-energy",
+        "level": 8,
+        "stats": {
+            "health": 257,
+            "defense": 92,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "rewarding-mark-3",
+        "name": "Rewarding Mark",
+        "location": "Flying Waters – South Entrance, alcove near Coral Cave rest point. Also Gestral Merchant in Sacred River",
+        "luminaId": "rewarding-mark",
+        "level": 3,
+        "stats": {
+            "health": 0,
+            "defense": 20,
+            "speed": 7,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "roulette-28-secret",
+        "name": "Roulette",
+        "location": "At back of a secret room",
+        "luminaId": "roulette",
+        "level": 28,
+        "stats": {
+            "health": 0,
+            "defense": 1501,
+            "speed": 0,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "roulette-5-casino",
+        "name": "Roulette",
+        "location": "Gestral Village – speak with Gestral behind casino door, answer \"Yes.\" then \"I don't care.\" Also found/upgraded in Flying Manor",
+        "luminaId": "roulette",
+        "level": 5,
+        "stats": {
+            "health": 0,
+            "defense": 34,
+            "speed": 0,
+            "critRate": 9
+        }
+    },
+    {
+        "id": "rush-on-powerful-31-grapple",
+        "name": "Rush On Powerful",
+        "location": "At end of path beginning with Grapple Point",
+        "luminaId": "rush-on-powerful",
+        "level": 31,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 639,
+            "critRate": 35
+        }
+    },
+    {
+        "id": "rush-on-powerful-29-endless",
+        "name": "Rush On Powerful",
+        "location": "Endless Tower – Stage 9, Trial 3. Also Renoir's Drafts behind golden tree",
+        "luminaId": "rush-on-powerful",
+        "level": 29,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 557,
+            "critRate": 32
+        }
+    },
+    {
+        "id": "second-chance-31-creation",
+        "name": "Second Chance",
+        "location": "Dropped by Creation x2 in Renoir's Drafts",
+        "luminaId": "second-chance",
+        "level": 31,
+        "stats": {
+            "health": 3981,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 15
+        }
+    },
+    {
+        "id": "second-chance-16-renoir",
+        "name": "Second Chance",
+        "location": "Drops from Renoir",
+        "luminaId": "second-chance",
+        "level": 16,
+        "stats": {
+            "health": 1107,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 8
+        }
+    },
+    {
+        "id": "shared-care-7",
+        "name": "Shared Care",
+        "location": "In the ruined camp",
+        "luminaId": "shared-care",
+        "level": 7,
+        "stats": {
+            "health": 206,
+            "defense": 68,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "shell-on-rush-25",
+        "name": "Shell On Rush",
+        "location": "Sold by Anthonypo after defeating him",
+        "luminaId": "shell-on-rush",
+        "level": 25,
+        "stats": {
+            "health": 0,
+            "defense": 1048,
+            "speed": 413,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "shield-affinity-13",
+        "name": "Shield Affinity",
+        "location": "Sirene – inside Paint Cage just beyond first rest point. Also Gestral Merchant in Sacred River",
+        "luminaId": "shield-affinity",
+        "level": 13,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 118,
+            "critRate": 16
+        }
+    },
+    {
+        "id": "shielding-death-22",
+        "name": "Shielding Death",
+        "location": "Drops from Chromatic Chapelier",
+        "luminaId": "shielding-death",
+        "level": 22,
+        "stats": {
+            "health": 0,
+            "defense": 801,
+            "speed": 161,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "shielding-tint-9",
+        "name": "Shielding Tint",
+        "location": "In ruins of old building among boxes (requires Esquie flight)",
+        "luminaId": "shielding-tint",
+        "level": 9,
+        "stats": {
+            "health": 313,
+            "defense": 116,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "shortcut-16-aberration",
+        "name": "Shortcut",
+        "location": "Dropped by Aberration",
+        "luminaId": "shortcut",
+        "level": 16,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 182,
+            "critRate": 18
+        }
+    },
+    {
+        "id": "shortcut-31-renoir",
+        "name": "Shortcut",
+        "location": "Renoir's Drafts – drops after defeating Aberration in circular area",
+        "luminaId": "shortcut",
+        "level": 31,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 672,
+            "critRate": 36
+        }
+    },
+    {
+        "id": "slowing-attack-29",
+        "name": "Slowing Attack",
+        "location": "Verso's Drafts – at base of waterfall",
+        "luminaId": "slowing-attack",
+        "level": 29,
+        "stats": {
+            "health": 2757,
+            "defense": 0,
+            "speed": 557,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "slowing-break-28",
+        "name": "Slowing Break",
+        "location": "Sold by Fusoka after defeating him",
+        "luminaId": "slowing-break",
+        "level": 28,
+        "stats": {
+            "health": 0,
+            "defense": 1501,
+            "speed": 546,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "sniper-20",
+        "name": "Sniper",
+        "location": "The Reacher – drops from first group of Echassier enemies",
+        "luminaId": "sniper",
+        "level": 20,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 399,
+            "critRate": 11
+        }
+    },
+    {
+        "id": "solidifying-9",
+        "name": "Solidifying",
+        "location": "Sold by Gestral Merchant (fight required)",
+        "luminaId": "solidifying",
+        "level": 9,
+        "stats": {
+            "health": 0,
+            "defense": 116,
+            "speed": 62,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "solo-fighter-31-grour",
+        "name": "Solo Fighter",
+        "location": "Sold by Grour",
+        "luminaId": "solo-fighter",
+        "level": 31,
+        "stats": {
+            "health": 3317,
+            "defense": 1990,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "solo-fighter-6-arena",
+        "name": "Solo Fighter",
+        "location": "Obtained after defeating all opponents in Hidden Gestral Arena. Also purchased from Grour",
+        "luminaId": "solo-fighter",
+        "level": 6,
+        "stats": {
+            "health": 168,
+            "defense": 50,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "sos-healing-tint-29",
+        "name": "SOS Healing Tint",
+        "location": "Verso's Drafts – dropped by first Fractale enemy",
+        "luminaId": "sos-healing-tint",
+        "level": 29,
+        "stats": {
+            "health": 0,
+            "defense": 1572,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "sos-power-7",
+        "name": "SOS Power",
+        "location": "Stone Wave Cliffs – South Entrance, area after shipwreck",
+        "luminaId": "sos-power",
+        "level": 7,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 43,
+            "critRate": 10
+        }
+    },
+    {
+        "id": "sos-rush-14",
+        "name": "SOS Rush",
+        "location": "Falling Leaves – next to Expedition 35 journal",
+        "luminaId": "sos-rush",
+        "level": 14,
+        "stats": {
+            "health": 288,
+            "defense": 0,
+            "speed": 142,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "sos-shell-3",
+        "name": "SOS Shell",
+        "location": "Flying Waters – south entrance, near boat, turn left, hug wall",
+        "luminaId": "sos-shell",
+        "level": 3,
+        "stats": {
+            "health": 0,
+            "defense": 13,
+            "speed": 14,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "staggering-attack-3",
+        "name": "Staggering Attack",
+        "location": "Flying Waters – South Entrance, to right of Coral Cave rest point, in alcove",
+        "luminaId": "staggering-attack",
+        "level": 3,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 21,
+            "critRate": 4
+        }
+    },
+    {
+        "id": "stay-marked-28-fusoka",
+        "name": "Stay Marked",
+        "location": "Purchased from Fusoka in Flying Manor. Also found inside Monolith behind Chromatic Bourgeon",
+        "luminaId": "stay-marked",
+        "level": 28,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 122250,
+            "critRate": 22
+        }
+    },
+    {
+        "id": "stay-marked-15-monolith",
+        "name": "Stay Marked",
+        "location": "Inside Monolith behind Chromatic Bourgeon. Also bought from Fusoka",
+        "luminaId": "stay-marked",
+        "level": 15,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 201,
+            "critRate": 12
+        }
+    },
+    {
+        "id": "stun-boost-4",
+        "name": "Stun Boost",
+        "location": "Ancient Sanctuary – South Entrance, after Ultimate Sakapatate, up hill, rocky tunnel. Also Gestral Merchant in Sacred River",
+        "luminaId": "stun-boost",
+        "level": 4,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 35,
+            "critRate": 2
+        }
+    },
+    {
+        "id": "survivor-21",
+        "name": "Survivor",
+        "location": "Sold by Grandis Merchant",
+        "luminaId": "survivor",
+        "level": 21,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 439,
+            "critRate": 12
+        }
+    },
+    {
+        "id": "sweet-kill-31-grour",
+        "name": "Sweet Kill",
+        "location": "Sold by Grour",
+        "luminaId": "sweet-kill",
+        "level": 31,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 672,
+            "critRate": 36
+        }
+    },
+    {
+        "id": "sweet-kill-8-battlefield",
+        "name": "Sweet Kill",
+        "location": "Forgotten Battlefield – South Entrance, left path after big gate, cross wooden bridge on right. Also purchased from Grour",
+        "luminaId": "sweet-kill",
+        "level": 8,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 54,
+            "critRate": 11
+        }
+    },
+    {
+        "id": "tainted-20-eragol",
+        "name": "Tainted",
+        "location": "Sold by Eragol",
+        "luminaId": "tainted",
+        "level": 20,
+        "stats": {
+            "health": 0,
+            "defense": 1022,
+            "speed": 0,
+            "critRate": 12
+        }
+    },
+    {
+        "id": "tainted-20-gault",
+        "name": "Tainted",
+        "location": "Drops from Chromatic Gault. Also purchased from Eragol in The Reacher",
+        "luminaId": "tainted",
+        "level": 20,
+        "stats": {
+            "health": 0,
+            "defense": 1022,
+            "speed": 0,
+            "critRate": 12
+        }
+    },
+    {
+        "id": "teamwork-7",
+        "name": "Teamwork",
+        "location": "Purchased from Pinabby after fighting",
+        "luminaId": "teamwork",
+        "level": 7,
+        "stats": {
+            "health": 216,
+            "defense": 71,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "the-one-31",
+        "name": "The One",
+        "location": "Sunless Cliffs – kill Mime inside painting (solo fight)",
+        "luminaId": "the-one",
+        "level": 31,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 108
+        }
+    },
+    {
+        "id": "time-tint-10",
+        "name": "Time Tint",
+        "location": "Old Lumiere – ledge reached by dropping down. Also Endless Night Sanctuary near Anthonypo, and Endless Tower Stage 4 Trial 3",
+        "luminaId": "time-tint",
+        "level": 10,
+        "stats": {
+            "health": 376,
+            "defense": 145,
+            "speed": 0,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "trigger-happy-29",
+        "name": "Trigger-Happy",
+        "location": "Reward for defeating Romanifo",
+        "luminaId": "trigger-happy",
+        "level": 29,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 1114,
+            "critRate": 0
+        }
+    },
+    {
+        "id": "versatile-25-anthonypo",
+        "name": "Versatile",
+        "location": "Bought from Anthonypo in Endless Night Sanctuary. Also found in Flying Waters",
+        "luminaId": "versatile",
+        "level": 25,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 651,
+            "critRate": 14
+        }
+    },
+    {
+        "id": "versatile-3-waters",
+        "name": "Versatile",
+        "location": "Flying Waters – South Entrance, from Lumieran Streets rest point, grapple up to roofs. Also bought from Anthonypo",
+        "luminaId": "versatile",
+        "level": 3,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 21,
+            "critRate": 4
+        }
+    },
+    {
+        "id": "warming-up-15",
+        "name": "Warming Up",
+        "location": "Drop from Grosse Tete",
+        "luminaId": "warming-up",
+        "level": 15,
+        "stats": {
+            "health": 1166,
+            "defense": 0,
+            "speed": 0,
+            "critRate": 9
+        }
+    },
+    {
+        "id": "weakness-gain-15",
+        "name": "Weakness Gain",
+        "location": "Inside the Monolith",
+        "luminaId": "weakness-gain",
+        "level": 15,
+        "stats": {
+            "health": 0,
+            "defense": 0,
+            "speed": 162,
+            "critRate": 17
+        }
+    }
+]

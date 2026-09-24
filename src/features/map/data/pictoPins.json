@@ -1,0 +1,346 @@
+[
+  {
+    "id": "picto-101",
+    "name": "Accelerating Heal",
+    "lat": -55.30414,
+    "lng": -1.64316,
+    "pictoId": "accelerating-heal-9",
+    "level": 9,
+    "note": "An Accelerating Heal Pictos can be found in an abandoned expedition camp on an island northeast of the Stone Wave Cliffs. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to swim."
+  },
+  {
+    "id": "picto-335",
+    "name": "Anti-Blight",
+    "lat": -75.27746,
+    "lng": 14.0891,
+    "note": "Defeating the Chromatic Portier boss in this area can drop a Pictos which is the Anti-Blight."
+  },
+  {
+    "id": "picto-368",
+    "name": "Anti-Stun",
+    "lat": -61.48076,
+    "lng": 25.49204,
+    "pictoId": "anti-stun-29",
+    "level": 29,
+    "note": "Defeating the Chromatic Petank boss will reward the players the Anti-Stun Pictos."
+  },
+  {
+    "id": "picto-61",
+    "name": "Augment Counter I",
+    "lat": -68.3019,
+    "lng": -13.0272,
+    "note": "Defeating the Bourgeon boss in this area can drop a Level Upgrade for the Augment Counter I Pictos."
+  },
+  {
+    "id": "picto-344",
+    "name": "Augment Counter I",
+    "lat": -47.87214,
+    "lng": -8.37102,
+    "note": "Defeating the Bourgeon boss will reward you with the Augment Counter I Pictos."
+  },
+  {
+    "id": "picto-81",
+    "name": "Augmented Counter I",
+    "lat": -72.63337,
+    "lng": -4.50055,
+    "note": "Defeating the Bourgeon boss in this area can provide a level upgrade for the Augmented Counter I Pictos."
+  },
+  {
+    "id": "picto-154",
+    "name": "Breaking Burn",
+    "lat": -13.19716,
+    "lng": -54.37953,
+    "pictoId": "breaking-burn-15",
+    "level": 15,
+    "note": "You can pick up this Pictos in an abandoned expedition camp in the corner, guarded by a Bourgeon boss."
+  },
+  {
+    "id": "picto-324",
+    "name": "Breaking Death",
+    "lat": -66.12496,
+    "lng": 9.57995,
+    "pictoId": "breaking-death-29",
+    "level": 29,
+    "note": "Defeating the Thunder Eveque boss in the area will drop the Breaking Death Pictos."
+  },
+  {
+    "id": "picto-375",
+    "name": "Breaking Slow",
+    "lat": -73.68031,
+    "lng": -27.88792,
+    "pictoId": "breaking-slow-15",
+    "level": 15,
+    "note": "The Breaking Slow Pictos can be found inside a Paint Spike. You'll need to have unlocked the Paint Break ability in order to destroy this Paint Spike. You must also have Esquie and he must be able to fly to reach this spot, as it's blocked out by trees"
+  },
+  {
+    "id": "picto-155",
+    "name": "Burning Death",
+    "lat": -15.15697,
+    "lng": -52.66528,
+    "pictoId": "burning-death-28",
+    "level": 28,
+    "note": "Defeating the Bourgeon boss in the area will drop a level upgrade for the Burning Death Pictos."
+  },
+  {
+    "id": "picto-165",
+    "name": "Charging Tint",
+    "lat": -26.43123,
+    "lng": -34.25668,
+    "pictoId": "charging-tint-9",
+    "level": 9,
+    "note": "Charging Tint Pictos can be found just beside the enemy group in the area."
+  },
+  {
+    "id": "picto-361",
+    "name": "Cheater",
+    "lat": -53.30462,
+    "lng": -33.04635,
+    "pictoId": "cheater-24",
+    "level": 24,
+    "note": "Defeating the Sprong boss will reward you with the Cheater Pictos."
+  },
+  {
+    "id": "picto-306",
+    "name": "Confident",
+    "lat": -75.95224,
+    "lng": 24.50363,
+    "note": "Defeating this group of enemies for the first time rewards the player with the Confident Pictos Upgrade."
+  },
+  {
+    "id": "picto-109",
+    "name": "Confident",
+    "lat": -59.04055,
+    "lng": 8.77029,
+    "note": "Defeating this group of enemies for the first time rewards the player with a level upgrade for the Confident Pictos."
+  },
+  {
+    "id": "picto-203",
+    "name": "Confident",
+    "lat": 36.52729,
+    "lng": 66.68981,
+    "note": "Defeating this group of enemies for the first time rewards the player with a level upgrade for the Confident Pictos."
+  },
+  {
+    "id": "picto-181",
+    "name": "Critical Break",
+    "lat": 50.65294,
+    "lng": -60.31409,
+    "pictoId": "critical-break-14",
+    "level": 14,
+    "note": "A Critical Break Pictos can be found inside a Paint Spike. You'll need to have unlocked the Paint Break ability in order to destroy this Paint Spike."
+  },
+  {
+    "id": "picto-236",
+    "name": "Critical Vulnerability",
+    "lat": -17.30869,
+    "lng": -70.55414,
+    "pictoId": "critical-vulnerability-9",
+    "level": 9,
+    "note": "This can be found in an abandoned expedition camp near this group of enemies: Abbest, Jar, Moissonneuse. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to destroy coral reefs."
+  },
+  {
+    "id": "picto-104",
+    "name": "Dead Energy I",
+    "lat": -77.32217,
+    "lng": -29.72701,
+    "pictoId": "dead-energy-1-15",
+    "level": 15,
+    "note": "Dead Energy I Pictos can be found south of Dark Shores. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to swim."
+  },
+  {
+    "id": "picto-270",
+    "name": "Effective Support",
+    "lat": 54.23605,
+    "lng": 40.84555,
+    "pictoId": "effective-support-14",
+    "level": 14,
+    "note": "An Effective Support Pictos can be found in an abandoned expedition camp guarded by the enemy group in the area. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to fly."
+  },
+  {
+    "id": "picto-262",
+    "name": "Empowering Dodge",
+    "lat": 14.17919,
+    "lng": 55.09299,
+    "pictoId": "empowering-dodge-15",
+    "level": 15,
+    "note": "Empowering Dodge Pictos can be found northwest of the Endless Night Sanctuary. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to fly."
+  },
+  {
+    "id": "picto-318",
+    "name": "Energising Gradient",
+    "lat": -28.00382,
+    "lng": -6.85468,
+    "pictoId": "energising-gradient-17",
+    "level": 17,
+    "note": "Defeating the Frozen Eveque boss will reward you with the Energising Gradient Pictos."
+  },
+  {
+    "id": "picto-89",
+    "name": "Energising Heal",
+    "lat": -63.45051,
+    "lng": -39.39894,
+    "pictoId": "energising-heal-7",
+    "level": 7,
+    "note": "An Energising Heal Pictos can be found surrounded by breakable boxes and abandoned expedition camps on an island north of the White Tree. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to swim."
+  },
+  {
+    "id": "picto-98",
+    "name": "Energising Pain",
+    "lat": -48.63291,
+    "lng": -25.42294,
+    "note": "Defeating this group of enemies for the first time rewards the player with a level upgrade for the Energising Pain Pictos."
+  },
+  {
+    "id": "picto-134",
+    "name": "Energising Pain",
+    "lat": -10.31492,
+    "lng": -17.02769,
+    "note": "Defeating this group of enemies for the first time rewards the player with a Level Upgrade for the Energising Pain Pictos."
+  },
+  {
+    "id": "picto-184",
+    "name": "Energising Pain",
+    "lat": 49.06667,
+    "lng": -61.81052,
+    "note": "Defeating this group of enemies for the first time rewards the player with a level upgrade for the Energising Pain Pictos."
+  },
+  {
+    "id": "picto-283",
+    "name": "Energising Shell",
+    "lat": -69.14692,
+    "lng": 25.55627,
+    "pictoId": "energising-shell-15",
+    "level": 15,
+    "note": "An Energising Shell Pictos can be found inside a glowing rock that you need to destroy northeast of the East of Stone Wave Cliffs Cave. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to Fly."
+  },
+  {
+    "id": "picto-41",
+    "name": "Energising Start I",
+    "lat": -68.47993,
+    "lng": -19.35566,
+    "pictoId": "energising-start-1-6",
+    "level": 6,
+    "note": "A Picto can be found on the beach near the shoreline, beneath a collapsed structure. It’s located close to the merchant named Jumeliba."
+  },
+  {
+    "id": "picto-363",
+    "name": "Energy Master",
+    "lat": -47.07612,
+    "lng": 10.18279,
+    "pictoId": "energy-master-30",
+    "level": 30,
+    "note": "Defeating the Serpenphare boss will reward you with the Energy Master Pictos."
+  },
+  {
+    "id": "picto-136",
+    "name": "Fueling Break",
+    "lat": -7.88515,
+    "lng": -14.21457,
+    "note": "A Fueling Break Pictos can be found just near The Carousel's entrance."
+  },
+  {
+    "id": "picto-64",
+    "name": "Healing Parry",
+    "lat": -66.87835,
+    "lng": -13.02677,
+    "pictoId": "healing-parry-5",
+    "level": 5,
+    "note": "This can be found near the Stone Wave Cliffs entrance, surrounded by boxes and worn-down tents."
+  },
+  {
+    "id": "picto-329",
+    "name": "Longer Burn",
+    "lat": -74.59011,
+    "lng": -37.48548,
+    "pictoId": "longer-burn-27",
+    "level": 27,
+    "note": "Defeating the Chromatic Aberration boss in this area can drop a Pictos which is the Longer Burn."
+  },
+  {
+    "id": "picto-369",
+    "name": "Longer Rush",
+    "lat": -17.51834,
+    "lng": -9.07411,
+    "pictoId": "longer-rush-15",
+    "level": 15,
+    "note": "A Longer Rush Pictos can be found just South from the The Carousel's entrance."
+  },
+  {
+    "id": "picto-347",
+    "name": "Longer Shell",
+    "lat": -35.42487,
+    "lng": -21.03008,
+    "note": "Defeating this group of enemies for the first time rewards the player with the Longer Shell Pictos."
+  },
+  {
+    "id": "picto-145",
+    "name": "Longer Shell",
+    "lat": -11.13529,
+    "lng": -33.81436,
+    "note": "Defeating this group of enemies for the first time rewards the player with a Level Upgrade for the Longer Shell Pictos."
+  },
+  {
+    "id": "picto-254",
+    "name": "Longer Shell",
+    "lat": -0.30762,
+    "lng": 6.17473,
+    "note": "Defeating this group of enemies for the first time rewards the player with a level upgrade for the Longer Shell Pictos."
+  },
+  {
+    "id": "picto-349",
+    "name": "Perilous Parry",
+    "lat": -7.84162,
+    "lng": -52.93488,
+    "note": "Defeating the group of enemies in the area will drop the Perilous Parry Pictos."
+  },
+  {
+    "id": "picto-350",
+    "name": "Powerful on Shell",
+    "lat": 11.1784,
+    "lng": 57.7671,
+    "note": "Defeating this group of enemies in the area will drop the Powerful on Shell Pictos."
+  },
+  {
+    "id": "picto-66",
+    "name": "Powerful Revive",
+    "lat": -68.86352,
+    "lng": -25.15716,
+    "note": "Defeating the Chromatic Bruler boss will reward you with a Powerful Revive Pictos."
+  },
+  {
+    "id": "picto-83",
+    "name": "Shared Care",
+    "lat": -68.49604,
+    "lng": -39.48628,
+    "pictoId": "shared-care-7",
+    "level": 7,
+    "note": "Shared Care Pictos can be found surrounded by breakable boxes, near the red coral reefs in the area. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to swim."
+  },
+  {
+    "id": "picto-352",
+    "name": "Shielding Tint",
+    "lat": -46.92026,
+    "lng": -9.18215,
+    "pictoId": "shielding-tint-9",
+    "level": 9,
+    "note": "A Shielding Tint Pictos can be found by some broken down pillars Sputheast of the Forgotten Battlefield beside a group of enemies. To reach this area, you’ll need to progress the story far enough to recruit Esquie and unlock the ability to fly."
+  },
+  {
+    "id": "picto-371",
+    "name": "Sniper",
+    "lat": -18.02053,
+    "lng": -6.21703,
+    "pictoId": "sniper-20",
+    "level": 20,
+    "note": "Defeating this group of enemies for the first time rewards the player with the Sniper Pictos."
+  },
+  {
+    "id": "picto-309",
+    "name": "Warming Up",
+    "lat": -29.34388,
+    "lng": 4.08748,
+    "pictoId": "warming-up-15",
+    "level": 15,
+    "note": "Defeating the Grosse Tete boss in this area can drop the Warming Up Pictos."
+  }
+]

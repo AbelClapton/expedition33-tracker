@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" fill="none" stroke="#e9c349" stroke-linejoin="round">
+  <!-- Belle Époque lattice, 240x240, seamless.
+       Medallion: outer lozenge -> inner lozenge -> quatrefoil rosette -> tip diamonds.
+       Junctions: X crosses at the corners, half-diamonds at the edge midpoints (each
+       edge is drawn by exactly one of the two tiles that share it, so no stroke is
+       composited twice and the line weight stays even). -->
+  <g stroke-width="0.8" stroke-opacity="0.4">
+    <path d="M120 26 L214 120 L120 214 L26 120 Z" />
+    <path d="M1 1 21 21 M21 1 1 21" />
+    <path d="M239 1 219 21 M219 1 239 21" />
+    <path d="M1 239 21 219 M21 239 1 219" />
+    <path d="M239 239 219 219 M219 239 239 219" />
+    <path d="M136 0 L120 16 L104 0" />
+    <path d="M240 104 L224 120 L240 136" />
+    <path d="M136 240 L120 224 L104 240" />
+    <path d="M0 104 L16 120 L0 136" />
+  </g>
+  <g stroke-width="0.8" stroke-opacity="0.58">
+    <path d="M120 46 L194 120 L120 194 L46 120 Z" />
+  </g>
+  <g stroke-width="0.8" stroke-opacity="0.78">
+    <path d="M120 120 C 143 103 143 77 120 60 C 97 77 97 103 120 120" />
+    <path d="M120 120 C 137 97 163 97 180 120 C 163 143 137 143 120 120" />
+    <path d="M120 120 C 143 137 143 163 120 180 C 97 163 97 137 120 120" />
+    <path d="M120 120 C 103 97 77 97 60 120 C 77 143 103 143 120 120" />
+  </g>
+  <g stroke-width="0.8" stroke-opacity="0.95">
+    <path d="M120 55 L125 60 L120 65 L115 60 Z" />
+    <path d="M185 120 L180 125 L175 120 L180 115 Z" />
+    <path d="M120 185 L125 180 L120 175 L115 180 Z" />
+    <path d="M55 120 L60 115 L65 120 L60 125 Z" />
+    <path d="M120 114 L126 120 L120 126 L114 120 Z" />
+  </g>
+</svg>

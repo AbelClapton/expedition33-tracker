@@ -1,0 +1,3639 @@
+[
+    {
+        "id": "accelerating-heal",
+        "name": "Accelerating Heal",
+        "rules": [
+            {
+                "trigger": "onHealAlly",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Rush",
+                    "duration": 1,
+                    "target": "healedAlly"
+                }
+            }
+        ]
+    },
+    {
+        "id": "accelerating-last-stand",
+        "name": "Accelerating Last Stand",
+        "rules": [
+            {
+                "trigger": "always",
+                "condition": {
+                    "type": "fightingAlone"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Rush",
+                    "duration": 999,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "accelerating-shots",
+        "name": "Accelerating Shots",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "chance": 0.2,
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Rush",
+                    "duration": 1,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "accelerating-tint",
+        "name": "Accelerating Tint",
+        "rules": [
+            {
+                "trigger": "onHealTint",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Rush",
+                    "duration": 1,
+                    "target": "healedAlly"
+                }
+            }
+        ]
+    },
+    {
+        "id": "aegis-revival",
+        "name": "Aegis Revival",
+        "rules": [
+            {
+                "trigger": "onRevive",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "shield",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "alternating-critical",
+        "name": "Alternating Critical",
+        "rules": [
+            {
+                "trigger": "onCriticalHit",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "alt_crit_boost",
+                        "duration": "untilConsumed",
+                        "damageMultiplierOnNext": {
+                            "condition": "nonCritical",
+                            "multiplier": 2.0
+                        }
+                    }
+                }
+            },
+            {
+                "trigger": "onNonCriticalHit",
+                "condition": {
+                    "type": "hasBuff",
+                    "buffId": "alt_crit_boost"
+                },
+                "action": {
+                    "type": "removeBuff",
+                    "buffId": "alt_crit_boost"
+                }
+            }
+        ]
+    },
+    {
+        "id": "anti-blight",
+        "name": "Anti-Blight",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "statusImmunity",
+                    "statuses": [
+                        "Blight"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "anti-burn",
+        "name": "Anti-Burn",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "statusImmunity",
+                    "statuses": [
+                        "Burn"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "anti-charm",
+        "name": "Anti-Charm",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "statusImmunity",
+                    "statuses": [
+                        "Charm"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "anti-freeze",
+        "name": "Anti-Freeze",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "statusImmunity",
+                    "statuses": [
+                        "Freeze"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "anti-stun",
+        "name": "Anti-Stun",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "statusImmunity",
+                    "statuses": [
+                        "Stun"
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "ap-discount",
+        "name": "AP Discount",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyAPCost",
+                    "reduction": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "at-deaths-door",
+        "name": "At Death’s Door",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "healthBelowPercent",
+                    "percent": 10
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "attack-lifesteal",
+        "name": "Attack Lifesteal",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "lifesteal",
+                    "percent": 15,
+                    "onAttack": "BaseAttack"
+                }
+            }
+        ]
+    },
+    {
+        "id": "augmented-aim",
+        "name": "Augmented Aim",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "damageType",
+                    "value": "freeAim"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "freeAim",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "augmented-attack",
+        "name": "Augmented Attack",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "damageType",
+                    "value": "base"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "base",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "augmented-counter-1",
+        "name": "Augmented Counter I",
+        "rules": [
+            {
+                "trigger": "onCounterattackHit",
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "counter",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "augmented-counter-2",
+        "name": "Augmented Counter II",
+        "rules": [
+            {
+                "trigger": "onCounterattackHit",
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "counter",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "augmented-counter-3",
+        "name": "Augmented Counter III",
+        "rules": [
+            {
+                "trigger": "onCounterattackHit",
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "counter",
+                    "multiplier": 1.75
+                }
+            }
+        ]
+    },
+    {
+        "id": "augmented-first-strike",
+        "name": "Augmented First Strike",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "isFirstHitOfBattle"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.5
+                },
+                "maxActivationsPerBattle": 1
+            }
+        ]
+    },
+    {
+        "id": "auto-death",
+        "name": "Auto Death",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "die"
+                }
+            }
+        ]
+    },
+    {
+        "id": "auto-powerful",
+        "name": "Auto Powerful",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "auto-regen",
+        "name": "Auto Regen",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Regen",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "auto-rush",
+        "name": "Auto Rush",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Rush",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "auto-shell",
+        "name": "Auto Shell",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "base-shield",
+        "name": "Base Shield",
+        "rules": [
+            {
+                "trigger": "onTurnStart",
+                "condition": {
+                    "type": "hasStatus",
+                    "status": "Shield"
+                },
+                "negate": true,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "shield",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "beneficial-contamination",
+        "name": "Beneficial Contamination",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "break-specialist",
+        "name": "Break Specialist",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "damageType",
+                    "value": "break"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "break",
+                    "multiplier": 1.5
+                }
+            },
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "damageType",
+                    "value": "base"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "base",
+                    "multiplier": 0.8
+                }
+            }
+        ]
+    },
+    {
+        "id": "breaker",
+        "name": "Breaker",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "damageType",
+                    "value": "break"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "break",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "breaking-attack",
+        "name": "Breaking Attack",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setBaseAttackCanBreak"
+                }
+            }
+        ]
+    },
+    {
+        "id": "breaking-burn",
+        "name": "Breaking Burn",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Burn"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "break",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "breaking-counter",
+        "name": "Breaking Counter",
+        "rules": [
+            {
+                "trigger": "onCounterattackHit",
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "break",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "breaking-death",
+        "name": "Breaking Death",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Burn",
+                    "duration": 3,
+                    "stacks": 3,
+                    "target": "allEnemies"
+                }
+            }
+        ]
+    },
+    {
+        "id": "breaking-shots",
+        "name": "Breaking Shots",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "break",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "breaking-slow",
+        "name": "Breaking Slow",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Defenceless"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "break",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "burn-affinity",
+        "name": "Burn Affinity",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Burn"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "burning-break",
+        "name": "Burning Break",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Burn",
+                    "stacks": 3,
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "burning-death",
+        "name": "Burning Death",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Burn",
+                    "stacks": 3,
+                    "duration": 999,
+                    "target": "allEnemies"
+                }
+            }
+        ]
+    },
+    {
+        "id": "burning-mark",
+        "name": "Burning Mark",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Mark"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Burn",
+                    "duration": 3,
+                    "target": "target"
+                }
+            }
+        ]
+    },
+    {
+        "id": "burning-shots",
+        "name": "Burning Shots",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "chance": 0.2,
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Burn",
+                    "duration": 3,
+                    "target": "target"
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-alteration",
+        "name": "Charging Alteration",
+        "rules": [
+            {
+                "trigger": "onBuffApplied",
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 10
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-attack",
+        "name": "Charging Attack",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 15
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-burn",
+        "name": "Charging Burn",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Burn"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 20
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-counter",
+        "name": "Charging Counter",
+        "rules": [
+            {
+                "trigger": "onCounterattackHit",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 10
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-critical",
+        "name": "Charging Critical",
+        "rules": [
+            {
+                "trigger": "onCriticalHit",
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 20
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-mark",
+        "name": "Charging Mark",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Mark"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 20
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-stun",
+        "name": "Charging Stun",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Stun"
+                },
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 5
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-tint",
+        "name": "Charging Tint",
+        "rules": [
+            {
+                "trigger": "onItemUse",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 5
+                }
+            }
+        ]
+    },
+    {
+        "id": "charging-weakness",
+        "name": "Charging Weakness",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasWeakness"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 15
+                }
+            }
+        ]
+    },
+    {
+        "id": "cheater",
+        "name": "Cheater",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "grantExtraTurn"
+                }
+            }
+        ]
+    },
+    {
+        "id": "cleansing-tint",
+        "name": "Cleansing Tint",
+        "rules": [
+            {
+                "trigger": "onHealTint",
+                "action": {
+                    "type": "cleanseAllStatus",
+                    "target": "healedAlly"
+                }
+            }
+        ]
+    },
+    {
+        "id": "cleas-death",
+        "name": "Clea’s Death",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "clea_legacy",
+                        "duration": "permanent",
+                        "damageMultiplier": 1.25
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "cleas-life",
+        "name": "Clea’s Life",
+        "rules": [
+            {
+                "trigger": "onTurnStart",
+                "condition": {
+                    "type": "noDamageTakenSinceLastTurn"
+                },
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 100
+                }
+            }
+        ]
+    },
+    {
+        "id": "combo-attack-1",
+        "name": "Combo Attack I",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setFlag",
+                    "flag": "extra_hits",
+                    "value": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "combo-attack-2",
+        "name": "Combo Attack II",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setFlag",
+                    "flag": "extra_hits",
+                    "value": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "combo-attack-3",
+        "name": "Combo Attack III",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setFlag",
+                    "flag": "extra_hits",
+                    "value": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "confident",
+        "name": "Confident",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyDamageTaken",
+                    "multiplier": 0.5
+                }
+            },
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "preventHealing"
+                }
+            }
+        ]
+    },
+    {
+        "id": "confident-fighter",
+        "name": "Confident Fighter",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.3
+                }
+            },
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "preventHealing"
+                }
+            }
+        ]
+    },
+    {
+        "id": "consuming-attack",
+        "name": "Consuming Attack",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "consume_burn",
+                        "duration": 1,
+                        "damageMultiplier": {
+                            "perBurnStack": 0.1,
+                            "maxStacks": 100
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "critical-break",
+        "name": "Critical Break",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "isCritical"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "break",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "critical-burn",
+        "name": "Critical Burn",
+        "rules": [
+            {
+                "trigger": "onPreAttack",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Burn"
+                },
+                "action": {
+                    "type": "modifyCritChance",
+                    "additivePercent": 25
+                }
+            }
+        ]
+    },
+    {
+        "id": "critical-moment",
+        "name": "Critical Moment",
+        "rules": [
+            {
+                "trigger": "always",
+                "condition": {
+                    "type": "healthBelowPercent",
+                    "percent": 30
+                },
+                "action": {
+                    "type": "modifyCritChance",
+                    "additivePercent": 50
+                }
+            }
+        ]
+    },
+    {
+        "id": "critical-stun",
+        "name": "Critical Stun",
+        "rules": [
+            {
+                "trigger": "onPreAttack",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Stun"
+                },
+                "action": {
+                    "type": "modifyCritChance",
+                    "additivePercent": 100
+                }
+            }
+        ]
+    },
+    {
+        "id": "critical-vulnerability",
+        "name": "Critical Vulnerability",
+        "rules": [
+            {
+                "trigger": "onPreAttack",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Defenceless"
+                },
+                "action": {
+                    "type": "modifyCritChance",
+                    "additivePercent": 25
+                }
+            }
+        ]
+    },
+    {
+        "id": "critical-weakness",
+        "name": "Critical Weakness",
+        "rules": [
+            {
+                "trigger": "onPreAttack",
+                "condition": {
+                    "type": "targetHasWeakness"
+                },
+                "action": {
+                    "type": "modifyCritChance",
+                    "additivePercent": 25
+                }
+            }
+        ]
+    },
+    {
+        "id": "damage-share",
+        "name": "Damage Share",
+        "rules": [
+            {
+                "trigger": "onDamageTaken",
+                "action": {
+                    "type": "redirectDamage",
+                    "percent": 50
+                }
+            }
+        ]
+    },
+    {
+        "id": "dead-energy-1",
+        "name": "Dead Energy I",
+        "rules": [
+            {
+                "trigger": "onKill",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "dead-energy-2",
+        "name": "Dead Energy II",
+        "rules": [
+            {
+                "trigger": "onKill",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "death-bomb",
+        "name": "Death Bomb",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "skill",
+                    "multiplier": 1.0
+                }
+            }
+        ]
+    },
+    {
+        "id": "defensive-mode",
+        "name": "Defensive Mode",
+        "rules": [
+            {
+                "trigger": "onDamageTaken",
+                "condition": {
+                    "type": "hasAP",
+                    "min": 1
+                },
+                "cost": {
+                    "type": "ap",
+                    "amount": 1
+                },
+                "action": {
+                    "type": "reduceDamageTaken",
+                    "percent": 30
+                }
+            }
+        ]
+    },
+    {
+        "id": "dodger",
+        "name": "Dodger",
+        "rules": [
+            {
+                "trigger": "onDodge",
+                "condition": {
+                    "type": "isPerfectDodge"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "double-burn",
+        "name": "Double Burn",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Burn"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Burn",
+                    "duration": 1,
+                    "stacks": 1,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "double-mark",
+        "name": "Double Mark",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyMarkRequiredHits",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "double-third",
+        "name": "Double Third",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "attackType",
+                    "value": "skill"
+                },
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "double_third_counter",
+                        "duration": 1,
+                        "maxStacks": 3,
+                        "onReachMaxStacks": {
+                            "applyBuff": {
+                                "id": "double_third_boost",
+                                "duration": "untilConsumed",
+                                "damageMultiplier": 2.0
+                            }
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "draining-cleanse",
+        "name": "Draining Cleanse",
+        "rules": [
+            {
+                "trigger": "onReceiveDebuff",
+                "condition": {
+                    "type": "hasAP",
+                    "min": 1
+                },
+                "cost": {
+                    "type": "ap",
+                    "amount": 1
+                },
+                "action": {
+                    "type": "cleanseAllStatus",
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "effective-heal",
+        "name": "Effective Heal",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setFlag",
+                    "flag": "double_heal_received",
+                    "value": true
+                }
+            }
+        ]
+    },
+    {
+        "id": "effective-support",
+        "name": "Effective Support",
+        "rules": [
+            {
+                "trigger": "onItemUse",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "empowered-healer",
+        "name": "Empowered Healer",
+        "rules": [
+            {
+                "trigger": "onHealSkillUse",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 1,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "empowering-attack",
+        "name": "Empowering Attack",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 1,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "empowering-break",
+        "name": "Empowering Break",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "empowering-dodge",
+        "name": "Empowering Dodge",
+        "rules": [
+            {
+                "trigger": "onDodge",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "dodge_streak",
+                        "duration": 1,
+                        "maxStacks": 10,
+                        "stackOnTrigger": true,
+                        "damageMultiplier": {
+                            "perStack": 0.05
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "empowering-jumps",
+        "name": "Empowering Jumps",
+        "rules": [
+            {
+                "trigger": "onJumpCounterHit",
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "counter",
+                    "multiplier": 2.0
+                }
+            }
+        ]
+    },
+    {
+        "id": "empowering-last-stand",
+        "name": "Empowering Last Stand",
+        "rules": [
+            {
+                "trigger": "always",
+                "condition": {
+                    "type": "fightingAlone"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 999,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "empowering-parry",
+        "name": "Empowering Parry",
+        "rules": [
+            {
+                "trigger": "onParry",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "parry_power",
+                        "duration": 2,
+                        "damageMultiplier": {
+                            "additivePercent": 5
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "empowering-tint",
+        "name": "Empowering Tint",
+        "rules": [
+            {
+                "trigger": "onHealTint",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 1,
+                    "target": "healedAlly"
+                }
+            }
+        ]
+    },
+    {
+        "id": "energetic-healer",
+        "name": "Energetic Healer",
+        "rules": [
+            {
+                "trigger": "onHealAlly",
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-attack-1",
+        "name": "Energising Attack I",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-attack-2",
+        "name": "Energising Attack II",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-break",
+        "name": "Energising Break",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-burn",
+        "name": "Energising Burn",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Burn"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-cleanse",
+        "name": "Energising Cleanse",
+        "rules": [
+            {
+                "trigger": "onReceiveDebuff",
+                "action": {
+                    "type": "cleanseAllStatus",
+                    "target": "self"
+                },
+                "extraAction": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-death",
+        "name": "Energising Death",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 4,
+                    "target": "allAllies"
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-gradient",
+        "name": "Energising Gradient",
+        "rules": [
+            {
+                "trigger": "onGradientChargeConsumed",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-heal",
+        "name": "Energising Heal",
+        "rules": [
+            {
+                "trigger": "onHealAlly",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2,
+                    "target": "healedAlly"
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-jump",
+        "name": "Energising Jump",
+        "rules": [
+            {
+                "trigger": "onJumpCounterHit",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-pain",
+        "name": "Energising Pain",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setFlag",
+                    "flag": "parryGivesAP",
+                    "value": false
+                }
+            },
+            {
+                "trigger": "onDamageTaken",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-parry",
+        "name": "Energising Parry",
+        "rules": [
+            {
+                "trigger": "onParry",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-powerful",
+        "name": "Energising Powerful",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Powerful"
+                },
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-revive",
+        "name": "Energising Revive",
+        "rules": [
+            {
+                "trigger": "onRevive",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 3,
+                    "target": "allAllies"
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-rush",
+        "name": "Energising Rush",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Rush"
+                },
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-shell",
+        "name": "Energising Shell",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Shell"
+                },
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-shots",
+        "name": "Energising Shots",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "chance": 0.2,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-start-1",
+        "name": "Energising Start I",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-start-2",
+        "name": "Energising Start II",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-start-3",
+        "name": "Energising Start III",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-start-4",
+        "name": "Energising Start IV",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-stun",
+        "name": "Energising Stun",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Stun"
+                },
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energising-turn",
+        "name": "Energising Turn",
+        "rules": [
+            {
+                "trigger": "onTurnStart",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "energy-master",
+        "name": "Energy Master",
+        "rules": [
+            {
+                "trigger": "onAPGain",
+                "action": {
+                    "type": "modifyAPGain",
+                    "flatBonus": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "enfeebling-attack",
+        "name": "Enfeebling Attack",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerless",
+                    "duration": 1,
+                    "target": "target"
+                }
+            }
+        ]
+    },
+    {
+        "id": "enfeebling-mark",
+        "name": "Enfeebling Mark",
+        "rules": [
+            {
+                "trigger": "always",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Mark"
+                },
+                "action": {
+                    "type": "modifyDamageTaken",
+                    "multiplier": 0.7
+                }
+            }
+        ]
+    },
+    {
+        "id": "exhausting-power",
+        "name": "Exhausting Power",
+        "rules": [
+            {
+                "trigger": "always",
+                "condition": {
+                    "type": "hasStatus",
+                    "status": "Exhausted"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "exposing-attack",
+        "name": "Exposing Attack",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Defenceless",
+                    "duration": 1,
+                    "target": "target"
+                }
+            }
+        ]
+    },
+    {
+        "id": "exposing-break",
+        "name": "Exposing Break",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Defenceless",
+                    "duration": 3,
+                    "target": "brokenEnemy"
+                }
+            }
+        ]
+    },
+    {
+        "id": "faster-than-strong",
+        "name": "Faster Than Strong",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "grantExtraTurn"
+                }
+            },
+            {
+                "trigger": "onDamageCalculation",
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 0.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "feint",
+        "name": "Feint",
+        "rules": [
+            {
+                "trigger": "onTurnStart",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "barbapapa",
+                        "duration": 1,
+                        "maxStacks": 4
+                    }
+                }
+            },
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "attackType",
+                    "value": "skill"
+                },
+                "action": {
+                    "type": "incrementBuffStacks",
+                    "buffId": "feint_counter",
+                    "amount": 1
+                }
+            },
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "hasBuff",
+                    "buffId": "feint_boost"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 7.0
+                }
+            },
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "hasBuff",
+                    "buffId": "feint_boost"
+                },
+                "action": {
+                    "type": "removeBuff",
+                    "buffId": "feint_boost"
+                }
+            }
+        ]
+    },
+    {
+        "id": "first-life",
+        "name": "First Life",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "first_life_buff",
+                        "duration": "permanent",
+                        "damageMultiplier": 1.2
+                    }
+                }
+            },
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "first_life_debuff",
+                        "duration": "permanent",
+                        "damageMultiplier": 0.8
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "first-offensive",
+        "name": "First Offensive",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "isFirstHitOfBattle"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.5
+                }
+            },
+            {
+                "trigger": "onDamageTaken",
+                "condition": {
+                    "type": "isFirstHitOfBattle"
+                },
+                "action": {
+                    "type": "modifyDamageTaken",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "first-strike",
+        "name": "First Strike",
+        "description": "Play first.",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "grantExtraTurn"
+                }
+            }
+        ]
+    },
+    {
+        "id": "frenzy",
+        "name": "Frenzy",
+        "description": "Each successive Skill hit deals 10% more damage.",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "attackType",
+                    "value": "skill"
+                },
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "frenzy_stack",
+                        "duration": 999,
+                        "maxStacks": 999,
+                        "damageMultiplier": {
+                            "perStack": 0.1
+                        }
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "fueling-break",
+        "name": "Fueling Break",
+        "description": "Breaking a target doubles its Burn amount.",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "doubleStatusStacks",
+                    "status": "Burn"
+                }
+            }
+        ]
+    },
+    {
+        "id": "full-strength",
+        "name": "Full Strength",
+        "description": "25% increased damage on full Health",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "healthAbovePercent",
+                    "percent": 100
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "glass-cannon",
+        "name": "Glass Cannon",
+        "description": "Deal 25% more damage, but take 25% more damage",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.25
+                }
+            },
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyDamageTaken",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "gradient-break",
+        "name": "Gradient Break",
+        "description": "+50% of a Gradient Charge on Breaking a target",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 50
+                }
+            }
+        ]
+    },
+    {
+        "id": "gradient-breaker",
+        "name": "Gradient Breaker",
+        "description": "50% chance to apply Mark when attacking a Marked target",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Mark"
+                },
+                "chance": 0.5,
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Mark",
+                    "duration": 3,
+                    "target": "target"
+                }
+            }
+        ]
+    },
+    {
+        "id": "gradient-fighter",
+        "name": "Gradient Fighter",
+        "description": "25% increased damage with Gradient Attacks",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "attackType",
+                    "value": "gradient"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "gradient-overcharge",
+        "name": "Gradient Overcharge",
+        "description": "On turn start, consume 3 Gradient Charges (if able) to deal 200% more damage this turn.",
+        "rules": [
+            {
+                "trigger": "onTurnStart",
+                "condition": {
+                    "type": "hasResource",
+                    "resource": "gradientCharge",
+                    "min": 3
+                },
+                "cost": {
+                    "type": "gradientCharge",
+                    "amount": 3
+                },
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "overcharge_boost",
+                        "duration": 1,
+                        "damageMultiplier": 3.0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "gradient-parry",
+        "name": "Gradient Parry",
+        "description": "+5% of a gradient charge on Parry.",
+        "rules": [
+            {
+                "trigger": "onParry",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "gradientCharge",
+                    "percent": 5
+                }
+            }
+        ]
+    },
+    {
+        "id": "greater-defenceless",
+        "name": "Greater Defenceless",
+        "description": "+15% to Defenceless damage amplification",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyStatusEffect",
+                    "status": "Defenceless",
+                    "amplification": 0.15
+                }
+            }
+        ]
+    },
+    {
+        "id": "greater-powerful",
+        "name": "Greater Powerful",
+        "description": "Plus 15% to Powerful damage increase",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyStatusEffect",
+                    "status": "Powerful",
+                    "amplification": 0.15
+                }
+            }
+        ]
+    },
+    {
+        "id": "greater-powerless",
+        "name": "Greater Powerless",
+        "description": "+15% to Powerless damage reduction",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyStatusEffect",
+                    "status": "Powerless",
+                    "amplification": 0.15
+                }
+            }
+        ]
+    },
+    {
+        "id": "greater-rush",
+        "name": "Greater Rush",
+        "description": "Plus 25% to Rush Speed increase",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyStatusEffect",
+                    "status": "Rush",
+                    "speedIncrease": 0.25
+                }
+            }
+        ]
+    },
+    {
+        "id": "greater-shell",
+        "name": "Greater Shell",
+        "description": "Plus 10% to Shell damage reduction",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyStatusEffect",
+                    "status": "Shell",
+                    "damageReduction": 0.10
+                }
+            }
+        ]
+    },
+    {
+        "id": "greater-slow",
+        "name": "Greater Slow",
+        "description": "Plus 15% to Slow Speed reduction",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyStatusEffect",
+                    "status": "Slow",
+                    "speedReduction": 0.15
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-boon",
+        "name": "Healing Boon",
+        "description": "Heal 15% HP on applying a buff",
+        "rules": [
+            {
+                "trigger": "onBuffApplied",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 15
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-counter",
+        "name": "Healing Counter",
+        "description": "Recover 25% Health on Counterattack.",
+        "rules": [
+            {
+                "trigger": "onCounterattackHit",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 25
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-death",
+        "name": "Healing Death",
+        "description": "On death, rest of Expedition recover all Health",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 100,
+                    "target": "allAllies"
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-fire",
+        "name": "Healing Fire",
+        "description": "Recover 25% Health when attacking a Burning target. Once per turn.",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Burn"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 25
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-mark",
+        "name": "Healing Mark",
+        "description": "Recover 25% Health on hitting a Marked enemy. Once per turn.",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Mark"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 25
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-parry",
+        "name": "Healing Parry",
+        "description": "Recover 3% Health on Parry.",
+        "rules": [
+            {
+                "trigger": "onParry",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-share",
+        "name": "Healing Share",
+        "description": "Receive 15% of all Heals affecting other characters",
+        "rules": [
+            {
+                "trigger": "onHealAlly",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 15,
+                    "source": "sharedHeal"
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-stun",
+        "name": "Healing Stun",
+        "description": "Recover 5% Health on hitting a Stunned target",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Stun"
+                },
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 5
+                }
+            }
+        ]
+    },
+    {
+        "id": "healing-tint-energy",
+        "name": "Healing Tint Energy",
+        "description": "Healing Tints also give 1 AP",
+        "rules": [
+            {
+                "trigger": "onHealTint",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "immaculate",
+        "name": "Immaculate",
+        "description": "30% increased damage until a hit is received",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "immaculate_damage_boost",
+                        "duration": "untilDamageTaken",
+                        "damageMultiplier": 1.3
+                    }
+                }
+            },
+            {
+                "trigger": "onDamageTaken",
+                "action": {
+                    "type": "removeBuff",
+                    "buffId": "immaculate_damage_boost"
+                }
+            }
+        ]
+    },
+    {
+        "id": "in-medias-res",
+        "name": "In Medias Res",
+        "description": "Plus 3 Shield on Battle Start, but max Health is halved",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "shield",
+                    "amount": 3
+                }
+            },
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyMaxHealth",
+                    "multiplier": 0.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "inverted-affinity",
+        "name": "Inverted Affinity",
+        "description": "Apply Inverted on self for 3 turns on battle start. 50% increased damage while Inverted.",
+        "rules": [
+            {
+                "trigger": "onBattleStart",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Inverted",
+                    "duration": 3,
+                    "target": "self"
+                }
+            },
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "hasStatus",
+                    "status": "Inverted"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "last-stand-critical",
+        "name": "Last Stand Critical",
+        "description": "100% Critical Chance when fighting alone",
+        "rules": [
+            {
+                "trigger": "onPreAttack",
+                "condition": {
+                    "type": "fightingAlone"
+                },
+                "action": {
+                    "type": "modifyCritChance",
+                    "additivePercent": 100
+                }
+            }
+        ]
+    },
+    {
+        "id": "longer-break",
+        "name": "Longer Break",
+        "description": "Breaks last 1 more turn but the target can't be Broken twice.",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyBreakDuration",
+                    "extraTurns": 1,
+                    "preventDoubleBreak": true
+                }
+            }
+        ]
+    },
+    {
+        "id": "longer-burn",
+        "name": "Longer Burn",
+        "description": "Burn duration is increased by 2",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyStatusDuration",
+                    "status": "Burn",
+                    "extraTurns": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "longer-powerful",
+        "name": "Longer Powerful",
+        "description": "On applying Powerful, its duration is increased by 2.",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Powerful"
+                },
+                "action": {
+                    "type": "extendStatusDuration",
+                    "status": "Powerful",
+                    "extraTurns": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "longer-rush",
+        "name": "Longer Rush",
+        "description": "On applying Rush, its duration is increased by 2",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Rush"
+                },
+                "action": {
+                    "type": "extendStatusDuration",
+                    "status": "Rush",
+                    "extraTurns": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "longer-shell",
+        "name": "Longer Shell",
+        "description": "On applying Shell, its duration is increased by 2.",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Shell"
+                },
+                "action": {
+                    "type": "extendStatusDuration",
+                    "status": "Shell",
+                    "extraTurns": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "marking-break",
+        "name": "Marking Break",
+        "description": "Apply Mark on Break",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Mark",
+                    "duration": 999,
+                    "target": "brokenEnemy"
+                }
+            }
+        ]
+    },
+    {
+        "id": "marking-shots",
+        "name": "Marking Shots",
+        "description": "20% chance to apply Mark on Free Aim shot.",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "chance": 0.2,
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Mark",
+                    "duration": 999,
+                    "target": "target"
+                }
+            }
+        ]
+    },
+    {
+        "id": "painted-power",
+        "name": "Painted Power",
+        "description": "Damage can exceed 9,999",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setFlag",
+                    "flag": "damageCapRemoved",
+                    "value": true
+                }
+            }
+        ]
+    },
+    {
+        "id": "painter",
+        "name": "Painter",
+        "description": "Convert all Physical damage to Void damage.",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "convertDamageType",
+                    "from": "Physical",
+                    "to": "Void"
+                }
+            }
+        ]
+    },
+    {
+        "id": "perilous-parry",
+        "name": "Perilous Parry",
+        "description": "+1 AP on Parry, but damage received is doubled.",
+        "rules": [
+            {
+                "trigger": "onParry",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            },
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "modifyDamageTaken",
+                    "multiplier": 2.0
+                }
+            }
+        ]
+    },
+    {
+        "id": "piercing-shot",
+        "name": "Piercing Shot",
+        "description": "25% increased Free Aim damage. Free Aim shots ignore Shields",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "attackType",
+                    "value": "freeAim"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "freeAim",
+                    "multiplier": 1.25
+                }
+            },
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setFlag",
+                    "flag": "freeAimIgnoresShield",
+                    "value": true
+                }
+            }
+        ]
+    },
+    {
+        "id": "powered-attack",
+        "name": "Powered Attack",
+        "description": "On every damage dealt, try to consume 1 AP. If successful, increase damage by 20%",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "hasAP",
+                    "min": 1
+                },
+                "cost": {
+                    "type": "ap",
+                    "amount": 1
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.2
+                }
+            }
+        ]
+    },
+    {
+        "id": "powerful-heal",
+        "name": "Powerful Heal",
+        "description": "Healing an ally also applies Powerful for 1 turn",
+        "rules": [
+            {
+                "trigger": "onHealAlly",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 1,
+                    "target": "healedAlly"
+                }
+            }
+        ]
+    },
+    {
+        "id": "powerful-mark",
+        "name": "Powerful Mark",
+        "description": "Gain Powerful on hitting a Marked enemy",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Mark"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "powerful-on-shell",
+        "name": "Powerful On Shell",
+        "description": "Apply Powerful on applying Shell",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Shell"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "powerful-revive",
+        "name": "Powerful Revive",
+        "description": "Apply Powerful for 3 turns when revived.",
+        "rules": [
+            {
+                "trigger": "onRevive",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "powerful-shield",
+        "name": "Powerful Shield",
+        "description": "10% increased damage per Shield Point on self",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": {
+                        "perResource": "shield",
+                        "percentPerPoint": 0.10
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "powerful-shots",
+        "name": "Powerful Shots",
+        "description": "20% chance to gain Powerful on Free Aim shot",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "chance": 0.2,
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "pro-retreat",
+        "name": "Pro Retreat",
+        "description": "Allows Flee to be instantaneous",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setFlag",
+                    "flag": "instantFlee",
+                    "value": true
+                }
+            }
+        ]
+    },
+    {
+        "id": "protecting-attack",
+        "name": "Protecting Attack",
+        "description": "Gain Shell for 1 turn on Base Attack",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 1,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "protecting-death",
+        "name": "Protecting Death",
+        "description": "On death, allies gain Shell",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 3,
+                    "target": "allAllies"
+                }
+            }
+        ]
+    },
+    {
+        "id": "protecting-heal",
+        "name": "Protecting Heal",
+        "description": "Healing an ally also applies Shell for 1 turn.",
+        "rules": [
+            {
+                "trigger": "onHealAlly",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 1,
+                    "target": "healedAlly"
+                }
+            }
+        ]
+    },
+    {
+        "id": "protecting-last-stand",
+        "name": "Protecting Last Stand",
+        "description": "Gain Shell if fighting alone",
+        "rules": [
+            {
+                "trigger": "always",
+                "condition": {
+                    "type": "fightingAlone"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 999,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "protecting-shots",
+        "name": "Protecting Shots",
+        "description": "20% chance to gain Shell on Free Aim shot.",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "chance": 0.2,
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "protecting-tint",
+        "name": "Protecting Tint",
+        "description": "Healing Tints also apply Shell",
+        "rules": [
+            {
+                "trigger": "onHealTint",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 3,
+                    "target": "healedAlly"
+                }
+            }
+        ]
+    },
+    {
+        "id": "quick-break",
+        "name": "Quick Break",
+        "description": "Play again on Breaking a target.",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "grantExtraTurn"
+                }
+            }
+        ]
+    },
+    {
+        "id": "random-defense",
+        "name": "Random Defense",
+        "description": "Damage taken is randomly multiplied by 50% to 200%",
+        "rules": [
+            {
+                "trigger": "onDamageTaken",
+                "action": {
+                    "type": "randomizeDamageTaken",
+                    "minMultiplier": 0.5,
+                    "maxMultiplier": 2.0
+                }
+            }
+        ]
+    },
+    {
+        "id": "recovery",
+        "name": "Recovery",
+        "description": "Recovers 10% Health on turn start",
+        "rules": [
+            {
+                "trigger": "onTurnStart",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 10
+                }
+            }
+        ]
+    },
+    {
+        "id": "rejuvenating-revive",
+        "name": "Rejuvenating Revive",
+        "description": "Apply Regen for 3 turns when revived",
+        "rules": [
+            {
+                "trigger": "onRevive",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Regen",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "revive-paradox",
+        "name": "Revive Paradox",
+        "description": "Play immediately when revived",
+        "rules": [
+            {
+                "trigger": "onRevive",
+                "action": {
+                    "type": "grantExtraTurn"
+                }
+            }
+        ]
+    },
+    {
+        "id": "revive-tint-energy",
+        "name": "Revive Tint Energy",
+        "description": "Revive Tints also give 3 AP.",
+        "rules": [
+            {
+                "trigger": "onItemUse",
+                "condition": {
+                    "type": "itemId",
+                    "value": "reviveTint"
+                },
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 3
+                }
+            }
+        ]
+    },
+    {
+        "id": "rewarding-mark",
+        "name": "Rewarding Mark",
+        "description": "+2 AP on dealing damage to a Marked target. Once per turn.",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Mark"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "roulette",
+        "name": "Roulette",
+        "description": "Every hit has a 50% chance to deal either 50% or 200% of its damage",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "action": {
+                    "type": "randomizeDamageDealt",
+                    "outcomes": [
+                        {
+                            "chance": 0.5,
+                            "multiplier": 0.5
+                        },
+                        {
+                            "chance": 0.5,
+                            "multiplier": 2.0
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": "rush-on-powerful",
+        "name": "Rush On Powerful",
+        "description": "Apply Rush on applying Powerful.",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Powerful"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Rush",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "second-chance",
+        "name": "Second Chance",
+        "description": "Revive with 100% Health. Once per battle.",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "maxActivationsPerBattle": 1,
+                "action": {
+                    "type": "reviveWithHealthPercent",
+                    "percent": 100
+                }
+            }
+        ]
+    },
+    {
+        "id": "shared-care",
+        "name": "Shared Care",
+        "description": "When Healing an ally, also Heal self for 50% of that value",
+        "rules": [
+            {
+                "trigger": "onHealAlly",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 50,
+                    "source": "sharedHeal"
+                }
+            }
+        ]
+    },
+    {
+        "id": "shell-on-rush",
+        "name": "Shell On Rush",
+        "description": "Apply Shell on applying Rush",
+        "rules": [
+            {
+                "trigger": "onStatusApplied",
+                "condition": {
+                    "type": "statusApplied",
+                    "status": "Rush"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "shield-affinity",
+        "name": "Shield Affinity",
+        "description": "30% increased damage while having Shields, but receiving damage removes all Shields",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "hasResource",
+                    "resource": "shield",
+                    "min": 1
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.3
+                }
+            },
+            {
+                "trigger": "onDamageTaken",
+                "condition": {
+                    "type": "hasResource",
+                    "resource": "shield",
+                    "min": 1
+                },
+                "action": {
+                    "type": "removeAllShields"
+                }
+            }
+        ]
+    },
+    {
+        "id": "shielding-death",
+        "name": "Shielding Death",
+        "description": "On death, allies gain 3 Shield points",
+        "rules": [
+            {
+                "trigger": "onDeath",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "shield",
+                    "amount": 3,
+                    "target": "allAllies"
+                }
+            }
+        ]
+    },
+    {
+        "id": "shielding-tint",
+        "name": "Shielding Tint",
+        "description": "Healing Tints also add 2 Shields",
+        "rules": [
+            {
+                "trigger": "onHealTint",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "shield",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "shortcut",
+        "name": "Shortcut",
+        "description": "Immediately play when falling below 30% health. Once per battle.",
+        "rules": [
+            {
+                "trigger": "onHealthThreshold",
+                "condition": {
+                    "type": "healthBelowPercent",
+                    "percent": 30
+                },
+                "maxActivationsPerBattle": 1,
+                "action": {
+                    "type": "grantExtraTurn"
+                }
+            }
+        ]
+    },
+    {
+        "id": "slowing-attack",
+        "name": "Slowing Attack",
+        "description": "Base attack applies Slow for 1 turn.",
+        "rules": [
+            {
+                "trigger": "onBaseAttackHit",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Slow",
+                    "duration": 1,
+                    "target": "target"
+                }
+            }
+        ]
+    },
+    {
+        "id": "slowing-break",
+        "name": "Slowing Break",
+        "description": "Apply Slow on Break",
+        "rules": [
+            {
+                "trigger": "onBreak",
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Slow",
+                    "duration": 3,
+                    "target": "brokenEnemy"
+                }
+            }
+        ]
+    },
+    {
+        "id": "sniper",
+        "name": "Sniper",
+        "description": "First Free Aim shot each turn deals 200% increased damage and can Break",
+        "rules": [
+            {
+                "trigger": "onTurnStart",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "sniper_buff",
+                        "duration": 1,
+                        "damageMultiplierOnNext": {
+                            "condition": "any",
+                            "multiplier": 3.0
+                        },
+                        "nextFreeAimCanBreak": true
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "solidifying",
+        "name": "Solidifying",
+        "description": "Plus 2 Shields when character’s Health falls below 50%. Once per battle.",
+        "rules": [
+            {
+                "trigger": "onHealthThreshold",
+                "condition": {
+                    "type": "healthBelowPercent",
+                    "percent": 50
+                },
+                "maxActivationsPerBattle": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "shield",
+                    "amount": 2
+                }
+            }
+        ]
+    },
+    {
+        "id": "solo-fighter",
+        "name": "Solo Fighter",
+        "description": "Deal 50% more damage if fighting alone.",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "fightingAlone"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "sos-healing-tint",
+        "name": "SOS Healing Tint",
+        "description": "Consume a Healing Tint when falling below 50% Health.",
+        "rules": [
+            {
+                "trigger": "onHealthThreshold",
+                "condition": {
+                    "type": "healthBelowPercent",
+                    "percent": 50
+                },
+                "action": {
+                    "type": "consumeItem",
+                    "itemType": "healingTint"
+                }
+            }
+        ]
+    },
+    {
+        "id": "sos-power",
+        "name": "SOS Power",
+        "description": "Apply Powerful when falling below 50% Health.",
+        "rules": [
+            {
+                "trigger": "onHealthThreshold",
+                "condition": {
+                    "type": "healthBelowPercent",
+                    "percent": 50
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Powerful",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "sos-rush",
+        "name": "SOS Rush",
+        "description": "Apply Rush when falling below 50% Health",
+        "rules": [
+            {
+                "trigger": "onHealthThreshold",
+                "condition": {
+                    "type": "healthBelowPercent",
+                    "percent": 50
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Rush",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "sos-shell",
+        "name": "SOS Shell",
+        "description": "Apply Shell when falling below 50% health",
+        "rules": [
+            {
+                "trigger": "onHealthThreshold",
+                "condition": {
+                    "type": "healthBelowPercent",
+                    "percent": 50
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Shell",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "staggering-attack",
+        "name": "Staggering Attack",
+        "description": "50% increased Break damage on Base Attack",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "attackType",
+                    "value": "base"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "damageType": "break",
+                    "multiplier": 1.5
+                }
+            }
+        ]
+    },
+    {
+        "id": "stay-marked",
+        "name": "Stay Marked",
+        "description": "50% chance to apply Mark when attacking a Marked target",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Mark"
+                },
+                "chance": 0.5,
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Mark",
+                    "duration": 999,
+                    "target": "target"
+                }
+            }
+        ]
+    },
+    {
+        "id": "stun-boost",
+        "name": "Stun Boost",
+        "description": "30% increased damage on Stunned targets",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "targetHasStatus",
+                    "status": "Stun"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.3
+                }
+            }
+        ]
+    },
+    {
+        "id": "survivor",
+        "name": "Survivor",
+        "description": "Survive fatal damage with 1 Health. Once per battle.",
+        "rules": [
+            {
+                "trigger": "onFatalDamage",
+                "maxActivationsPerBattle": 1,
+                "action": {
+                    "type": "surviveWithOneHealth"
+                }
+            }
+        ]
+    },
+    {
+        "id": "sweet-kill",
+        "name": "Sweet Kill",
+        "description": "Recover 50% Health on killing an enemy.",
+        "rules": [
+            {
+                "trigger": "onKill",
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "health",
+                    "percent": 50
+                }
+            }
+        ]
+    },
+    {
+        "id": "tainted",
+        "name": "Tainted",
+        "description": "15% increased damage for each Status Effect on self.",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": {
+                        "perStatusEffect": 0.15
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "teamwork",
+        "name": "Teamwork",
+        "description": "10% increased damage while all allies are alive",
+        "rules": [
+            {
+                "trigger": "onDamageCalculation",
+                "condition": {
+                    "type": "allAlliesAlive"
+                },
+                "action": {
+                    "type": "modifyDamage",
+                    "multiplier": 1.1
+                }
+            }
+        ]
+    },
+    {
+        "id": "the-one",
+        "name": "The One",
+        "description": "Max Health is reduced to 1",
+        "rules": [
+            {
+                "trigger": "always",
+                "action": {
+                    "type": "setMaxHealth",
+                    "value": 1
+                }
+            }
+        ]
+    },
+    {
+        "id": "time-tint",
+        "name": "Time Tint",
+        "description": "Energy Tints also apply Rush",
+        "rules": [
+            {
+                "trigger": "onItemUse",
+                "condition": {
+                    "type": "itemType",
+                    "value": "energyTint"
+                },
+                "action": {
+                    "type": "applyStatus",
+                    "status": "Rush",
+                    "duration": 3,
+                    "target": "self"
+                }
+            }
+        ]
+    },
+    {
+        "id": "trigger-happy",
+        "name": "Trigger-Happy",
+        "description": "After shooting 10 times in same turn, gain +2 AP (once). Following Shots this turn deal 200% more damage.",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "action": {
+                    "type": "incrementCounter",
+                    "counterId": "trigger_happy_counter"
+                }
+            },
+            {
+                "trigger": "onCounterReaches",
+                "condition": {
+                    "type": "counterValue",
+                    "counterId": "trigger_happy_counter",
+                    "value": 10
+                },
+                "maxActivationsPerTurn": 1,
+                "action": [
+                    {
+                        "type": "modifyResource",
+                        "resource": "ap",
+                        "amount": 2
+                    },
+                    {
+                        "type": "applyBuff",
+                        "buff": {
+                            "id": "trigger_happy_boost",
+                            "duration": 1,
+                            "damageMultiplier": 3.0
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "versatile",
+        "name": "Versatile",
+        "description": "After a Free Aim hit, Base Attack damage is increased by 50% for 1 turn.",
+        "rules": [
+            {
+                "trigger": "onFreeAimShotHit",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "versatile_boost",
+                        "duration": 1,
+                        "damageMultiplierOnNext": {
+                            "condition": "any",
+                            "multiplier": 1.5
+                        },
+                        "attackType": "base"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "warming-up",
+        "name": "Warming Up",
+        "description": "5% increased damage per turn. Can stack up to 5 times.",
+        "rules": [
+            {
+                "trigger": "onTurnStart",
+                "action": {
+                    "type": "applyBuff",
+                    "buff": {
+                        "id": "warming_up_stack",
+                        "duration": 999,
+                        "maxStacks": 5,
+                        "damageMultiplierPerStack": 0.05
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "id": "weakness-gain",
+        "name": "Weakness Gain",
+        "description": "Plus 1 AP on hitting an enemy’s Weakness. Once per turn.",
+        "rules": [
+            {
+                "trigger": "onHit",
+                "condition": {
+                    "type": "targetHasWeakness"
+                },
+                "maxActivationsPerTurn": 1,
+                "action": {
+                    "type": "modifyResource",
+                    "resource": "ap",
+                    "amount": 1
+                }
+            }
+        ]
+    }
+]

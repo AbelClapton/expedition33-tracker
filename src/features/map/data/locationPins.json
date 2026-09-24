@@ -1,0 +1,554 @@
+[
+  {
+    "id": "location-14",
+    "name": "Abbest Cave",
+    "lat": -72.93254,
+    "lng": -25.55562,
+    "icon": "/images/locations/abbest-cave.png",
+    "note": "Recommended Level: 20-25+."
+  },
+  {
+    "id": "location-20",
+    "name": "Ancient Gestral City",
+    "lat": -73.7635,
+    "lng": -17.07089,
+    "icon": "/images/locations/ancient-gestral-city.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-6",
+    "name": "Ancient Sanctuary",
+    "lat": -71.03125,
+    "lng": -21.55571,
+    "icon": "/images/locations/ancient-sanctuary.png",
+    "note": "Recommended Level: 18+."
+  },
+  {
+    "id": "location-28",
+    "name": "Blades' Graveyard",
+    "lat": -50.09239,
+    "lng": -28.23378,
+    "icon": "/images/locations/blades-graveyard.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-30",
+    "name": "Boat Graveyard",
+    "lat": -43.38908,
+    "lng": 1.17217,
+    "icon": "/images/locations/boat-graveyard.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-116",
+    "name": "Coastal Cave",
+    "lat": -27.59372,
+    "lng": 6.70208,
+    "icon": "/images/locations/coastal-cave.png",
+    "note": "Recommended Level: 31+."
+  },
+  {
+    "id": "location-95",
+    "name": "Crimson Forest",
+    "lat": -56.68037,
+    "lng": -40.71807,
+    "icon": "/images/locations/crimson-forest.png",
+    "note": "Recommended Level: 61+."
+  },
+  {
+    "id": "location-27",
+    "name": "Crushing Cavern",
+    "lat": -64.99794,
+    "lng": -29.06482,
+    "icon": "/images/locations/crushing-cavern.png",
+    "note": "Recommended Level: 60+."
+  },
+  {
+    "id": "location-246",
+    "name": "Dark Gestral Arena",
+    "lat": -68.92681,
+    "lng": -30.64958,
+    "icon": "/images/locations/dark-gestral-arena.png",
+    "note": "Recommended Level: 75+."
+  },
+  {
+    "id": "location-19",
+    "name": "Dark Shores",
+    "lat": -76.50657,
+    "lng": -29.02667,
+    "icon": "/images/locations/dark-shores.png",
+    "note": "Recommended Level: 75-80+."
+  },
+  {
+    "id": "location-260",
+    "name": "Endless Night Sanctuary",
+    "lat": 2.06498,
+    "lng": 58.82917,
+    "icon": "/images/locations/endless-night-sanctuary.png",
+    "note": "Recommended Level: 80+."
+  },
+  {
+    "id": "location-94",
+    "name": "Endless Tower",
+    "lat": -61.43877,
+    "lng": -42.6521,
+    "icon": "/images/locations/endless-tower.png",
+    "note": "Recommended Level: 90+."
+  },
+  {
+    "id": "location-147",
+    "name": "Esoteric Ruins",
+    "lat": 0,
+    "lng": -44.40541,
+    "icon": "/images/locations/esoteric-ruins.png",
+    "note": "Recommended Level: 60+."
+  },
+  {
+    "id": "location-2",
+    "name": "Esquie's Nest",
+    "lat": -70.45151,
+    "lng": -14.56647,
+    "icon": "/images/locations/esquies-nest.png",
+    "note": "Recommended Level: 25+."
+  },
+  {
+    "id": "location-223",
+    "name": "Falling Leaves",
+    "lat": -36.45664,
+    "lng": -49.19943,
+    "icon": "/images/locations/falling-leaves.png",
+    "note": "Recommended Level: 65+."
+  },
+  {
+    "id": "location-248",
+    "name": "Floating Cemetery",
+    "lat": -29.64987,
+    "lng": -55.8786,
+    "icon": "/images/locations/floating-cemetery.png",
+    "note": "Recommended Level: 65+."
+  },
+  {
+    "id": "location-281",
+    "name": "Flying Casino",
+    "lat": -58.47072,
+    "lng": 2.40145,
+    "icon": "/images/locations/flying-casino.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-247",
+    "name": "Flying Manor",
+    "lat": -30.18312,
+    "lng": -32.4086,
+    "icon": "/images/locations/flying-manor.png",
+    "note": "Recommended Level: 95+."
+  },
+  {
+    "id": "location-13",
+    "name": "Flying Waters",
+    "lat": -72.50172,
+    "lng": -19.79751,
+    "icon": "/images/locations/flying-waters.png",
+    "note": "Recommended Level: 10+."
+  },
+  {
+    "id": "location-29",
+    "name": "Forgotten Battlefield",
+    "lat": -41.70573,
+    "lng": -16.84941,
+    "icon": "/images/locations/forgotten-battlefield.png",
+    "note": "Recommended Level: 35+."
+  },
+  {
+    "id": "location-110",
+    "name": "Forgotten Battlefield",
+    "lat": -35.60372,
+    "lng": -14.3478,
+    "icon": "/images/locations/forgotten-battlefield.png",
+    "note": "Recommended Level: 35+."
+  },
+  {
+    "id": "location-137",
+    "name": "Frozen Hearts",
+    "lat": -9.79568,
+    "lng": -5.42355,
+    "icon": "/images/locations/frozen-hearts.png",
+    "note": "Recommended Level: 70+."
+  },
+  {
+    "id": "location-17",
+    "name": "Gestral Beach",
+    "lat": -69.6418,
+    "lng": -31.8412,
+    "icon": "/images/locations/gestral-beach.png",
+    "note": "Recommended Level: Any. This Gestral Beach features a platforming mini-game. Complete it to receive a swimsuit outfit for Gustave and an extra two-piece swimsuit outfit for Lune after answering the young Gestral's question. You have to complete the obstacle course to reach the young Gestral."
+  },
+  {
+    "id": "location-35",
+    "name": "Gestral Beach",
+    "lat": -55.72711,
+    "lng": 7.1476,
+    "icon": "/images/locations/gestral-beach.png",
+    "note": "Recommended Level: Any. This Gestral Beach features the Beach Raft Volley mini-game. Complete the normal difficulty to unlock the one-piece swimsuit variation for Lune and beat the strongest difficulty to acquire the one-piece swimsuit variation for Sciel."
+  },
+  {
+    "id": "location-139",
+    "name": "Gestral Beach",
+    "lat": -21.00247,
+    "lng": -41.99343,
+    "icon": "/images/locations/gestral-beach.png",
+    "note": "Recommended Level: Any. This Gestral beach features the \"Only-up\" climbing mini-game. Simply climb and reach the top to obtain the bikini swimsuit outfit for Monoco."
+  },
+  {
+    "id": "location-252",
+    "name": "Gestral Beach",
+    "lat": 15.58071,
+    "lng": 30.13161,
+    "icon": "/images/locations/gestral-beach.png",
+    "note": "Recommended Level: Any. This Gestral Beach features a wall climbing mini-game. Simply avoid the orbs that fall from the top until you reach the pinnacle of the wall. Talk to the Grandis to obtain a swimsuit outfit for Maelle."
+  },
+  {
+    "id": "location-194",
+    "name": "Gestral Beach",
+    "lat": 39.90974,
+    "lng": 32.6322,
+    "icon": "/images/locations/gestral-beach.png",
+    "note": "Recommended Level: Any. This Gestral beach features a race-course mini-game. Complete the course in less time than what is indicated for each level, Bronze, Silver, and Gold. Gold: 1x Swimsuit Trunks variation for Verso. Silver: 1x Grandiose Chroma Catalyst. Bronze: 1x Respendent Chroma Catalyst."
+  },
+  {
+    "id": "location-5",
+    "name": "Gestral Village",
+    "lat": -69.86989,
+    "lng": -21.51185,
+    "icon": "/images/locations/gestral-village.png",
+    "note": "Recommended Level: 20+."
+  },
+  {
+    "id": "location-142",
+    "name": "Hidden Gestral Arena",
+    "lat": -69.56523,
+    "lng": -27.44203,
+    "icon": "/images/locations/dark-gestral-arena.png",
+    "note": "Recommended Level: 20-25+."
+  },
+  {
+    "id": "location-304",
+    "name": "Isle of the Eyes",
+    "lat": 47.5172,
+    "lng": -48.07474,
+    "icon": "/images/locations/isle-of-the-eyes.png",
+    "note": "Recommended Level: 75+."
+  },
+  {
+    "id": "location-39",
+    "name": "Lost Woods",
+    "lat": -66.37276,
+    "lng": -29.90177,
+    "icon": "/images/locations/lost-woods.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-24",
+    "name": "Lumiere",
+    "lat": -79.94359,
+    "lng": -8.28207,
+    "icon": "/images/locations/lumiere.png",
+    "note": "Recommended Level: 60-65+."
+  },
+  {
+    "id": "location-33",
+    "name": "Monoco's Station",
+    "lat": -19.89072,
+    "lng": -26.78302,
+    "icon": "/images/locations/monocos-station.png",
+    "note": "Recommended Level: 35+."
+  },
+  {
+    "id": "location-138",
+    "name": "Monoco's Station",
+    "lat": -16.97274,
+    "lng": -29.42228,
+    "icon": "/images/locations/monocos-station.png",
+    "note": "Recommended Level: 35+."
+  },
+  {
+    "id": "location-72",
+    "name": "Monoco's Station",
+    "lat": -16.21467,
+    "lng": -25.42053,
+    "icon": "/images/locations/monocos-station.png",
+    "note": "Recommended Level: 35+."
+  },
+  {
+    "id": "location-140",
+    "name": "Old Lumiere",
+    "lat": -2.63579,
+    "lng": -37.94956,
+    "icon": "/images/locations/old-lumiere.png",
+    "note": "Recommended Level: 40+."
+  },
+  {
+    "id": "location-169",
+    "name": "Old Lumiere",
+    "lat": 6.84601,
+    "lng": -36.41601,
+    "icon": "/images/locations/old-lumiere.png",
+    "note": "Recommended Level: 40+."
+  },
+  {
+    "id": "location-34",
+    "name": "Painting Workshop",
+    "lat": -56.14555,
+    "lng": -7.18176,
+    "icon": "/images/locations/the-canvas.png",
+    "note": "Recommended Level: 95+."
+  },
+  {
+    "id": "location-32",
+    "name": "Painting Workshop",
+    "lat": -30.25907,
+    "lng": -23.66221,
+    "icon": "/images/locations/the-canvas.png",
+    "note": "Recommended Level: 95+."
+  },
+  {
+    "id": "location-195",
+    "name": "Painting Workshop",
+    "lat": 46.61926,
+    "lng": 31.48937,
+    "icon": "/images/locations/the-canvas.png",
+    "note": "Recommended Level: 95+."
+  },
+  {
+    "id": "location-10",
+    "name": "Red Woods",
+    "lat": -71.58053,
+    "lng": -30.3893,
+    "icon": "/images/locations/red-woods.png",
+    "note": "Recommended Level: 40+."
+  },
+  {
+    "id": "location-297",
+    "name": "Renoir's Drafts",
+    "lat": 30.33495,
+    "lng": -28.21167,
+    "icon": "/images/locations/renoirs-drafts.png",
+    "note": "Recommended Level: 80+."
+  },
+  {
+    "id": "location-157",
+    "name": "Sacred River",
+    "lat": -5.13471,
+    "lng": -24.89344,
+    "icon": "/images/locations/sacred-river.png",
+    "note": "Recommended Level: 70+."
+  },
+  {
+    "id": "location-201",
+    "name": "Sinister Cave",
+    "lat": 37.43997,
+    "lng": 63.43714,
+    "icon": "/images/locations/sinister-cave.png",
+    "note": "Recommended Level: 75+."
+  },
+  {
+    "id": "location-180",
+    "name": "Sirene",
+    "lat": 41.70573,
+    "lng": -5.11428,
+    "icon": "/images/locations/sirene.png",
+    "note": "Recommended Level: 50+."
+  },
+  {
+    "id": "location-251",
+    "name": "Sirene's Dress",
+    "lat": 45.92059,
+    "lng": 14.96754,
+    "icon": "/images/locations/sirenes-dress.png",
+    "note": "Recommended Level: 60+."
+  },
+  {
+    "id": "location-279",
+    "name": "Sky Island",
+    "lat": -30.48655,
+    "lng": 17.07893,
+    "icon": "/images/locations/sky-island.png",
+    "note": "Recommended Level: 75+."
+  },
+  {
+    "id": "location-15",
+    "name": "Spring Meadows",
+    "lat": -74.06787,
+    "lng": -23.7541,
+    "icon": "/images/locations/spring-meadows.png",
+    "note": "Recommended Level: 1-5."
+  },
+  {
+    "id": "location-31",
+    "name": "Stone Quarry",
+    "lat": -33.46811,
+    "lng": -9.99242,
+    "icon": "/images/locations/stone-quarry.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-18",
+    "name": "Stone Wave Cliffs",
+    "lat": -65.82078,
+    "lng": -15.35804,
+    "icon": "/images/locations/stone-wave-cliffs.png",
+    "note": "Recommended Level: 30+."
+  },
+  {
+    "id": "location-23",
+    "name": "Stone Wave Cliffs Cave",
+    "lat": -66.87835,
+    "lng": 3.01558,
+    "icon": "/images/locations/stone-wave-cliffs-cave.png",
+    "note": "Recommended Level: 30+."
+  },
+  {
+    "id": "location-296",
+    "name": "Sunless Cliffs",
+    "lat": 22.43134,
+    "lng": 9.09862,
+    "icon": "/images/locations/sunless-cliffs.png",
+    "note": "Recommended Level: 90+."
+  },
+  {
+    "id": "location-204",
+    "name": "The Canvas",
+    "lat": 57.63364,
+    "lng": -36.76131,
+    "icon": "/images/locations/the-canvas.png",
+    "note": "Recommended Level: Any."
+  },
+  {
+    "id": "location-135",
+    "name": "The Carousel",
+    "lat": -7.31888,
+    "lng": -16.41232,
+    "icon": "/images/locations/the-carousel.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-158",
+    "name": "The Chosen Path",
+    "lat": 1.84538,
+    "lng": -12.80579,
+    "icon": "/images/locations/the-chosen-path.png",
+    "note": "Recommended Level: 75+."
+  },
+  {
+    "id": "location-174",
+    "name": "The Crows",
+    "lat": 35.24562,
+    "lng": -67.308,
+    "icon": "/images/locations/the-crows.png",
+    "note": "Recommended Level: 73+."
+  },
+  {
+    "id": "location-245",
+    "name": "The Fountain",
+    "lat": -72.99691,
+    "lng": -41.72504,
+    "icon": "/images/locations/the-fountain.png",
+    "note": "Recommended Level: 75+."
+  },
+  {
+    "id": "location-322",
+    "name": "The Manor",
+    "lat": -72.97119,
+    "lng": 19.18672,
+    "icon": "/images/locations/the-manor.png",
+    "note": "A door that leads to a dressing room of The Manor. Requires Esquie to acquire his ability to fly to reach it. Essquie's ability to fly is unlocked through story progression."
+  },
+  {
+    "id": "location-320",
+    "name": "The Manor",
+    "lat": -56.53526,
+    "lng": -28.93513,
+    "icon": "/images/locations/the-manor.png",
+    "note": "A door that leads to the library of The Manor. Requires Esquie to acquire his ability to swim, which is unlocked through story progression."
+  },
+  {
+    "id": "location-21",
+    "name": "The Meadows",
+    "lat": -72.72496,
+    "lng": -7.53263,
+    "icon": "/images/locations/the-meadows.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-319",
+    "name": "The Monolith",
+    "lat": 69.24058,
+    "lng": -17.20905,
+    "icon": "/images/locations/the-monolith.png",
+    "note": "Recommended Level: 55+."
+  },
+  {
+    "id": "location-321",
+    "name": "The Reacher",
+    "lat": 40.84706,
+    "lng": -68.85084,
+    "icon": "/images/locations/the-reacher.png",
+    "note": "Recommended Level: 73+."
+  },
+  {
+    "id": "location-16",
+    "name": "The Small Bourgeon",
+    "lat": -71.81513,
+    "lng": -25.7754,
+    "icon": "/images/locations/the-small-bourgeon.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-22",
+    "name": "Twilight Quarry",
+    "lat": -72.3691,
+    "lng": -15.70828,
+    "icon": "/images/locations/twilight-quarry.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-378",
+    "name": "Verso's Drafts",
+    "lat": -81.18123,
+    "lng": 11.97882,
+    "icon": "/images/locations/versos-drafts.png",
+    "note": "Verso's Drafts is only accessible from Act III and requires Esquie 's Underwater Diving ability to enter the location. Verso's Drafts is a new location added in the free DLC, Thank You Update."
+  },
+  {
+    "id": "location-179",
+    "name": "Visages",
+    "lat": 36.73888,
+    "lng": -39.2596,
+    "icon": "/images/locations/isle-of-the-eyes.png",
+    "note": "Recommended Level: 45+."
+  },
+  {
+    "id": "location-295",
+    "name": "White Sands",
+    "lat": -42.19597,
+    "lng": 31.77251,
+    "icon": "/images/locations/white-sands.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-25",
+    "name": "White Tree",
+    "lat": -67.10166,
+    "lng": -37.76792,
+    "icon": "/images/locations/white-tree.png",
+    "note": "Recommended Level: N/A."
+  },
+  {
+    "id": "location-26",
+    "name": "Yellow Harvest",
+    "lat": -68.1061,
+    "lng": -27.6143,
+    "icon": "/images/locations/yellow-harvest.png",
+    "note": "Recommended Level: 40+."
+  }
+]
